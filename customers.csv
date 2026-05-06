@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone_number,user_name,age,city,country,latitude,longitude,postal_code,timezone
+5c281755-15f8-4bb9-9994-e77a546ee27b,Anna,Nagy,anna.nagy@yahoo.com,(06)32/181-9600,anagy,23,Cegléd,HU,47.3495,19.8347,H-1845,Europe/Budapest
+695bd2a6-18b5-4c02-a765-c0c27452e9c8,Péter,Balogh,peter.balogh@gmail.com,38/637 9402,pbalogh,62,Nagykanizsa,HU,46.6833,17.6356,H-3408,Europe/Budapest
+8f503d82-9ec9-4e35-9895-355a6f724329,Richárd,Horváth,richard.horvath@hotmail.com,06-51/161 5594,rhorvath,69,Esztergom,HU,47.7536,18.7997,H-7096,Europe/Budapest
+1aa3d842-8664-4364-8b76-ee5539b526e8,István,Németh,istvan.nemeth@gmail.com,18/495-9310,inemeth,60,Kaposvár,HU,46.3590,17.7956,H-3533,Europe/Budapest
+b1928dfb-52c5-4ada-8194-e70b90fd1f66,Tamás,Horváth,tamas.horvath@gmail.com,06-31/647 5255,thorvath,31,Veszprém,HU,47.0833,17.9167,H-1109,Europe/Budapest
+ba9f1eb3-ed53-44b0-a643-a1f33366aa6f,Judit,Fodor,judit.fodor@indamail.hu,06-1/928 3276,jfodor,35,Cegléd,HU,47.3495,19.8347,H-4191,Europe/Budapest
+9a9bfe34-2624-47aa-bf3e-5ee207476017,Henrietta,Török,henrietta.torok@citromail.hu,(06)50/305-6413,htorok,76,Miskolc,HU,48.1117,20.7906,H-5009,Europe/Budapest
+8fe6d39b-4a14-459b-86b4-fc3a2b45f5e4,Annamária,Bognár,annamaria.bognar@yahoo.com,(06)76/724-2388,abognar,34,Eger,HU,48.0000,20.7833,H-9129,Europe/Budapest
+9c267f14-502f-41e4-ac5f-15fe7f755bb3,Eszter,Molnár,eszter.molnar@citromail.hu,53/287-1012,emolnar,58,Kecskemét,HU,46.8964,19.6897,H-2922,Europe/Budapest
+835b5302-9f7f-4745-b022-72f1d5c6bf5d,Gábor,Szűcs,gabor.szucs@citromail.hu,+36 66 978-4801,gszucs,61,Esztergom,HU,47.7536,18.7997,H-9741,Europe/Budapest
+05578359-cbb5-449d-b5f2-c264f83e8d81,Beáta,László,beata.laszlo@mailbox.hu,06-5/146 2704,blaszlo,80,Miskolc,HU,47.9025,19.6197,H-5925,Europe/Budapest
+7a586858-1fee-4ef6-af36-9718cf39162d,Mária,Tóth,maria.toth@gmail.com,06-48/932 5288,mtoth,76,Pécs,HU,46.0727,18.2323,H-4450,Europe/Budapest
+c4946352-001e-46f2-980c-6670ae1a1ffc,László,Varga,laszlo.varga@gmail.com,+36 54 303-9117,lvarga,70,Szeged,HU,46.2530,20.1414,H-7642,Europe/Budapest
+9dfe4faf-e63e-4e85-a519-1cbc35a0e0a3,József,Katona,jozsef.katona@mailbox.hu,(06)27/824-8963,jkatona,77,Kecskemét,HU,46.8964,19.6897,H-4869,Europe/Budapest
+64d4d904-59d6-4b4d-a54c-640a525b5220,Erzsébet,Lukács,erzsebet.lukacs@hotmail.com,06-4/657 8713,elukacs,32,Nagykanizsa,HU,46.6833,17.6356,H-7648,Europe/Budapest
+ba568abb-98f1-4a48-b471-67c2c61b4691,József,Nagy,jozsef.nagy@citromail.hu,(06)93/010-3105,jnagy,22,Debrecen,HU,47.5316,21.6273,H-2051,Europe/Budapest
+6fb91a8a-94ad-40f7-a772-6f4843793591,Mária,Horváth,maria.horvath@freemail.hu,(06)82/997-3763,mhorvath,24,Miskolc,HU,48.1117,20.7906,H-3927,Europe/Budapest
+a92c6234-25d7-4739-8b3b-aa59f5377810,János,Molnár,janos.molnar@freemail.hu,70/106-5133,jmolnar,30,Szeged,HU,46.2530,20.1414,H-5306,Europe/Budapest
+b3d330e5-fd2b-44a7-b314-2a095c4e3479,Mária,Tóth,maria.toth@hotmail.com,(73)/178-1080,mtoth2,80,Kecskemét,HU,46.8964,19.6897,H-8798,Europe/Budapest
+1c3236c8-4e35-431f-bf89-b409362a0f50,János,László,janos.laszlo@hotmail.com,(06)67/736-0260,jlaszlo,42,Győr,HU,47.6875,17.6504,H-7778,Europe/Budapest
+1b15ad99-1a3c-43a1-b3de-5589af47dac7,András,Boros,andras.boros@freemail.hu,(68)/723-4309,aboros,65,Debrecen,HU,47.5316,21.6273,H-1708,Europe/Budapest
+e60ac7e0-64ef-4d32-8fd6-f5036a96a5e5,Erzsébet,Király,erzsebet.kiraly@gmail.com,+36 97 882-0812,ekiraly,22,Cegléd,HU,47.3495,19.8347,H-3408,Europe/Budapest
+a7d592c4-9f77-4e37-867f-273d5f94e627,Éva,Szűcs,eva.szucs@hotmail.com,19/399-0916,eszucs,60,Eger,HU,48.0000,20.7833,H-4513,Europe/Budapest
+20c7d907-1858-4804-b496-48f49da49f07,Katalin,Papp,katalin.papp@yahoo.com,(06)53/462-4751,kpapp,18,Győr,HU,47.6875,17.6504,H-2579,Europe/Budapest
+d45cb7ed-9a74-4503-aca5-eb9d394d2074,Jenő,Sárközi,jeno.sarkozi@gmail.com,+36 83 842-5135,jsarkozi,36,Szeged,HU,46.2530,20.1414,H-1823,Europe/Budapest
+f75abdc8-46ea-4d38-b034-be7690c49baf,Gábor,Hegedűs,gabor.hegedus@indamail.hu,(98)/084-1241,ghegedus,74,Miskolc,HU,48.1117,20.7906,H-7616,Europe/Budapest
+2bcfae31-4ee7-4614-af0a-c3fdfb90a55e,János,Juhász,janos.juhasz@yahoo.com,(93)/534-8740,jjuhasz,23,Kaposvár,HU,46.3590,17.7956,H-3017,Europe/Budapest
+3826609b-f33b-4b9c-910d-f5ed994b1c17,Anna,Vincze,anna.vincze@gmail.com,+36 52 427-8680,avincze,25,Nagykanizsa,HU,46.6833,17.6356,H-3951,Europe/Budapest
+5020711b-d6fb-410b-a672-3bb1a7929cfe,József,Fábián,jozsef.fabian@hotmail.com,05/982 6204,jfabian,41,Kaposvár,HU,46.3590,17.7956,H-3660,Europe/Budapest
+e1d0889b-cbdf-4302-a168-7795cc7c325f,Enikő,Kelemen,eniko.kelemen@mailbox.hu,+36 53 315-8692,ekelemen,77,Sopron,HU,47.6817,16.5845,H-9696,Europe/Budapest
+71e46ad6-1553-4ada-b792-651f12452139,Noémi,Vass,noemi.vass@mailbox.hu,06-26/025 6342,nvass,68,Miskolc,HU,48.1117,20.7906,H-2108,Europe/Budapest
+c0ca68d1-fc2c-491f-b6eb-2dd8c56e11e9,Ildikó,Kiss,ildiko.kiss@gmail.com,06-73/375 4330,ikiss,60,Pécs,HU,46.0727,18.2323,H-1390,Europe/Budapest
+051ce8de-4321-4a91-9fd4-372d0f094b03,Attila,Varga,attila.varga@mailbox.hu,+36 45 868-5014,avarga,29,Cegléd,HU,47.3495,19.8347,H-3767,Europe/Budapest
+7375a1dd-4749-4511-8e35-f227f26d0e09,Katalin,Péter,katalin.peter@gmail.com,+36 96 556-9816,kpeter,75,Győr,HU,47.6875,17.6504,H-7086,Europe/Budapest
+88ce4d96-b7c7-4914-b834-85afed11e8f1,Katalin,Szabó,katalin.szabo@indamail.hu,08/835-6159,kszabo,38,Győr,HU,47.6875,17.6504,H-4399,Europe/Budapest
+f77299c9-5805-4c6a-b871-efb6a44d13c0,Margit,Kovács,margit.kovacs@yahoo.com,46/564 8236,mkovacs,60,Kaposvár,HU,46.3590,17.7956,H-6066,Europe/Budapest
+9d204374-9b4e-4346-baee-d587bcfa735b,Borbála,Szűcs,borbala.szucs@hotmail.com,94/680 4436,bszucs,68,Cegléd,HU,47.3495,19.8347,H-7760,Europe/Budapest
+da593651-620f-464d-8929-8bf4bb1a47d9,Katalin,Balázs,katalin.balazs@freemail.hu,73/872-1489,kbalazs,39,Miskolc,HU,48.1117,20.7906,H-6508,Europe/Budapest
+53d7f6d8-1f29-4f42-8b5a-51d2720613f8,János,Novák,janos.novak@hotmail.com,06-4/332 0037,jnovak,57,Kaposvár,HU,46.3590,17.7956,H-1050,Europe/Budapest
+e7e7405b-c11c-4ee3-b350-b3e9263b153f,Alexandra,Kovács,alexandra.kovacs@freemail.hu,06-9/367 6320,akovacs,75,Kaposvár,HU,46.3590,17.7956,H-1830,Europe/Budapest
+9237459e-b58b-4b8f-849c-aa4480c0dbaa,Eszter,Bogdán,eszter.bogdan@gmail.com,06-63/287 0831,ebogdan,47,Veszprém,HU,47.0833,17.9167,H-3509,Europe/Budapest
+07b3e40d-3d5c-4531-a5e5-4f56e1fa1f80,Zoltán,Farkas,zoltan.farkas@citromail.hu,95/798 6872,zfarkas,65,Miskolc,HU,48.1117,20.7906,H-9055,Europe/Budapest
+6779bd00-1d8a-4dda-ae06-8b1fc0245cb4,Csilla,Németh,csilla.nemeth@mailbox.hu,(06)48/734-7143,cnemeth,35,Sopron,HU,47.6817,16.5845,H-7441,Europe/Budapest
+8872c910-8c0a-491b-b049-2b9b08486fe6,Róbert,Szücs,robert.szucs@gmail.com,(06)23/623-1665,rszucs,52,Eger,HU,48.0000,20.7833,H-5124,Europe/Budapest
+f1c0fa47-c9b3-4afd-b413-921e1ab4f73f,Mátyás,Nagy,matyas.nagy@mailbox.hu,69/096-7054,mnagy,66,Győr,HU,47.6875,17.6504,H-7160,Europe/Budapest
+ab58ec44-5db7-4bee-95d8-eb9a91113202,Bence,Bodnár,bence.bodnar@mailbox.hu,88/937-3467,bbodnar,19,Miskolc,HU,47.9025,19.6197,H-1299,Europe/Budapest
+a30f3922-808c-4c9b-83d2-bcafbebf73f4,Bence,Kis,bence.kis@mailbox.hu,27/298-0699,bkis,60,Eger,HU,48.0000,20.7833,H-1761,Europe/Budapest
+7fe7559e-6c69-44df-8696-096ff45e7119,László,Török,laszlo.torok@hotmail.com,06-72/046 5375,ltorok,39,Eger,HU,48.0000,20.7833,H-2814,Europe/Budapest
+058ef4eb-800c-4ad4-a7a4-e705265c6077,Magdolna,Kiss,magdolna.kiss@mailbox.hu,06-64/170 8053,mkiss,59,Eger,HU,48.0000,20.7833,H-9367,Europe/Budapest
+2d2303da-5364-49ff-8295-5956579697f3,József,Tamás,jozsef.tamas@gmail.com,06-03/309 2327,jtamas,60,Esztergom,HU,47.7536,18.7997,H-5903,Europe/Budapest
+1e150dc8-0392-4a62-a09a-92ca98cd6613,János,Barna,janos.barna@freemail.hu,06-4/529 9124,jbarna,24,Szeged,HU,46.2530,20.1414,H-2774,Europe/Budapest
+e885bc8a-359b-4ead-b6e5-869f727b066c,Katalin,Bakos,katalin.bakos@citromail.hu,06-6/631 9314,kbakos,72,Eger,HU,48.0000,20.7833,H-2176,Europe/Budapest
+a2970f8a-ce91-4b6f-9254-b9ec0bc461ab,Ágnes,Antal,agnes.antal@mailbox.hu,05/865 1850,aantal,72,Kecskemét,HU,46.8964,19.6897,H-6500,Europe/Budapest
+ae8db17e-fd7d-4f89-b176-1ff9a252fafa,Márk,Balogh,mark.balogh@freemail.hu,(72)/628-4987,mbalogh,47,Pécs,HU,46.0727,18.2323,H-4753,Europe/Budapest
+125c3c10-4e3d-45a5-9417-1b01f2c2d727,Viktor,Lukács,viktor.lukacs@yahoo.com,(31)/473-7996,vlukacs,39,Cegléd,HU,47.3495,19.8347,H-2575,Europe/Budapest
+1f758cb6-982f-4ac7-9fe3-07554a5efd39,László,Bálint,laszlo.balint@hotmail.com,35/454-9480,lbalint,51,Kaposvár,HU,46.3590,17.7956,H-3295,Europe/Budapest
+0b87d3bf-7587-418d-b411-c028b7044dfd,Nikoletta,Kovács,nikoletta.kovacs@indamail.hu,78/377-7014,nkovacs,32,Budapest,HU,47.4979,19.0402,H-9386,Europe/Budapest
+a2b55669-f819-4b29-a502-3fa22fbb52c6,Roland,Szabó,roland.szabo@indamail.hu,57/885 6855,rszabo,62,Budapest,HU,47.4979,19.0402,H-4903,Europe/Budapest
+2a8239a1-5346-4e49-99b2-f88f4db1559b,Patrik,Horváth,patrik.horvath@hotmail.com,+36 35 182-3374,phorvath,64,Veszprém,HU,47.0833,17.9167,H-8486,Europe/Budapest
+05a539c6-85de-4d12-a7a3-44586aae940b,Éva,Katona,eva.katona@citromail.hu,(13)/435-2408,ekatona,26,Kecskemét,HU,46.8964,19.6897,H-6675,Europe/Budapest
+31ed358f-6fa4-4925-9338-aa10ab9cfa52,Csaba,Kerekes,csaba.kerekes@citromail.hu,(27)/109-4777,ckerekes,39,Nagykanizsa,HU,46.6833,17.6356,H-4515,Europe/Budapest
+8621d4e8-4490-413f-8bba-7a0506b27aac,Ferenc,Nagy,ferenc.nagy@mailbox.hu,11/671-9022,fnagy,69,Győr,HU,47.6875,17.6504,H-5743,Europe/Budapest
+0b86c90d-4194-4821-bd5f-1dc0d34616c8,Erzsébet,Horváth,erzsebet.horvath@hotmail.com,+36 86 999-3867,ehorvath,76,Eger,HU,48.0000,20.7833,H-3708,Europe/Budapest
+94781490-adbd-4193-9cf3-9d1eaeb61abb,Márton,Illés,marton.illes@freemail.hu,(99)/091-3341,milles,28,Debrecen,HU,47.5316,21.6273,H-3078,Europe/Budapest
+65fa1613-9645-4b8e-aac1-6486292bbfb8,Zsolt,Juhász,zsolt.juhasz@hotmail.com,+36 67 974-0344,zjuhasz,62,Budapest,HU,47.4979,19.0402,H-1378,Europe/Budapest
+96665ac6-3270-41ac-a7d3-eaadee2c0808,Csilla,Kovács,csilla.kovacs@hotmail.com,(93)/618-3242,ckovacs,22,Debrecen,HU,47.5316,21.6273,H-1103,Europe/Budapest
+6178f391-03ea-4e49-828d-722b8081c080,István,Fazekas,istvan.fazekas@citromail.hu,06-9/471 7464,ifazekas,50,Kaposvár,HU,46.3590,17.7956,H-3082,Europe/Budapest
+f8b7fe61-ddfc-4cde-9141-1be64c6184c1,Erzsébet,Németh,erzsebet.nemeth@citromail.hu,+36 65 940-1399,enemeth,78,Nagykanizsa,HU,46.6833,17.6356,H-4416,Europe/Budapest
+e71a9be9-2e63-4bfe-8f97-b283f9deef01,László,Jakab,laszlo.jakab@mailbox.hu,(90)/278-7429,ljakab,45,Budapest,HU,47.4979,19.0402,H-1975,Europe/Budapest
+1c267cd9-f90a-4cbe-a371-fbcd3efe1a2b,Anna,Balogh,anna.balogh@gmail.com,56/551-2567,abalogh,36,Kecskemét,HU,46.8964,19.6897,H-9851,Europe/Budapest
+1b890812-d68c-4de9-9cdf-ff22ff208204,Margit,Kiss,margit.kiss@mailbox.hu,07/154 5168,mkiss2,70,Sopron,HU,47.6817,16.5845,H-7619,Europe/Budapest
+34d7148f-4d8c-4304-a195-80c94b4e3ff7,Diána,Balázs,diana.balazs@citromail.hu,60/385-9770,dbalazs,31,Budapest,HU,47.4979,19.0402,H-8644,Europe/Budapest
+ae5e3606-fce6-4af6-b163-dd69003d3865,András,Kovács,andras.kovacs@yahoo.com,71/093-2480,akovacs2,53,Pécs,HU,46.0727,18.2323,H-1439,Europe/Budapest
+506b97e9-5874-4bf8-baff-85fdaed301b7,Szabolcs,Szabó,szabolcs.szabo@mailbox.hu,+36 71 274-8467,sszabo,80,Pécs,HU,46.0727,18.2323,H-7162,Europe/Budapest
+23ca6faf-4c41-4ba7-acb4-86d26136a9e5,Dezső,Németh,dezso.nemeth@hotmail.com,39/821-4658,dnemeth,35,Szeged,HU,46.2530,20.1414,H-3772,Europe/Budapest
+daa46a7e-13eb-492c-b1c5-9bd99b433ae6,Piroska,Horváth,piroska.horvath@yahoo.com,06-99/727 8755,phorvath2,53,Veszprém,HU,47.0833,17.9167,H-2054,Europe/Budapest
+d290e6e4-aaa4-4a1e-8289-f5e05ceb4f32,Magdolna,Kiss,magdolna.kiss@yahoo.com,06-33/963 6057,mkiss3,63,Miskolc,HU,48.1117,20.7906,H-1260,Europe/Budapest
+58c30a01-e8f6-4692-a618-9a048b14195e,Hajnalka,Kiss,hajnalka.kiss@indamail.hu,06-27/028 9517,hkiss,24,Cegléd,HU,47.3495,19.8347,H-3846,Europe/Budapest
+0e683aaf-b5e4-4761-a6b4-3c644f322c20,Mária,Németh,maria.nemeth@indamail.hu,(06)62/174-5961,mnemeth,72,Miskolc,HU,47.9025,19.6197,H-6921,Europe/Budapest
+826ba28f-a390-4da6-88f4-c20745fa91c9,Mihály,Kis,mihaly.kis@citromail.hu,57/809-1343,mkis,65,Cegléd,HU,47.3495,19.8347,H-9956,Europe/Budapest
+be1de126-1527-4a15-9348-2610d76942a7,József,Borbély,jozsef.borbely@mailbox.hu,06-1/724 0050,jborbely,36,Esztergom,HU,47.7536,18.7997,H-9649,Europe/Budapest
+2d785686-ff05-4f42-9272-79a785cf6678,Ádám,Molnár,adam.molnar@hotmail.com,69/222 1969,amolnar,61,Eger,HU,48.0000,20.7833,H-4397,Europe/Budapest
+ea65c381-c987-46fb-9d64-9f8001ec0a08,Zsolt,Székely,zsolt.szekely@hotmail.com,(06)74/740-7482,zszekely,22,Pécs,HU,46.0727,18.2323,H-6391,Europe/Budapest
+3a557d38-e2a5-45f8-817e-37343d5d48f6,Márton,Varga,marton.varga@citromail.hu,(64)/743-6713,mvarga,42,Esztergom,HU,47.7536,18.7997,H-1238,Europe/Budapest
+1fbbbf85-37bd-47e3-9e80-37ec32dd55f2,Katalin,Mészáros,katalin.meszaros@indamail.hu,(06)/409-0974,kmeszaros,67,Pécs,HU,46.0727,18.2323,H-9761,Europe/Budapest
+9c6aae89-6af7-4539-a8c5-9fd1d9a9215e,Anikó,Rácz,aniko.racz@yahoo.com,(06)39/421-0470,aracz,55,Miskolc,HU,48.1117,20.7906,H-5443,Europe/Budapest
+727e709e-30e1-4f6c-998c-94e0adae23f9,Béla,Kovács,bela.kovacs@yahoo.com,(62)/328-5884,bkovacs,71,Cegléd,HU,47.3495,19.8347,H-4736,Europe/Budapest
+50653472-a45d-4c8d-9443-866451865cd0,Gábor,Székely,gabor.szekely@freemail.hu,06-45/171 2368,gszekely,41,Miskolc,HU,48.1117,20.7906,H-1908,Europe/Budapest
+78938c10-eacb-4a09-8600-6653fd0b2c41,József,Kiss,jozsef.kiss@yahoo.com,17/549 6513,jkiss,48,Miskolc,HU,47.9025,19.6197,H-8537,Europe/Budapest
+7b2146c9-3b4c-4f6c-81e0-a55f39afce73,László,Lengyel,laszlo.lengyel@citromail.hu,(93)/174-6120,llengyel,78,Eger,HU,48.0000,20.7833,H-5763,Europe/Budapest
+e35292e0-6ce8-4e19-a909-6b77ed789ac1,István,Márton,istvan.marton@gmail.com,+36 38 267-5869,imarton,65,Debrecen,HU,47.5316,21.6273,H-9342,Europe/Budapest
+b199bc8c-7c8a-4491-82b7-18950ae43f07,Erika,Lengyel,erika.lengyel@indamail.hu,+36 79 640-5377,elengyel,78,Cegléd,HU,47.3495,19.8347,H-1024,Europe/Budapest
+7fb8d9a0-c0e0-4534-a3ba-b8bbea9724bd,Tamás,Kiss,tamas.kiss@indamail.hu,(85)/064-3171,tkiss,60,Sopron,HU,47.6817,16.5845,H-3785,Europe/Budapest
+0ac1fa94-18de-4f57-949a-8d22997d056f,Péter,Török,peter.torok@gmail.com,+36 53 293-1839,ptorok,31,Szeged,HU,46.2530,20.1414,H-4461,Europe/Budapest
+60a222d5-766b-4e37-a9db-0ef691a76455,Tímea,Szabó,timea.szabo@mailbox.hu,(06)90/422-8421,tszabo,60,Miskolc,HU,47.9025,19.6197,H-2216,Europe/Budapest
+28b6d6fc-b737-43e1-bcc8-ad36c8f6b1c3,Melinda,Kovács,melinda.kovacs@yahoo.com,06-39/502 4026,mkovacs2,51,Kecskemét,HU,46.8964,19.6897,H-7089,Europe/Budapest
+787a30d0-654a-41cf-abc8-d916cbef2a04,János,Nagy,janos.nagy@freemail.hu,06-58/917 8390,jnagy2,64,Veszprém,HU,47.0833,17.9167,H-1106,Europe/Budapest
+53c42418-0710-4a9b-b77f-fe5aa365f597,Szilvia,Szőke,szilvia.szoke@citromail.hu,(70)/076-6177,sszoke,22,Sopron,HU,47.6817,16.5845,H-7589,Europe/Budapest
+607a6c87-0792-46d5-af02-e5c642e416e8,Enikő,Varga,eniko.varga@hotmail.com,+36 24 998-5698,evarga,36,Kecskemét,HU,46.8964,19.6897,H-9242,Europe/Budapest
+48e8bc9d-b9ec-4698-a559-04589cf10752,Patrik,Simon,patrik.simon@gmail.com,06-18/367 3657,psimon,43,Cegléd,HU,47.3495,19.8347,H-6658,Europe/Budapest
+31fbadda-212c-484b-b3b9-ca038a936491,Levente,Kovács,levente.kovacs@freemail.hu,(45)/271-1116,lkovacs,24,Szeged,HU,46.2530,20.1414,H-4854,Europe/Budapest
+1307761f-75bd-40b5-b450-9d7e8ddd27c1,Irén,Kiss,iren.kiss@hotmail.com,09/885 1656,ikiss2,73,Cegléd,HU,47.3495,19.8347,H-1445,Europe/Budapest
+dbe6e96a-dff7-4d96-b5a6-2e8e73a56222,Gyöngyi,Nagy,gyongyi.nagy@yahoo.com,45/198 3273,gnagy,72,Budapest,HU,47.4979,19.0402,H-4986,Europe/Budapest
+63df643b-2db9-44fe-bd97-a2ba8609a964,János,Pap,janos.pap@yahoo.com,+36 49 368-9980,jpap,56,Győr,HU,47.6875,17.6504,H-9346,Europe/Budapest
+0d5b4565-fa1c-4ced-9f2e-67f759e07f13,Jolán,Vincze,jolan.vincze@yahoo.com,+36 24 455-0229,jvincze,60,Veszprém,HU,47.0833,17.9167,H-1814,Europe/Budapest
+42540b16-919e-4e31-a736-d804d3ada73c,Gergő,Tóth,gergo.toth@indamail.hu,+36 18 366-7525,gtoth,37,Pécs,HU,46.0727,18.2323,H-9602,Europe/Budapest
+91874c69-15ee-4c16-8005-3505a25cab7e,Erika,Balog,erika.balog@citromail.hu,10/229 0147,ebalog,60,Eger,HU,48.0000,20.7833,H-7532,Europe/Budapest
+06aa6a79-97d9-4c92-999e-94cfb984f628,Richárd,Rácz,richard.racz@freemail.hu,(38)/156-1497,rracz,51,Kaposvár,HU,46.3590,17.7956,H-9315,Europe/Budapest
+1bfa0168-092c-480c-8d55-81a43165b889,Margit,Nagy,margit.nagy@freemail.hu,00/343 2445,mnagy2,25,Kaposvár,HU,46.3590,17.7956,H-4070,Europe/Budapest
+d4a69454-b616-4853-a9ca-2acade4d01a2,László,Király,laszlo.kiraly@hotmail.com,(06)68/388-5160,lkiraly,45,Kecskemét,HU,46.8964,19.6897,H-2904,Europe/Budapest
+d714f267-7c45-4473-8020-6f2c61e132a0,László,Gáspár,laszlo.gaspar@mailbox.hu,(96)/966-4160,lgaspar,79,Cegléd,HU,47.3495,19.8347,H-9786,Europe/Budapest
+f220c16c-ce9f-43e9-bfd8-405a7eabb0b6,Mihály,Váradi,mihaly.varadi@citromail.hu,51/613-6968,mvaradi,23,Budapest,HU,47.4979,19.0402,H-2508,Europe/Budapest
+1be24dd8-1fa4-4dc0-a3ef-c0599f1fd55e,Máté,Horváth,mate.horvath@yahoo.com,(06)52/181-8835,mhorvath2,40,Cegléd,HU,47.3495,19.8347,H-4345,Europe/Budapest
+1ef2af38-6859-4e89-91be-727ebbcb7100,Erika,Fülöp,erika.fulop@mailbox.hu,(06)31/243-2921,efulop,29,Debrecen,HU,47.5316,21.6273,H-3982,Europe/Budapest
+3e49a956-becd-462f-b185-2739c4907493,Laura,Szilágyi,laura.szilagyi@freemail.hu,06-99/799 5527,lszilagyi,22,Eger,HU,48.0000,20.7833,H-5541,Europe/Budapest
+b0ed9287-560f-450b-9c6c-99f95d30b010,Endre,Szilágyi,endre.szilagyi@mailbox.hu,(90)/581-4770,eszilagyi,21,Esztergom,HU,47.7536,18.7997,H-4378,Europe/Budapest
+fbf76b4c-e037-4def-bb86-2b0ccc8dee57,Béla,Horváth,bela.horvath@indamail.hu,06-19/986 7980,bhorvath,46,Esztergom,HU,47.7536,18.7997,H-2474,Europe/Budapest
+eacaa8a7-4d11-455f-ab04-c1b99f5107d8,Brigitta,Mészáros,brigitta.meszaros@hotmail.com,(97)/820-7151,bmeszaros,50,Szeged,HU,46.2530,20.1414,H-6074,Europe/Budapest
+bf218951-22bc-4389-9802-60b82017536d,Zsuzsanna,Nagy,zsuzsanna.nagy@indamail.hu,78/892-5546,znagy,44,Győr,HU,47.6875,17.6504,H-9203,Europe/Budapest
+8f663770-2215-4e3b-be6b-844a319d328f,Gabriella,Szűcs,gabriella.szucs@gmail.com,06-51/518 6449,gszucs2,73,Eger,HU,48.0000,20.7833,H-6007,Europe/Budapest
+63b7b3b4-37d5-438f-8a82-951466f81e27,Sándor,Kovács,sandor.kovacs@indamail.hu,(06)54/629-1486,skovacs,59,Esztergom,HU,47.7536,18.7997,H-7775,Europe/Budapest
+213176fd-4f78-4999-8393-3d4475f0c042,Anita,Orosz,anita.orosz@indamail.hu,06-8/168 5054,aorosz,29,Miskolc,HU,47.9025,19.6197,H-1053,Europe/Budapest
+45ec5a01-8638-4366-86dc-27e2e2c5ded4,Laura,Varga,laura.varga@mailbox.hu,33/221-4188,lvarga2,71,Cegléd,HU,47.3495,19.8347,H-6760,Europe/Budapest
+643b6794-d371-4370-925a-5b074e7b2c16,Krisztina,Takács,krisztina.takacs@indamail.hu,(92)/962-2292,ktakacs,64,Kaposvár,HU,46.3590,17.7956,H-4673,Europe/Budapest
+57932023-7fae-4abb-8ceb-e415cd8c576e,Viktor,Molnár,viktor.molnar@indamail.hu,06-3/794 7383,vmolnar,37,Győr,HU,47.6875,17.6504,H-7142,Europe/Budapest
+8a48e037-afce-4d4f-8772-1e0480817feb,Anett,Boros,anett.boros@mailbox.hu,(06)59/774-6886,aboros2,79,Pécs,HU,46.0727,18.2323,H-8415,Europe/Budapest
+599b00e9-c2c4-4f3b-80dd-7fbbc07ae000,Gábor,Szabó,gabor.szabo@citromail.hu,(06)40/758-1814,gszabo,23,Miskolc,HU,48.1117,20.7906,H-2632,Europe/Budapest
+54b23315-fdef-4a68-a3d3-304e4af6fa93,Magdolna,Horváth,magdolna.horvath@citromail.hu,(06)61/375-0606,mhorvath3,50,Eger,HU,48.0000,20.7833,H-6661,Europe/Budapest
+0a66eabc-9ae6-4889-87b5-b587a4818b8d,Krisztián,Kiss,krisztian.kiss@gmail.com,(30)/515-2204,kkiss,76,Kaposvár,HU,46.3590,17.7956,H-5824,Europe/Budapest
+63f27d5c-c7fa-43cc-b8a8-b46a5a38f3e0,Klára,Pintér,klara.pinter@hotmail.com,06-77/901 0432,kpinter,53,Kaposvár,HU,46.3590,17.7956,H-4648,Europe/Budapest
+382d689a-f334-4fe9-9ceb-b0c60504fbb9,Borbála,Rácz,borbala.racz@freemail.hu,+36 43 410-3697,bracz,22,Miskolc,HU,47.9025,19.6197,H-2782,Europe/Budapest
+dd664b82-e259-4bd8-a557-fd275f7485f1,János,Jónás,janos.jonas@citromail.hu,08/932 4609,jjonas,40,Cegléd,HU,47.3495,19.8347,H-8577,Europe/Budapest
+4bcc6cfe-060c-4fd0-82e3-cde1be4e77d4,Zsolt,Molnár,zsolt.molnar@indamail.hu,06-1/851 8888,zmolnar,53,Győr,HU,47.6875,17.6504,H-1614,Europe/Budapest
+5ac1baa1-9fc7-461d-ac9e-c15dc8d21a74,László,Vörös,laszlo.voros@gmail.com,06-6/540 5153,lvoros,64,Nagykanizsa,HU,46.6833,17.6356,H-7017,Europe/Budapest
+4d43d9c9-04d5-481c-9924-22fbb40e5665,Zsuzsanna,Kovács,zsuzsanna.kovacs@citromail.hu,06-5/205 8527,zkovacs,80,Kaposvár,HU,46.3590,17.7956,H-5196,Europe/Budapest
+1e30c598-d36a-4a13-9d36-6a587f02bfe0,Andrea,Szilágyi,andrea.szilagyi@mailbox.hu,(06)17/043-0305,aszilagyi,77,Pécs,HU,46.0727,18.2323,H-1009,Europe/Budapest
+28d53b5b-525b-421c-8238-a5cdd48e69c6,Balázs,Kiss,balazs.kiss@mailbox.hu,74/034 5054,bkiss,25,Szeged,HU,46.2530,20.1414,H-6683,Europe/Budapest
+24a439a0-1f65-443c-97a5-f5175092cae1,Anikó,Németh,aniko.nemeth@freemail.hu,06-7/652 7758,anemeth,35,Sopron,HU,47.6817,16.5845,H-6962,Europe/Budapest
+f574db9c-c2c3-41a6-b62a-0d693a92e666,Anikó,Lukács,aniko.lukacs@gmail.com,92/845-1154,alukacs,37,Kecskemét,HU,46.8964,19.6897,H-9387,Europe/Budapest
+4d1b606f-aa19-4268-9588-ac958097b0a2,Kristóf,Sipos,kristof.sipos@hotmail.com,06-7/570 5964,ksipos,58,Kecskemét,HU,46.8964,19.6897,H-8654,Europe/Budapest
+d9700a09-29aa-4e22-9332-947d26b619f3,Bianka,Barna,bianka.barna@gmail.com,06-6/582 0297,bbarna,20,Budapest,HU,47.4979,19.0402,H-3347,Europe/Budapest
+60047659-fa65-45f2-a299-7b9b88866c16,Zoltán,Szabó,zoltan.szabo@indamail.hu,(56)/909-2755,zszabo,46,Miskolc,HU,48.1117,20.7906,H-2451,Europe/Budapest
+ceba0aef-c459-4b0d-a9f4-f5ccbfee9395,Magdolna,Mészáros,magdolna.meszaros@citromail.hu,(65)/431-0278,mmeszaros,42,Sopron,HU,47.6817,16.5845,H-4740,Europe/Budapest
+12bed947-02ee-48e1-b697-bd0adcce68fa,Hajnalka,Kovács,hajnalka.kovacs@mailbox.hu,(73)/947-3121,hkovacs,46,Miskolc,HU,48.1117,20.7906,H-3826,Europe/Budapest
+bfe03473-4fff-42cf-b166-40615614c16c,Gábor,Szalai,gabor.szalai@gmail.com,06-55/188 4422,gszalai,68,Nagykanizsa,HU,46.6833,17.6356,H-6652,Europe/Budapest
+a449f0e9-6932-4fce-b1a2-e15e5ad19048,Ádám,Szabó,adam.szabo@hotmail.com,06-23/705 8957,aszabo,69,Eger,HU,48.0000,20.7833,H-4675,Europe/Budapest
+de1b9ad8-b8c3-4be2-b418-c25ad492d3c4,Jázmin,Kovács,jazmin.kovacs@gmail.com,+36 46 786-6912,jkovacs,80,Veszprém,HU,47.0833,17.9167,H-3754,Europe/Budapest
+574646d2-b80a-46a6-963e-378d5549bfce,Balázs,Kovács,balazs.kovacs@freemail.hu,06-8/528 9226,bkovacs2,50,Miskolc,HU,47.9025,19.6197,H-5034,Europe/Budapest
+ae17368e-7b08-42b1-b5ed-d86aeb4bec1a,Edina,Nagy,edina.nagy@gmail.com,24/225 3584,enagy,72,Eger,HU,48.0000,20.7833,H-9939,Europe/Budapest
+3b604ae1-cfad-421f-ae7e-0fc9e33d1be8,József,Tóth,jozsef.toth@citromail.hu,(24)/981-8299,jtoth,27,Kecskemét,HU,46.8964,19.6897,H-6955,Europe/Budapest
+7915fd1c-2506-4962-a0ec-6c4fe1087025,Gábor,Fekete,gabor.fekete@citromail.hu,(90)/010-9439,gfekete,44,Győr,HU,47.6875,17.6504,H-7422,Europe/Budapest
+948a0e2c-2315-433e-927c-3d8b60804e36,Ilona,Nagy,ilona.nagy@indamail.hu,44/736 4710,inagy,28,Kaposvár,HU,46.3590,17.7956,H-1947,Europe/Budapest
+8bf0f864-722f-420a-9021-f6b860fd8dbd,Árpád,Farkas,arpad.farkas@hotmail.com,(92)/555-6258,afarkas,53,Budapest,HU,47.4979,19.0402,H-6447,Europe/Budapest
+49b60157-08e5-407d-9bba-41534391b977,János,Szabó,janos.szabo@gmail.com,(73)/210-4696,jszabo,33,Nagykanizsa,HU,46.6833,17.6356,H-7583,Europe/Budapest
+940241d9-e9f9-41b0-abc8-16d70cc5ff15,Klaudia,Halász,klaudia.halasz@mailbox.hu,(95)/327-8774,khalasz,49,Eger,HU,48.0000,20.7833,H-1187,Europe/Budapest
+5144aa47-fd12-45e4-9c63-77f8667811ed,László,Virág,laszlo.virag@citromail.hu,33/950-0479,lvirag,74,Veszprém,HU,47.0833,17.9167,H-3704,Europe/Budapest
+212b1ee8-16f8-4cf3-9b61-98f5f5de8e56,Zsófia,Kis,zsofia.kis@yahoo.com,01/624 5650,zkis,43,Nagykanizsa,HU,46.6833,17.6356,H-4885,Europe/Budapest
+2802f9b9-66b8-4bf3-b03f-3e82bc331162,István,Lakatos,istvan.lakatos@yahoo.com,41/687 8499,ilakatos,25,Sopron,HU,47.6817,16.5845,H-3871,Europe/Budapest
+94d4ab70-0c23-4b0f-9fee-210f507e2744,Zoltán,Kovács,zoltan.kovacs@yahoo.com,06-58/523 9868,zkovacs2,20,Nagykanizsa,HU,46.6833,17.6356,H-6834,Europe/Budapest
+fad7434f-09fc-43df-88ba-1f84dea58958,István,Tóth,istvan.toth@yahoo.com,06-78/729 8259,itoth,38,Kaposvár,HU,46.3590,17.7956,H-5302,Europe/Budapest
+807b3ad0-60ed-4f2e-a2f6-802844fbe3e9,Gábor,Csonka,gabor.csonka@indamail.hu,06-49/588 8794,gcsonka,48,Nagykanizsa,HU,46.6833,17.6356,H-8385,Europe/Budapest
+cdcc1499-37dd-42e1-a713-2e62052ea7a8,Rozália,Kiss,rozalia.kiss@indamail.hu,+36 69 409-7499,rkiss,32,Pécs,HU,46.0727,18.2323,H-5240,Europe/Budapest
+29de1ca2-cebe-4133-824c-f20368d208b2,Erika,Oláh,erika.olah@hotmail.com,96/230 9130,eolah,46,Szeged,HU,46.2530,20.1414,H-5804,Europe/Budapest
+2b71eae0-ff1f-4c06-a5cb-0eb15c4d231b,Balázs,Tóth,balazs.toth@indamail.hu,(06)68/970-2838,btoth,38,Cegléd,HU,47.3495,19.8347,H-7886,Europe/Budapest
+14e77b12-da3c-4b4c-92d8-bdbf623b0e17,Gréta,Farkas,greta.farkas@freemail.hu,(27)/858-5497,gfarkas,30,Cegléd,HU,47.3495,19.8347,H-9908,Europe/Budapest
+a3c9edc6-394a-447d-a2a3-f480688e3b94,Hanna,Horváth,hanna.horvath@yahoo.com,(06)44/375-7584,hhorvath,36,Cegléd,HU,47.3495,19.8347,H-8634,Europe/Budapest
+20abce4e-bd03-4c34-8a85-e3a6a8b3d1a7,Zoltán,Szűcs,zoltan.szucs@freemail.hu,52/404-1574,zszucs,65,Kaposvár,HU,46.3590,17.7956,H-3724,Europe/Budapest
+e8780373-4742-4c15-824c-bc39f364a00d,Alex,Szabó,alex.szabo@citromail.hu,(84)/219-9330,aszabo2,60,Kecskemét,HU,46.8964,19.6897,H-8115,Europe/Budapest
+b82f6669-4b01-475e-b7eb-2aedefe624f0,Rita,Szabó,rita.szabo@hotmail.com,+36 16 571-2082,rszabo2,44,Kecskemét,HU,46.8964,19.6897,H-9737,Europe/Budapest
+51248e6d-bc0b-441f-9332-fec3e79a4df6,Zsuzsanna,Fábián,zsuzsanna.fabian@freemail.hu,34/540-1938,zfabian,65,Miskolc,HU,48.1117,20.7906,H-9156,Europe/Budapest
+3043405f-cd65-4310-af8b-853d6ddc2cdb,Erika,Orbán,erika.orban@hotmail.com,20/672-4004,eorban,54,Debrecen,HU,47.5316,21.6273,H-7217,Europe/Budapest
+bd4cc498-97a9-431c-8352-c46cc46b0eac,Éva,Bakos,eva.bakos@yahoo.com,(78)/872-8743,ebakos,69,Győr,HU,47.6875,17.6504,H-7713,Europe/Budapest
+17c8318c-e33a-4b4f-9644-b57eab16b58d,János,Tóth,janos.toth@freemail.hu,06-4/205 4932,jtoth2,57,Cegléd,HU,47.3495,19.8347,H-9731,Europe/Budapest
+04b2e786-213a-4d25-b7b7-d28c17e9d668,Gizella,Hajdu,gizella.hajdu@mailbox.hu,85/161-2275,ghajdu,77,Pécs,HU,46.0727,18.2323,H-1319,Europe/Budapest
+778297ce-96f4-460a-9230-c5cb50748c75,Zsolt,Horváth,zsolt.horvath@hotmail.com,45/499-0453,zhorvath,21,Cegléd,HU,47.3495,19.8347,H-2666,Europe/Budapest
+5317230e-79e1-4d3b-b967-6f486a3d6817,Margit,Farkas,margit.farkas@hotmail.com,84/145-9332,mfarkas,48,Nagykanizsa,HU,46.6833,17.6356,H-2624,Europe/Budapest
+7d941853-d47f-4042-88e1-8dd254bca00d,Sándor,Király,sandor.kiraly@citromail.hu,(68)/783-3918,skiraly,46,Cegléd,HU,47.3495,19.8347,H-7988,Europe/Budapest
+05d204c4-32c1-4558-8c7c-297a92765648,Mária,Kiss,maria.kiss@citromail.hu,+36 08 839-8225,mkiss4,72,Cegléd,HU,47.3495,19.8347,H-7762,Europe/Budapest
+648a2ac9-62a3-4c76-bd0b-d2a03f9a80fe,Mária,Kovács,maria.kovacs@hotmail.com,06-9/718 7072,mkovacs3,50,Sopron,HU,47.6817,16.5845,H-2822,Europe/Budapest
+b1960a61-0966-4613-bf8d-e15ebe53ccd4,Levente,Lakatos,levente.lakatos@citromail.hu,40/640-3910,llakatos,45,Pécs,HU,46.0727,18.2323,H-8922,Europe/Budapest
+7d3d04e5-0d6e-4c10-8da7-2dd3308f8a55,Károly,Nagy,karoly.nagy@gmail.com,+36 70 462-2656,knagy,46,Pécs,HU,46.0727,18.2323,H-8686,Europe/Budapest
+8372ee63-ab73-4ccd-badc-a6a9a224009c,Réka,Jónás,reka.jonas@freemail.hu,+36 82 512-8682,rjonas,64,Kecskemét,HU,46.8964,19.6897,H-1716,Europe/Budapest
+7f484b10-8bba-48d7-b610-946d1128662e,Sára,Hegedűs,sara.hegedus@mailbox.hu,+36 47 868-6337,shegedus,40,Nagykanizsa,HU,46.6833,17.6356,H-8148,Europe/Budapest
+1a7f9d7e-f962-4bff-a586-001dfece7827,Sándor,Tóth,sandor.toth@indamail.hu,06-10/690 3311,stoth,56,Kaposvár,HU,46.3590,17.7956,H-6792,Europe/Budapest
+84c10842-8447-47ca-95f6-7a77969ce874,István,Simon,istvan.simon@indamail.hu,06-03/067 3830,isimon,26,Miskolc,HU,47.9025,19.6197,H-8852,Europe/Budapest
+01c007c3-af1a-499b-a14b-6b53d9840ff4,Mária,Horváth,maria.horvath@mailbox.hu,06-9/599 5342,mhorvath4,60,Győr,HU,47.6875,17.6504,H-6298,Europe/Budapest
+d60ed41b-9ad6-4b9c-8f3b-7a28c8162823,Mária,Molnár,maria.molnar@yahoo.com,+36 89 268-7056,mmolnar,68,Budapest,HU,47.4979,19.0402,H-1934,Europe/Budapest
+8e15d43d-55c0-4b5a-ad8e-f7331a8ebc90,Mária,Pintér,maria.pinter@freemail.hu,(06)46/287-3342,mpinter,69,Miskolc,HU,48.1117,20.7906,H-2373,Europe/Budapest
+d6072cd0-d4f0-4391-b823-329097a046dc,Marcell,Nagy,marcell.nagy@freemail.hu,88/263-4351,mnagy3,77,Pécs,HU,46.0727,18.2323,H-6424,Europe/Budapest
+4343bc48-a76a-4f88-b6c0-da5612a316db,Milán,Kiss,milan.kiss@citromail.hu,06-3/046 9901,mkiss5,30,Kecskemét,HU,46.8964,19.6897,H-2155,Europe/Budapest
+a6b3ef58-55ab-4689-8859-16a24ae92d78,Márta,Oláh,marta.olah@indamail.hu,37/354 0331,molah,65,Esztergom,HU,47.7536,18.7997,H-3218,Europe/Budapest
+cc24945d-fa7d-445f-b06e-a348c238c3c1,Rebeka,Farkas,rebeka.farkas@hotmail.com,06-9/363 8546,rfarkas,47,Debrecen,HU,47.5316,21.6273,H-6171,Europe/Budapest
+e0df18e8-1d99-4570-89c6-e4deaa403d3b,Mária,Varga,maria.varga@yahoo.com,(87)/717-5355,mvarga2,44,Miskolc,HU,48.1117,20.7906,H-1706,Europe/Budapest
+b30b2c7d-3b3d-4abe-b101-a948f0085aeb,István,Vass,istvan.vass@indamail.hu,(06)04/899-6423,ivass,39,Kecskemét,HU,46.8964,19.6897,H-8693,Europe/Budapest
+b1d0f5eb-e905-4684-8b88-eac94269854e,Tamás,Lakatos,tamas.lakatos@hotmail.com,85/477-7252,tlakatos,26,Nagykanizsa,HU,46.6833,17.6356,H-2316,Europe/Budapest
+6dc649d2-1ce0-47f6-8bcc-9d96512b19b9,Julianna,Balogh,julianna.balogh@citromail.hu,06-0/801 0062,jbalogh,71,Sopron,HU,47.6817,16.5845,H-5538,Europe/Budapest
+341ebaf8-3ad3-40a6-9162-868b8fe8b1cc,Anna,Nagy,anna.nagy@hotmail.com,+36 38 750-9977,anagy2,19,Győr,HU,47.6875,17.6504,H-4642,Europe/Budapest
+8aec84e4-149a-41fd-be45-cfac0b1bc914,László,Juhász,laszlo.juhasz@gmail.com,+36 84 840-8621,ljuhasz,76,Miskolc,HU,47.9025,19.6197,H-6035,Europe/Budapest
+4d3c9921-cc42-41bd-91f7-eb497e3e9e21,János,Tóth,janos.toth@hotmail.com,84/546 1567,jtoth3,54,Győr,HU,47.6875,17.6504,H-4210,Europe/Budapest
+b21d49c3-0fd7-47e3-93d5-c7d50823d7d8,Zsolt,Pintér,zsolt.pinter@yahoo.com,06-1/016 6687,zpinter,21,Debrecen,HU,47.5316,21.6273,H-3546,Europe/Budapest
+332011bd-aa2a-453f-90d1-9de96d2ff0e0,Anna,Fodor,anna.fodor@gmail.com,65/918-0339,afodor,48,Kecskemét,HU,46.8964,19.6897,H-6914,Europe/Budapest
+47c6eb4d-cd23-4ab1-99d7-1ecc990f267e,András,Pásztor,andras.pasztor@indamail.hu,(89)/025-0392,apasztor,66,Eger,HU,48.0000,20.7833,H-6977,Europe/Budapest
+42e60143-aae1-4255-a8ae-712c795ed8c6,Piroska,Fülöp,piroska.fulop@gmail.com,(29)/396-8562,pfulop,68,Budapest,HU,47.4979,19.0402,H-4170,Europe/Budapest
+ce840e9b-2d4e-4e26-95d7-c0ff6c715a71,Henrietta,Magyar,henrietta.magyar@citromail.hu,06-5/016 3159,hmagyar,67,Miskolc,HU,47.9025,19.6197,H-7825,Europe/Budapest
+9f56871c-0306-47c1-ad80-06672257a138,Ilona,Simon,ilona.simon@mailbox.hu,(04)/773-5866,isimon2,29,Esztergom,HU,47.7536,18.7997,H-4201,Europe/Budapest
+696269ef-8c7c-4d60-b9bb-4d37d431ee16,Judit,Gál,judit.gal@gmail.com,06-94/311 4262,jgal,65,Sopron,HU,47.6817,16.5845,H-5354,Europe/Budapest
+8dd6d377-8e8b-4799-ad8a-071da3524188,Bence,Varga,bence.varga@gmail.com,+36 47 541-2126,bvarga,46,Miskolc,HU,47.9025,19.6197,H-7367,Europe/Budapest
+f9c8d62e-bad1-415f-9346-728cfda2653f,Erzsébet,Papp,erzsebet.papp@gmail.com,+36 15 819-9560,epapp,36,Eger,HU,48.0000,20.7833,H-9836,Europe/Budapest
+168f98df-dfb1-4439-801f-6e38e837ce59,Bálint,Sándor,balint.sandor@indamail.hu,39/826 2244,bsandor,35,Esztergom,HU,47.7536,18.7997,H-7364,Europe/Budapest
+50d404f8-94ad-4f07-93db-f27be7f6d2d4,Andor,Nagy,andor.nagy@freemail.hu,(64)/715-4379,anagy3,57,Kaposvár,HU,46.3590,17.7956,H-5498,Europe/Budapest
+abdf4e0b-ccd2-473d-9b66-0ac65adf0ad2,Attila,Kovács,attila.kovacs@yahoo.com,+36 65 965-7569,akovacs3,26,Sopron,HU,47.6817,16.5845,H-2063,Europe/Budapest
+3aa6b528-ea8d-438a-82b9-46cb07ec60a2,Lajos,Simon,lajos.simon@indamail.hu,(06)75/265-4793,lsimon,38,Miskolc,HU,48.1117,20.7906,H-3673,Europe/Budapest
+d3b4d385-8669-44b8-bd5e-be89d4d239ec,Miklós,Orosz,miklos.orosz@freemail.hu,(19)/398-2807,morosz,78,Eger,HU,48.0000,20.7833,H-3060,Europe/Budapest
+1fd57358-b07d-4329-a53b-6ca3b080bf9d,Ildikó,Németh,ildiko.nemeth@yahoo.com,06-16/724 3426,inemeth2,68,Pécs,HU,46.0727,18.2323,H-3942,Europe/Budapest
+1d45cfaa-8c98-40fb-be81-b7f3e3e5e035,Miklós,Németh,miklos.nemeth@citromail.hu,96/886-8058,mnemeth2,56,Eger,HU,48.0000,20.7833,H-3119,Europe/Budapest
+0f87a8d1-07fa-4313-af4e-d2656f574155,Anna,Kovács,anna.kovacs@mailbox.hu,(06)52/909-6561,akovacs4,18,Nagykanizsa,HU,46.6833,17.6356,H-3474,Europe/Budapest
+ff06e73a-89d6-4984-b6e1-79dcd9a7f472,János,Szabó,janos.szabo@indamail.hu,89/937 5679,jszabo2,62,Győr,HU,47.6875,17.6504,H-6069,Europe/Budapest
+349f4e97-b929-4005-9f3e-c5070a7539d0,Mária,Varga,maria.varga@gmail.com,14/611-2545,mvarga3,47,Kaposvár,HU,46.3590,17.7956,H-8820,Europe/Budapest
+3a258017-4b70-48e6-9dd2-8bfd95d4efd6,Szilvia,Papp,szilvia.papp@yahoo.com,17/751-4010,spapp,72,Eger,HU,48.0000,20.7833,H-4872,Europe/Budapest
+71edf8ef-d2a8-4f45-b907-f41babb9b9bd,Károly,Kovács,karoly.kovacs@mailbox.hu,(06)38/282-5867,kkovacs,32,Nagykanizsa,HU,46.6833,17.6356,H-2120,Europe/Budapest
+88d1272c-da51-46ed-8dc0-36bb88513347,Viktória,Szilágyi,viktoria.szilagyi@hotmail.com,06-6/609 3796,vszilagyi,42,Győr,HU,47.6875,17.6504,H-9299,Europe/Budapest
+97b1b385-f6dd-4aa6-a28c-d7d4bf382de2,László,Szabó,laszlo.szabo@yahoo.com,06-19/182 5537,lszabo,25,Esztergom,HU,47.7536,18.7997,H-4990,Europe/Budapest
+373c1ff3-46c1-413e-883d-66871e8efd0a,András,Vass,andras.vass@citromail.hu,06-5/969 6915,avass,40,Debrecen,HU,47.5316,21.6273,H-6059,Europe/Budapest
+d96456a0-bb49-45af-ab82-781634a1bcfc,Zsófia,Fekete,zsofia.fekete@mailbox.hu,06-4/991 2513,zfekete,37,Miskolc,HU,47.9025,19.6197,H-5761,Europe/Budapest
+07008bc0-0a53-43c5-b122-5204fd96866a,Zoltán,Kiss,zoltan.kiss@hotmail.com,66/929 6627,zkiss,58,Veszprém,HU,47.0833,17.9167,H-9068,Europe/Budapest
+d8356ccc-3a83-4bda-91d8-3af1368d0c68,Mária,Gáspár,maria.gaspar@hotmail.com,27/422 5790,mgaspar,73,Budapest,HU,47.4979,19.0402,H-4040,Europe/Budapest
+71fd850d-b94d-41ce-86c2-50ff706ea4ee,Ádám,Nagy,adam.nagy@hotmail.com,(06)68/876-7677,anagy4,28,Budapest,HU,47.4979,19.0402,H-6468,Europe/Budapest
+c57c9155-1613-4020-98c3-a39b3f1ef07f,József,Nagy,jozsef.nagy@mailbox.hu,(06)40/438-4279,jnagy3,65,Budapest,HU,47.4979,19.0402,H-2314,Europe/Budapest
+9a8fc95a-2278-4225-a50d-89c0bfd467e5,Edit,Balogh,edit.balogh@citromail.hu,+36 91 485-8078,ebalogh,31,Győr,HU,47.6875,17.6504,H-4605,Europe/Budapest
+133d49c5-02e3-4fa8-8bac-f83d1e7ec5d0,Györgyi,Kovács,gyorgyi.kovacs@mailbox.hu,06-3/407 4517,gkovacs,73,Kecskemét,HU,46.8964,19.6897,H-5321,Europe/Budapest
+b2527eed-d905-4bd2-9173-d18ed2b1396b,Bettina,Balog,bettina.balog@hotmail.com,(06)95/962-9233,bbalog,69,Cegléd,HU,47.3495,19.8347,H-2154,Europe/Budapest
+eaf09575-df8f-4594-92d1-191cc1621c92,István,Varga,istvan.varga@yahoo.com,82/544 9481,ivarga,26,Eger,HU,48.0000,20.7833,H-6992,Europe/Budapest
+edd36665-1c0d-4f01-883b-7efbead5a161,Klaudia,Boros,klaudia.boros@gmail.com,(22)/325-3672,kboros,54,Eger,HU,48.0000,20.7833,H-2791,Europe/Budapest
+0c024ba1-3623-4938-9dac-f2bf0c3aa06e,Anna,Szilágyi,anna.szilagyi@freemail.hu,11/684-5775,aszilagyi2,55,Eger,HU,48.0000,20.7833,H-7909,Europe/Budapest
+78a7f844-6750-4a3d-a7e0-44861e6a3de1,László,Balog,laszlo.balog@indamail.hu,+36 75 186-3637,lbalog,35,Nagykanizsa,HU,46.6833,17.6356,H-2364,Europe/Budapest
+69fd44b6-c8ac-441c-bd99-d02a90a873cd,Gyula,Horváth,gyula.horvath@citromail.hu,29/750 0170,ghorvath,25,Debrecen,HU,47.5316,21.6273,H-8659,Europe/Budapest
+83258b45-d565-4c40-8b80-26833ffbb7dc,Noémi,Tóth,noemi.toth@freemail.hu,+36 63 242-4154,ntoth,23,Szeged,HU,46.2530,20.1414,H-1594,Europe/Budapest
+cfedb6a2-b9ca-454b-93bc-dc297de8a57f,Krisztián,Jónás,krisztian.jonas@hotmail.com,+36 64 361-1037,kjonas,22,Esztergom,HU,47.7536,18.7997,H-4609,Europe/Budapest
+3202917a-56b9-41d7-a2d5-6d40b0816e23,Zoltán,Szabó,zoltan.szabo@indamail.hu2,00/516-2713,zszabo2,42,Budapest,HU,47.4979,19.0402,H-2680,Europe/Budapest
+c0979a52-ac0a-4cff-b5ec-ceff683c2c52,József,Antal,jozsef.antal@gmail.com,(54)/262-2189,jantal,18,Debrecen,HU,47.5316,21.6273,H-2536,Europe/Budapest
+d82a2938-2d97-4230-a37e-2569db286a68,Ilona,Tóth,ilona.toth@yahoo.com,06-3/269 7311,itoth2,26,Budapest,HU,47.4979,19.0402,H-7439,Europe/Budapest
+674faa5d-b18d-4f87-8edb-ef34d95bef30,Eszter,Oláh,eszter.olah@freemail.hu,(65)/234-1389,eolah2,56,Pécs,HU,46.0727,18.2323,H-6349,Europe/Budapest
+a35ded0b-8a35-4340-bd0f-72306723231a,Erika,Horváth,erika.horvath@indamail.hu,+36 43 898-3640,ehorvath2,68,Kecskemét,HU,46.8964,19.6897,H-4200,Europe/Budapest
+1a20d31e-f1c2-4afd-8635-cd50b148620a,Barbara,Soós,barbara.soos@freemail.hu,13/791-8055,bsoos,26,Nagykanizsa,HU,46.6833,17.6356,H-7015,Europe/Budapest
+c49b009b-4f53-497d-815a-c2ff9f543f5a,Bence,Budai,bence.budai@freemail.hu,(82)/710-9104,bbudai,31,Győr,HU,47.6875,17.6504,H-6305,Europe/Budapest
+d3b267f9-5fcd-4a53-beb7-626535f86485,István,Nagy,istvan.nagy@mailbox.hu,84/866-6188,inagy2,57,Győr,HU,47.6875,17.6504,H-3562,Europe/Budapest
+cf2d1972-de2d-4e5f-9a0e-765bd1883069,Sándor,Kovács,sandor.kovacs@gmail.com,32/856 9146,skovacs2,64,Sopron,HU,47.6817,16.5845,H-5888,Europe/Budapest
+bbfa5583-de01-4635-9421-317bf86ee89a,Emese,Szabó,emese.szabo@hotmail.com,+36 61 799-0421,eszabo,18,Kaposvár,HU,46.3590,17.7956,H-9049,Europe/Budapest
+17195224-fbb0-4022-81f6-b6516c5ac054,Ildikó,Fodor,ildiko.fodor@hotmail.com,58/842-5241,ifodor,67,Kecskemét,HU,46.8964,19.6897,H-1464,Europe/Budapest
+9fe6caa1-567f-4c8b-9671-04de2a18fdec,Enikő,Varga,eniko.varga@freemail.hu,(81)/491-7785,evarga2,21,Esztergom,HU,47.7536,18.7997,H-6551,Europe/Budapest
+fdb7d516-7823-4250-9fab-185d0e5c479a,Tivadar,Lakatos,tivadar.lakatos@yahoo.com,(06)41/913-8000,tlakatos2,33,Kaposvár,HU,46.3590,17.7956,H-7932,Europe/Budapest
+e570875a-fb3c-459e-b5b3-1702b8ea03bd,István,Kiss,istvan.kiss@hotmail.com,(06)08/635-3654,ikiss3,70,Cegléd,HU,47.3495,19.8347,H-5057,Europe/Budapest
+1f43d930-15e4-4eba-9961-2ed025ab8911,József,Kiss,jozsef.kiss@citromail.hu,06-0/238 0617,jkiss2,73,Miskolc,HU,48.1117,20.7906,H-5119,Europe/Budapest
+c91c0283-9a66-42c3-b051-268541f8e61a,Csaba,Deák,csaba.deak@yahoo.com,+36 87 053-4949,cdeak,33,Győr,HU,47.6875,17.6504,H-6391,Europe/Budapest
+f7e3d82b-6b53-4a8e-b576-a0ecccb0d2de,Áron,Oláh,aron.olah@freemail.hu,06-38/320 6038,aolah,40,Kaposvár,HU,46.3590,17.7956,H-1389,Europe/Budapest
+7696c3ab-b7f8-42d4-9053-550cc09263d9,Anna,Orsós,anna.orsos@gmail.com,(06)/413-8367,aorsos,79,Debrecen,HU,47.5316,21.6273,H-7677,Europe/Budapest
+89a44927-09fe-4356-b1d8-f73996e458dc,István,Márton,istvan.marton@indamail.hu,(10)/386-5719,imarton2,24,Kaposvár,HU,46.3590,17.7956,H-1952,Europe/Budapest
+23817bd2-8eb1-4966-921a-d615de118249,Mária,Török,maria.torok@freemail.hu,+36 99 062-3445,mtorok,77,Debrecen,HU,47.5316,21.6273,H-9586,Europe/Budapest
+c871303c-1f27-40e5-bb0b-83580f603a8f,Anikó,Pintér,aniko.pinter@indamail.hu,(57)/431-3291,apinter,27,Esztergom,HU,47.7536,18.7997,H-1439,Europe/Budapest
+5dadfdb1-fa9e-49a9-a4fb-abe5acd0d1ea,János,Németh,janos.nemeth@yahoo.com,18/537-4741,jnemeth,23,Pécs,HU,46.0727,18.2323,H-3900,Europe/Budapest
+dfd78685-db3d-4361-9241-8f5ed23b9d26,Gábor,Kocsis,gabor.kocsis@mailbox.hu,06-9/035 2135,gkocsis,43,Miskolc,HU,48.1117,20.7906,H-9892,Europe/Budapest
+fd8c3b8a-c01c-4a9c-afb6-ce7a7d746f4d,Mária,Szűcs,maria.szucs@yahoo.com,06-20/678 8317,mszucs,24,Miskolc,HU,47.9025,19.6197,H-9578,Europe/Budapest
+59b8d0b2-f65f-436c-80ac-850c3c593a92,Márta,Tóth,marta.toth@gmail.com,+36 32 365-1994,mtoth3,76,Miskolc,HU,48.1117,20.7906,H-4980,Europe/Budapest
+94ece869-c939-4cd7-b6a9-78ccc874c6d0,Tímea,Nagy,timea.nagy@gmail.com,(06)72/151-0702,tnagy,77,Győr,HU,47.6875,17.6504,H-8037,Europe/Budapest
+5a25ee1f-050b-48da-b157-52ae6f55adf4,Katalin,Fülöp,katalin.fulop@freemail.hu,06/625-3244,kfulop,46,Kecskemét,HU,46.8964,19.6897,H-4120,Europe/Budapest
+201cdbaf-43f4-47bf-8876-2d56ed00f382,Beáta,Nagy,beata.nagy@citromail.hu,34/768 7014,bnagy,42,Miskolc,HU,47.9025,19.6197,H-9869,Europe/Budapest
+838b2311-97e1-4324-9d4f-d4cdce23218f,Zoltán,Szabó,zoltan.szabo@mailbox.hu,38/065 7875,zszabo3,76,Kaposvár,HU,46.3590,17.7956,H-5853,Europe/Budapest
+84969188-1e03-41db-bc8e-35b62d770855,Erzsébet,Varga,erzsebet.varga@yahoo.com,(06)05/930-4078,evarga3,40,Cegléd,HU,47.3495,19.8347,H-1748,Europe/Budapest
+5bc0e45c-6ec2-47a5-a70b-00cfef61d834,Magdolna,Sárközi,magdolna.sarkozi@hotmail.com,+36 33 480-3965,msarkozi,77,Kecskemét,HU,46.8964,19.6897,H-9134,Europe/Budapest
+6d9f6a7a-9e45-4e54-89ff-c74f8bdcb0e1,Dóra,Deák,dora.deak@hotmail.com,(06)95/590-5992,ddeak,54,Budapest,HU,47.4979,19.0402,H-6140,Europe/Budapest
+87971549-e4a6-4c08-8568-e94b9f2adb4c,Nikoletta,Budai,nikoletta.budai@mailbox.hu,84/270-1039,nbudai,32,Miskolc,HU,47.9025,19.6197,H-1181,Europe/Budapest
+65fa5eff-f696-4032-99f3-7472bc5d8734,László,Farkas,laszlo.farkas@yahoo.com,32/525 0029,lfarkas,63,Győr,HU,47.6875,17.6504,H-7170,Europe/Budapest
+b2eba56e-6f3a-4c57-ac0b-351f7f40878e,Gyöngyi,Balog,gyongyi.balog@mailbox.hu,51/569 1545,gbalog,26,Budapest,HU,47.4979,19.0402,H-1485,Europe/Budapest
+9c10fe6e-b895-4558-ab33-6eb739c34a1c,Beatrix,Lukács,beatrix.lukacs@freemail.hu,06-75/289 5392,blukacs,42,Pécs,HU,46.0727,18.2323,H-2234,Europe/Budapest
+972306d7-20a8-4e9b-936b-7d2d6267a25e,György,Orsós,gyorgy.orsos@hotmail.com,(06)09/690-2959,gorsos,32,Esztergom,HU,47.7536,18.7997,H-2094,Europe/Budapest
+ea636c60-de85-473c-b512-654d7b0c209a,Anna,Kovács,anna.kovacs@freemail.hu,(06)51/355-2157,akovacs5,18,Kaposvár,HU,46.3590,17.7956,H-6255,Europe/Budapest
+626c7b7e-bed8-45c7-9b84-d0c770af59f2,András,Szabó,andras.szabo@gmail.com,(41)/006-7626,aszabo3,49,Sopron,HU,47.6817,16.5845,H-4962,Europe/Budapest
+04c572a8-039d-4575-be2a-57278c791640,Adrienn,Varga,adrienn.varga@freemail.hu,+36 79 327-1040,avarga2,38,Miskolc,HU,47.9025,19.6197,H-6614,Europe/Budapest
+68da0d23-32ba-4655-8fa3-5c4de517df34,Tibor,Kovács,tibor.kovacs@yahoo.com,(06)62/181-5997,tkovacs,63,Pécs,HU,46.0727,18.2323,H-2298,Europe/Budapest
+289c00dd-2d43-4240-8840-fbeb1c64582c,László,Hegedüs,laszlo.hegedus@hotmail.com,62/015 3368,lhegedus,64,Kecskemét,HU,46.8964,19.6897,H-1109,Europe/Budapest
+57800ad4-2dfe-4197-98e2-1d6f238274ca,Orsolya,Takács,orsolya.takacs@indamail.hu,(43)/106-9872,otakacs,21,Győr,HU,47.6875,17.6504,H-3152,Europe/Budapest
+fde453bd-8edd-44cd-8803-bb417ed642c2,Ádám,Molnár,adam.molnar@yahoo.com,06-97/310 3241,amolnar2,48,Eger,HU,48.0000,20.7833,H-5176,Europe/Budapest
+c272aa3d-d87b-4cff-bdba-d5a503ec36e9,Zsófia,Horváth,zsofia.horvath@freemail.hu,74/186-2565,zhorvath2,29,Debrecen,HU,47.5316,21.6273,H-2148,Europe/Budapest
+cc1804e3-d84d-449e-9c07-91f5deec8bcd,Géza,Horváth,geza.horvath@freemail.hu,(34)/902-1158,ghorvath2,44,Győr,HU,47.6875,17.6504,H-3409,Europe/Budapest
+a70157c8-b35b-454b-9224-c6cb455fe4c5,Zita,Oláh,zita.olah@citromail.hu,+36 68 687-9374,zolah,23,Veszprém,HU,47.0833,17.9167,H-6261,Europe/Budapest
+fda0d0ed-9551-4121-a2e8-9039ac4fc4c7,Máté,Bálint,mate.balint@gmail.com,98/992 1722,mbalint,80,Szeged,HU,46.2530,20.1414,H-2669,Europe/Budapest
+80e2dfef-7241-4292-be63-b51eab72ec09,Péter,Tóth,peter.toth@gmail.com,16/329-4511,ptoth,42,Pécs,HU,46.0727,18.2323,H-9100,Europe/Budapest
+3966906c-99d7-4678-9613-5125a4d34425,Erzsébet,Juhász,erzsebet.juhasz@mailbox.hu,(87)/099-8616,ejuhasz,27,Debrecen,HU,47.5316,21.6273,H-2233,Europe/Budapest
+3271ff12-2d0a-4368-9c4c-6f87530a2195,Sándor,Oláh,sandor.olah@mailbox.hu,+36 19 148-5646,solah,59,Cegléd,HU,47.3495,19.8347,H-1167,Europe/Budapest
+e1abc1f9-088e-4d80-bd63-35e0f34ef2b7,Benjámin,Rácz,benjamin.racz@gmail.com,(06)46/299-6065,bracz2,62,Eger,HU,48.0000,20.7833,H-7556,Europe/Budapest
+42e093bf-620d-4021-b9cd-74f6f587f588,Zsolt,Király,zsolt.kiraly@yahoo.com,(05)/444-7132,zkiraly,37,Kaposvár,HU,46.3590,17.7956,H-8323,Europe/Budapest
+f911bbd4-e5ce-42e1-aca8-9c7ebb1dff21,Emma,Németh,emma.nemeth@mailbox.hu,(46)/913-7367,enemeth2,66,Esztergom,HU,47.7536,18.7997,H-4684,Europe/Budapest
+fd2db4c2-a15e-46ef-bbb4-c13748f214bb,Mária,Kiss,maria.kiss@gmail.com,21/486 2890,mkiss6,29,Debrecen,HU,47.5316,21.6273,H-5344,Europe/Budapest
+9b3e9177-bef6-474f-85fd-0bd6299f46a8,Attila,Hegedűs,attila.hegedus@mailbox.hu,+36 30 705-3457,ahegedus,50,Veszprém,HU,47.0833,17.9167,H-3280,Europe/Budapest
+6a4d544e-49c0-4d2e-b2bf-cdac25e62f09,Pál,Pásztor,pal.pasztor@indamail.hu,+36 35 797-2798,ppasztor,40,Cegléd,HU,47.3495,19.8347,H-8490,Europe/Budapest
+afc0d99f-7581-419f-a889-2c3a4fdba652,Károly,Budai,karoly.budai@yahoo.com,06-1/406 0293,kbudai,72,Miskolc,HU,47.9025,19.6197,H-4890,Europe/Budapest
+3248688a-2994-4877-81e1-a1f8551d50b9,Péter,Szabó,peter.szabo@hotmail.com,(68)/007-2290,pszabo,32,Miskolc,HU,47.9025,19.6197,H-6094,Europe/Budapest
+851d3d7d-0f39-4e2e-bc26-98bccf3f5f55,Tibor,Antal,tibor.antal@yahoo.com,06-4/665 7437,tantal,37,Szeged,HU,46.2530,20.1414,H-9168,Europe/Budapest
+d957ab28-686c-4aab-a4ad-740f48388925,Judit,Veres,judit.veres@freemail.hu,10/858 9944,jveres,61,Győr,HU,47.6875,17.6504,H-7257,Europe/Budapest
+f9a607bf-ced3-4964-bf67-d1a64aacf0c3,János,Nagy,janos.nagy@yahoo.com,06-5/444 3283,jnagy4,75,Kecskemét,HU,46.8964,19.6897,H-3108,Europe/Budapest
+e234ed78-c7d2-4fd8-9991-752f188b2482,István,Pál,istvan.pal@mailbox.hu,65/207 4466,ipal,42,Kecskemét,HU,46.8964,19.6897,H-3741,Europe/Budapest
+35a3c11b-17d5-4f93-be85-54de7b69e32e,Krisztina,Oláh,krisztina.olah@citromail.hu,06-35/387 5842,kolah,71,Budapest,HU,47.4979,19.0402,H-6915,Europe/Budapest
+83f7faca-9753-4add-b561-43b6bad5e87d,Margit,Lakatos,margit.lakatos@yahoo.com,+36 72 482-5135,mlakatos,32,Cegléd,HU,47.3495,19.8347,H-8981,Europe/Budapest
+aa31d312-c422-4323-8f02-b5d138a453b9,Irén,Horváth,iren.horvath@mailbox.hu,(54)/947-1709,ihorvath,55,Miskolc,HU,47.9025,19.6197,H-6518,Europe/Budapest
+1754aa78-8f1e-437c-aa85-3a0f2d32dde4,Kitti,Kovács,kitti.kovacs@hotmail.com,16/846 0223,kkovacs2,39,Pécs,HU,46.0727,18.2323,H-6529,Europe/Budapest
+47855084-6dbf-4a9c-98e9-ad028061943d,Szabolcs,Lakatos,szabolcs.lakatos@freemail.hu,(06)52/175-2500,slakatos,46,Veszprém,HU,47.0833,17.9167,H-5352,Europe/Budapest
+75f34911-5c02-4874-aa83-9f4564fb00c7,Csaba,Katona,csaba.katona@hotmail.com,27/129 6666,ckatona,79,Szeged,HU,46.2530,20.1414,H-2732,Europe/Budapest
+ab92278d-b7bf-41f7-8b33-8d820cd45147,Erik,Nagy,erik.nagy@citromail.hu,(06)50/583-0033,enagy2,62,Esztergom,HU,47.7536,18.7997,H-5248,Europe/Budapest
+79fb0c78-c698-419f-8dbf-e832a50514ae,Terézia,Horváth,terezia.horvath@gmail.com,89/421-0447,thorvath2,64,Kecskemét,HU,46.8964,19.6897,H-3980,Europe/Budapest
+e3a2fbfb-b086-475d-b7ef-f6fc377e2896,Mária,Papp,maria.papp@freemail.hu,06-2/575 3260,mpapp,32,Kaposvár,HU,46.3590,17.7956,H-3029,Europe/Budapest
+bfb77251-0727-402d-854f-654d4ebe0915,Tamás,Szekeres,tamas.szekeres@hotmail.com,06-0/982 1506,tszekeres,74,Debrecen,HU,47.5316,21.6273,H-8265,Europe/Budapest
+9cf8f159-abe2-409d-bf74-b53fd58420e6,Anna,Bogdán,anna.bogdan@citromail.hu,+36 90 100-1676,abogdan,25,Miskolc,HU,48.1117,20.7906,H-2342,Europe/Budapest
+18fb0f91-3ac1-4778-a32e-1611b9f291d5,Erzsébet,Farkas,erzsebet.farkas@hotmail.com,(06)04/618-4992,efarkas,44,Budapest,HU,47.4979,19.0402,H-5578,Europe/Budapest
+1f7e4d39-bf29-48ca-8b28-370e3f645b47,Klára,Kovács,klara.kovacs@indamail.hu,14/117 3934,kkovacs3,71,Miskolc,HU,48.1117,20.7906,H-2314,Europe/Budapest
+fba6c57a-1980-4763-8db2-db71b3e9cf43,Mária,Szabó,maria.szabo@indamail.hu,42/087-3753,mszabo,18,Miskolc,HU,47.9025,19.6197,H-7253,Europe/Budapest
+4f5b9de5-a4f3-43de-ad53-4bb7846e7565,László,Kovács,laszlo.kovacs@gmail.com,06-97/218 1143,lkovacs2,47,Budapest,HU,47.4979,19.0402,H-4024,Europe/Budapest
+2ffa018c-27b6-4010-adb0-70f27f966c42,Henrietta,Horváth,henrietta.horvath@freemail.hu,+36 12 045-5611,hhorvath2,72,Nagykanizsa,HU,46.6833,17.6356,H-2300,Europe/Budapest
+49fddae1-24c9-4432-a671-72c496606e72,Mónika,Nagy,monika.nagy@mailbox.hu,(06)25/579-4155,mnagy4,29,Debrecen,HU,47.5316,21.6273,H-2314,Europe/Budapest
+09ca0fa1-f729-4367-8a04-9eb186f68f41,János,Kiss,janos.kiss@freemail.hu,(67)/621-2021,jkiss3,44,Veszprém,HU,47.0833,17.9167,H-5421,Europe/Budapest
+28e67d37-a1e2-4ad1-b87a-6239089569ee,Edina,Farkas,edina.farkas@citromail.hu,06-7/296 5902,efarkas2,48,Pécs,HU,46.0727,18.2323,H-4778,Europe/Budapest
+8ce7479f-2bf4-421d-b396-945e87fd39e7,Petra,Kovács,petra.kovacs@freemail.hu,01/450-8993,pkovacs,80,Kaposvár,HU,46.3590,17.7956,H-1559,Europe/Budapest
+afce81bc-4e5b-4999-b964-3986db972f1e,Lilla,Vörös,lilla.voros@citromail.hu,91/637 5628,lvoros2,75,Szeged,HU,46.2530,20.1414,H-3770,Europe/Budapest
+b4373fba-5ecf-4337-b40b-2e730f0207c9,Diána,Nagy,diana.nagy@indamail.hu,(06)87/721-7535,dnagy,80,Kaposvár,HU,46.3590,17.7956,H-3604,Europe/Budapest
+20ed4279-d27b-46f3-885f-a8198fec667c,Csaba,Balogh,csaba.balogh@citromail.hu,06-6/631 7797,cbalogh,23,Eger,HU,48.0000,20.7833,H-8697,Europe/Budapest
+a0e4896d-a6a4-4088-8371-fdb3aac6495e,Gizella,Németh,gizella.nemeth@gmail.com,01/660-8801,gnemeth,68,Eger,HU,48.0000,20.7833,H-9725,Europe/Budapest
+47d753d1-a0ec-412d-9ad3-391ad11c26b8,Éva,Fekete,eva.fekete@yahoo.com,83/755 0375,efekete,53,Veszprém,HU,47.0833,17.9167,H-7411,Europe/Budapest
+654a60f5-eba7-4282-abe1-9efaf7ff70db,Edit,Simon,edit.simon@indamail.hu,06-5/711 3055,esimon,71,Győr,HU,47.6875,17.6504,H-6076,Europe/Budapest
+4dbd3cd4-9ee2-4d05-abc1-83a80926a937,Anna,Váradi,anna.varadi@citromail.hu,51/027 2614,avaradi,57,Miskolc,HU,48.1117,20.7906,H-5996,Europe/Budapest
+a25d5b7c-bba6-46c2-ac7e-1456bd21738b,Attila,Kovács,attila.kovacs@mailbox.hu,37/351-6091,akovacs6,67,Kecskemét,HU,46.8964,19.6897,H-3763,Europe/Budapest
+85eb7a45-b3b0-4dae-b234-f68f5344f25f,Vivien,Németh,vivien.nemeth@citromail.hu,27/080 8697,vnemeth,77,Győr,HU,47.6875,17.6504,H-7800,Europe/Budapest
+822bdc0b-cb3f-45d6-bed6-6e7aeced6c19,Mária,Gáspár,maria.gaspar@hotmail.com2,06-9/221 6995,mgaspar2,50,Kecskemét,HU,46.8964,19.6897,H-2194,Europe/Budapest
+1fc49385-0b8d-475c-84d7-7a49b5446ba5,Adrienn,Molnár,adrienn.molnar@citromail.hu,06-3/465 4722,amolnar3,44,Kecskemét,HU,46.8964,19.6897,H-6052,Europe/Budapest
+bf2c9fc2-1e43-4d66-9dea-fc80d00f2b81,Éva,Lengyel,eva.lengyel@citromail.hu,(85)/833-3945,elengyel2,76,Szeged,HU,46.2530,20.1414,H-1112,Europe/Budapest
+d5467c00-46b6-42f5-9bc7-090d2e19f40c,Judit,Barta,judit.barta@indamail.hu,(06)88/515-8799,jbarta,78,Sopron,HU,47.6817,16.5845,H-8042,Europe/Budapest
+debd23c3-845b-485a-8c63-7f5ea9ae96a3,Margit,Molnár,margit.molnar@indamail.hu,06-84/608 1062,mmolnar2,21,Szeged,HU,46.2530,20.1414,H-6933,Europe/Budapest
+289811c7-e577-4a1d-a532-128786b21056,Judit,Szabó,judit.szabo@mailbox.hu,06-24/420 4380,jszabo3,40,Kaposvár,HU,46.3590,17.7956,H-3381,Europe/Budapest
+fed8e19c-ff85-4094-ae1e-e3c45296c867,Tímea,Kovács,timea.kovacs@mailbox.hu,06-8/386 3840,tkovacs2,77,Miskolc,HU,48.1117,20.7906,H-5331,Europe/Budapest
+87343611-5ef1-4577-bd55-030e5356bddc,Norbert,Molnár,norbert.molnar@mailbox.hu,06-5/800 4397,nmolnar,71,Veszprém,HU,47.0833,17.9167,H-2669,Europe/Budapest
+00a334f7-f29d-4f71-bdff-6a9760883ac2,Tamás,Szilágyi,tamas.szilagyi@indamail.hu,06-5/989 3347,tszilagyi,29,Sopron,HU,47.6817,16.5845,H-8446,Europe/Budapest
+203a2c17-14d2-451d-840a-8850a090e0db,Jázmin,Kovács,jazmin.kovacs@hotmail.com,06-8/160 6484,jkovacs2,26,Eger,HU,48.0000,20.7833,H-8071,Europe/Budapest
+b254905c-75ad-41d6-bbc9-a3511948335b,Gábor,Pap,gabor.pap@gmail.com,(72)/025-9094,gpap,49,Debrecen,HU,47.5316,21.6273,H-9951,Europe/Budapest
+9fc671fc-4630-4e76-9c60-d23b3b2ca1bd,Anita,Juhász,anita.juhasz@gmail.com,06-58/328 1826,ajuhasz,52,Miskolc,HU,48.1117,20.7906,H-2157,Europe/Budapest
+f84d7e61-a591-48f1-86dd-d3158351d698,Mária,Kovács,maria.kovacs@hotmail.com2,(06)55/543-9878,mkovacs4,70,Esztergom,HU,47.7536,18.7997,H-8239,Europe/Budapest
+9eccc6b1-da04-4da5-b6da-a4aae32fe6c5,Eszter,Fehér,eszter.feher@gmail.com,06-5/739 9305,efeher,42,Budapest,HU,47.4979,19.0402,H-4715,Europe/Budapest
+bf3cb8a0-5c69-4538-a7a5-5c5787de1a7e,Gyöngyi,Virág,gyongyi.virag@freemail.hu,(84)/085-8877,gvirag,20,Kaposvár,HU,46.3590,17.7956,H-6860,Europe/Budapest
+6c0e5dbc-3c61-4349-b1df-c2c96aa07020,Lajos,Fehér,lajos.feher@yahoo.com,11/288 0133,lfeher,73,Szeged,HU,46.2530,20.1414,H-7423,Europe/Budapest
+44a86988-b64c-4bf2-b21f-a4def916e22a,Ágnes,Hegedűs,agnes.hegedus@hotmail.com,61/207 5011,ahegedus2,21,Veszprém,HU,47.0833,17.9167,H-3458,Europe/Budapest
+3f8bb70c-2565-4c78-80b5-34e23f6c6244,Ferenc,Szabó,ferenc.szabo@gmail.com,34/667 6650,fszabo,42,Esztergom,HU,47.7536,18.7997,H-5693,Europe/Budapest
+6899ca11-bc2b-4cbc-a9c8-5a096d9583ef,Judit,Takács,judit.takacs@indamail.hu,06-9/190 1581,jtakacs,36,Kecskemét,HU,46.8964,19.6897,H-2478,Europe/Budapest
+88d4a977-73da-46da-b20c-444b50c21522,Anita,Horváth,anita.horvath@gmail.com,(76)/607-2832,ahorvath,65,Kecskemét,HU,46.8964,19.6897,H-6080,Europe/Budapest
+37158855-088a-4b6f-b4ca-0223fced6df4,Bence,Kelemen,bence.kelemen@citromail.hu,(24)/508-8210,bkelemen,18,Miskolc,HU,47.9025,19.6197,H-8117,Europe/Budapest
+c5e6602b-f417-4c2c-a505-aaee0d0b5c47,Katalin,Kiss,katalin.kiss@citromail.hu,+36 43 536-8222,kkiss2,32,Esztergom,HU,47.7536,18.7997,H-5440,Europe/Budapest
+5204899d-7dda-489b-b32a-89f7b3f33fac,Ilona,Szabó,ilona.szabo@gmail.com,(06)90/878-1414,iszabo,24,Budapest,HU,47.4979,19.0402,H-3748,Europe/Budapest
+ec0b2879-b43e-43a0-8a8f-c17d27b783ea,Attila,Mészáros,attila.meszaros@yahoo.com,(23)/149-1357,ameszaros,46,Eger,HU,48.0000,20.7833,H-5244,Europe/Budapest
+1519718e-eb57-4037-b134-4e14337319ac,Mihály,Balázs,mihaly.balazs@indamail.hu,29/955 6205,mbalazs,33,Sopron,HU,47.6817,16.5845,H-4793,Europe/Budapest
+f563ac19-c8c5-460e-b159-8c6be220ad07,Szilvia,Szalai,szilvia.szalai@indamail.hu,45/257-7754,sszalai,49,Veszprém,HU,47.0833,17.9167,H-7604,Europe/Budapest
+a77a01f6-89e7-4818-8f24-c1f4ce8102d4,Erzsébet,Tóth,erzsebet.toth@citromail.hu,+36 42 834-1108,etoth,58,Pécs,HU,46.0727,18.2323,H-9671,Europe/Budapest
+fa24d2bf-9028-4e63-a0d6-485cdf2d2e6d,László,Mészáros,laszlo.meszaros@freemail.hu,06-93/084 8872,lmeszaros,41,Debrecen,HU,47.5316,21.6273,H-9816,Europe/Budapest
+61ae61c0-320e-48a6-88a3-1a29d80f0aaf,Máté,Bodnár,mate.bodnar@citromail.hu,06-4/278 8165,mbodnar,50,Debrecen,HU,47.5316,21.6273,H-9277,Europe/Budapest
+086e1fe4-d729-40f3-b0a1-10823591138d,László,Szabó,laszlo.szabo@mailbox.hu,28/272 2992,lszabo2,65,Kaposvár,HU,46.3590,17.7956,H-4477,Europe/Budapest
+6ac92383-b1af-49ee-88dc-6308ffd92f09,Krisztina,Orbán,krisztina.orban@gmail.com,(06)73/145-3038,korban,76,Pécs,HU,46.0727,18.2323,H-7784,Europe/Budapest
+568c7768-d73c-4c90-9f2b-3c8ea6701353,Anita,Kiss,anita.kiss@freemail.hu,+36 05 184-4989,akiss,29,Miskolc,HU,47.9025,19.6197,H-3733,Europe/Budapest
+13841152-4681-4aa3-a8b4-19b398fa5da6,Miklós,Kiss,miklos.kiss@citromail.hu,06-1/846 3865,mkiss7,70,Kaposvár,HU,46.3590,17.7956,H-2881,Europe/Budapest
+19623ba4-febb-4acb-83aa-0f1b5a61ae98,Melinda,Balogh,melinda.balogh@freemail.hu,08/272 3184,mbalogh2,31,Miskolc,HU,47.9025,19.6197,H-7754,Europe/Budapest
+b30d8ca8-50aa-4e4e-a39a-688f2a24e292,Sándor,Tóth,sandor.toth@citromail.hu,06-1/365 1777,stoth2,31,Debrecen,HU,47.5316,21.6273,H-4545,Europe/Budapest
+6565a558-f98d-4145-8cbe-f6016c850946,Éva,Fehér,eva.feher@freemail.hu,+36 30 299-2280,efeher2,75,Miskolc,HU,47.9025,19.6197,H-8970,Europe/Budapest
+7597f733-f726-4d45-a96d-a359ebbb7d4e,Katalin,Nagy,katalin.nagy@yahoo.com,(06)86/990-4137,knagy2,56,Cegléd,HU,47.3495,19.8347,H-8907,Europe/Budapest
+2c6cd6f6-1346-4700-b9a5-92bf7bf3da2f,Dorottya,Szőke,dorottya.szoke@hotmail.com,(06)69/292-9842,dszoke,64,Sopron,HU,47.6817,16.5845,H-8045,Europe/Budapest
+b25c3ce0-cfc6-4e16-83a6-a11b20179015,Ágnes,Pásztor,agnes.pasztor@citromail.hu,13/662 1038,apasztor2,73,Miskolc,HU,47.9025,19.6197,H-4001,Europe/Budapest
+be9ab75c-d26c-46ba-809d-0c8bd6e49356,Brigitta,Kocsis,brigitta.kocsis@mailbox.hu,(06)91/279-9088,bkocsis,66,Kecskemét,HU,46.8964,19.6897,H-4141,Europe/Budapest
+3eca8e84-dea8-48f9-adfd-e439178d85bc,Zoltán,Farkas,zoltan.farkas@hotmail.com,80/686 5086,zfarkas2,32,Szeged,HU,46.2530,20.1414,H-8259,Europe/Budapest
+c428963c-e478-4360-9e85-1b20afdc2aa7,Fanni,Farkas,fanni.farkas@mailbox.hu,59/916-2473,ffarkas,76,Szeged,HU,46.2530,20.1414,H-2298,Europe/Budapest
+62069e9a-b377-4fc8-bb7b-c126fd99ee32,Csilla,Horváth,csilla.horvath@citromail.hu,43/009-8180,chorvath,42,Miskolc,HU,47.9025,19.6197,H-7724,Europe/Budapest
+c195c789-a510-4d2c-a0d4-e8177cb3e2b7,Zsuzsanna,Kocsis,zsuzsanna.kocsis@yahoo.com,51/269-4486,zkocsis,54,Budapest,HU,47.4979,19.0402,H-6552,Europe/Budapest
+4b8c0367-a21d-4da9-917d-2f7d8a4ce259,Béla,Horváth,bela.horvath@indamail.hu2,36/887-2588,bhorvath2,48,Miskolc,HU,47.9025,19.6197,H-2774,Europe/Budapest
+3ad4105b-d338-484b-896d-b411a0c3a95a,Tibor,Horváth,tibor.horvath@yahoo.com,06-62/137 2138,thorvath3,43,Kaposvár,HU,46.3590,17.7956,H-9565,Europe/Budapest
+9d5953a6-d819-4e43-9fb0-04a6a0d7619e,Szilvia,Váradi,szilvia.varadi@citromail.hu,06-0/260 1279,svaradi,45,Szeged,HU,46.2530,20.1414,H-7424,Europe/Budapest
+9f6575f5-a4ec-4a0e-a802-f9b20fea26eb,József,Horváth,jozsef.horvath@yahoo.com,+36 90 669-8490,jhorvath,78,Győr,HU,47.6875,17.6504,H-8428,Europe/Budapest
+87d9ec6a-df4a-4aef-a6c0-62d95247f32b,Edit,Tóth,edit.toth@freemail.hu,03/843-0988,etoth2,62,Cegléd,HU,47.3495,19.8347,H-3202,Europe/Budapest
+2d5f7c80-b99f-4638-a3f5-f28ca8b4dd14,Tamás,Tóth,tamas.toth@gmail.com,(30)/214-6566,ttoth,55,Szeged,HU,46.2530,20.1414,H-1410,Europe/Budapest
+ba890c38-7142-4f6f-b73e-682032b931f2,Attila,Nagy,attila.nagy@indamail.hu,+36 18 489-5543,anagy5,56,Veszprém,HU,47.0833,17.9167,H-5960,Europe/Budapest
+471464c9-22b3-4be5-9216-972ed4e8717b,Klaudia,Németh,klaudia.nemeth@freemail.hu,04/268 1818,knemeth,36,Kecskemét,HU,46.8964,19.6897,H-3652,Europe/Budapest
+2f2322ea-47e2-4e8d-90cf-7131b8259a23,Károly,Kovács,karoly.kovacs@citromail.hu,(89)/476-9735,kkovacs4,79,Cegléd,HU,47.3495,19.8347,H-1148,Europe/Budapest
+ad115a62-dfdf-40ab-8ee7-5f7b71de3759,Gabriella,Kocsis,gabriella.kocsis@citromail.hu,06-07/141 6335,gkocsis2,44,Kecskemét,HU,46.8964,19.6897,H-7096,Europe/Budapest
+1f2f277a-3202-4775-96ab-05557e4d7f4e,Lilla,Papp,lilla.papp@gmail.com,06-4/341 6518,lpapp,77,Kecskemét,HU,46.8964,19.6897,H-4725,Europe/Budapest
+b09e6bec-ec2d-44b5-8e48-c182d5e3ec6e,Ferenc,Horváth,ferenc.horvath@hotmail.com,42/373 3343,fhorvath,32,Budapest,HU,47.4979,19.0402,H-1932,Europe/Budapest
+1f0abc18-3b7f-4993-b9b6-ff31441bb5b3,Attila,Szabó,attila.szabo@citromail.hu,(21)/117-9080,aszabo4,72,Debrecen,HU,47.5316,21.6273,H-6693,Europe/Budapest
+0fc4cbda-50b8-45d5-9547-6f0a7f1e5c9c,Kornél,Fekete,kornel.fekete@freemail.hu,47/284 6392,kfekete,21,Miskolc,HU,48.1117,20.7906,H-3050,Europe/Budapest
+9911119a-727a-4670-9550-78a6346bf124,Mária,Molnár,maria.molnar@citromail.hu,+36 85 627-1875,mmolnar3,62,Veszprém,HU,47.0833,17.9167,H-6069,Europe/Budapest
+e6826e37-e323-4b93-a79c-cde75ed372f0,László,Kis,laszlo.kis@freemail.hu,15/594 2843,lkis,35,Veszprém,HU,47.0833,17.9167,H-2588,Europe/Budapest
+a9347533-2bb3-4635-b789-4d2cb260e5e7,Zsombor,Rácz,zsombor.racz@yahoo.com,(06)76/365-5647,zracz,29,Pécs,HU,46.0727,18.2323,H-5523,Europe/Budapest
+8813dcbe-d089-4b87-bc49-ea2fc547d111,Katalin,Barta,katalin.barta@indamail.hu,(06)14/386-6322,kbarta,48,Veszprém,HU,47.0833,17.9167,H-5941,Europe/Budapest
+8e5266a5-3b06-4ea5-93a8-5746abe58b7d,Márta,Tóth,marta.toth@freemail.hu,(06)88/574-4890,mtoth4,43,Debrecen,HU,47.5316,21.6273,H-1020,Europe/Budapest
+6926e60c-0019-42e7-a39d-1deda0c3d38c,János,Tóth,janos.toth@hotmail.com2,06-47/175 4558,jtoth4,53,Esztergom,HU,47.7536,18.7997,H-7760,Europe/Budapest
+8c7235e6-712e-4af3-94da-4564002f4903,Etelka,Szabó,etelka.szabo@gmail.com,15/939-9824,eszabo2,40,Pécs,HU,46.0727,18.2323,H-1623,Europe/Budapest
+ae626035-18b5-46ff-be45-0f2d433e5b5b,Mihály,Papp,mihaly.papp@mailbox.hu,06-7/169 4722,mpapp2,58,Szeged,HU,46.2530,20.1414,H-2517,Europe/Budapest
+1ac6f736-d452-4e6c-bcd9-b6ee5b138c0b,Márta,Varga,marta.varga@indamail.hu,96/112 5355,mvarga4,59,Miskolc,HU,47.9025,19.6197,H-2967,Europe/Budapest
+08f9bf07-3e9f-4395-938f-63c9ae303c06,Imre,Horváth,imre.horvath@indamail.hu,47/598-7622,ihorvath2,72,Eger,HU,48.0000,20.7833,H-3960,Europe/Budapest
+d7929c4b-9b37-426b-aa16-721233fa04e9,László,Lukács,laszlo.lukacs@indamail.hu,(13)/261-1178,llukacs,21,Miskolc,HU,47.9025,19.6197,H-9653,Europe/Budapest
+5e819166-f160-41a3-873e-299877a90b8f,László,Kiss,laszlo.kiss@mailbox.hu,+36 14 921-6433,lkiss,65,Debrecen,HU,47.5316,21.6273,H-5342,Europe/Budapest
+61cbce61-1b85-4d7b-9847-ce05a93d13a7,Imre,Szilágyi,imre.szilagyi@hotmail.com,20/055 7784,iszilagyi,53,Szeged,HU,46.2530,20.1414,H-1704,Europe/Budapest
+6f81056c-b202-4011-aaf9-cb28ee56fcce,Géza,Faragó,geza.farago@indamail.hu,29/979 6884,gfarago,76,Győr,HU,47.6875,17.6504,H-2077,Europe/Budapest
+6b786714-828f-4afc-b1d0-33ffc7ee7781,Dávid,Takács,david.takacs@mailbox.hu,+36 74 564-2400,dtakacs,51,Szeged,HU,46.2530,20.1414,H-3287,Europe/Budapest
+5cd56808-0147-4898-a363-6f000032f861,Rozália,Pap,rozalia.pap@yahoo.com,(78)/077-4064,rpap,56,Pécs,HU,46.0727,18.2323,H-6893,Europe/Budapest
+f8c2a2ca-5a6c-4349-a3d8-0b0978443f2c,Tamás,Nagy,tamas.nagy@yahoo.com,(06)68/663-2663,tnagy2,34,Cegléd,HU,47.3495,19.8347,H-7742,Europe/Budapest
+152fb10c-d0fe-4bb9-89ed-ce2d5d68bb3a,József,Fekete,jozsef.fekete@citromail.hu,06-94/484 6312,jfekete,26,Esztergom,HU,47.7536,18.7997,H-7017,Europe/Budapest
+5172c6f1-4582-43b3-ba5b-11ac5fecb165,Imre,Török,imre.torok@citromail.hu,49/735-0208,itorok,19,Miskolc,HU,48.1117,20.7906,H-7787,Europe/Budapest
+b0902fdc-0a95-4015-b460-6c106de8338a,Ferenc,Kovács,ferenc.kovacs@yahoo.com,(06)70/312-0735,fkovacs,44,Győr,HU,47.6875,17.6504,H-9801,Europe/Budapest
+7ff62e6f-aa60-4591-9adb-5ac90c030bab,Balázs,Váradi,balazs.varadi@yahoo.com,05/120-4618,bvaradi,48,Debrecen,HU,47.5316,21.6273,H-2305,Europe/Budapest
+5651efde-2bb0-454d-b8ac-7d322fc4e285,Ferenc,Szücs,ferenc.szucs@yahoo.com,06-60/136 7303,fszucs,47,Szeged,HU,46.2530,20.1414,H-3383,Europe/Budapest
+d749151e-5887-47d8-9f97-ed1ade833d32,Krisztina,Kovács,krisztina.kovacs@indamail.hu,(06)76/452-0881,kkovacs5,34,Miskolc,HU,47.9025,19.6197,H-3237,Europe/Budapest
+6128923b-5521-4c67-a1c1-1db4086175bf,Vilmos,Horváth,vilmos.horvath@yahoo.com,+36 31 365-0249,vhorvath,25,Kecskemét,HU,46.8964,19.6897,H-6044,Europe/Budapest
+2d685883-e3b3-4946-b8be-8bb64a94b84e,Máté,Szabó,mate.szabo@gmail.com,79/251 3271,mszabo2,61,Miskolc,HU,48.1117,20.7906,H-9063,Europe/Budapest
+7959989b-4dc4-4993-94f1-37750d5262cb,Ilona,Dudás,ilona.dudas@mailbox.hu,06-0/052 8127,idudas,32,Kaposvár,HU,46.3590,17.7956,H-3448,Europe/Budapest
+eae9ba54-ee03-477a-8ad3-3fbb7696037e,Balázs,Lakatos,balazs.lakatos@indamail.hu,06-57/306 5240,blakatos,49,Kaposvár,HU,46.3590,17.7956,H-7846,Europe/Budapest
+690b4bef-301a-4524-a895-1f887c944a89,Ildikó,Lakatos,ildiko.lakatos@citromail.hu,06-7/392 8557,ilakatos2,35,Budapest,HU,47.4979,19.0402,H-5126,Europe/Budapest
+d2af44d2-defe-47d9-b31f-18ae288b06da,Melinda,Simon,melinda.simon@mailbox.hu,21/827 4485,msimon,47,Debrecen,HU,47.5316,21.6273,H-7554,Europe/Budapest
+9f2b9776-0881-45d6-85a2-20f43565cbbb,László,Török,laszlo.torok@freemail.hu,06-2/095 9351,ltorok2,60,Szeged,HU,46.2530,20.1414,H-8933,Europe/Budapest
+8afb3b15-2af1-4585-8f23-9607ce5e5966,Róza,Fülöp,roza.fulop@hotmail.com,78/294 5651,rfulop,24,Kaposvár,HU,46.3590,17.7956,H-8021,Europe/Budapest
+c052f799-bc26-46ad-a785-94b877227df1,Mária,Nagy,maria.nagy@mailbox.hu,(06)20/317-3109,mnagy5,59,Sopron,HU,47.6817,16.5845,H-5616,Europe/Budapest
+bc813099-6039-45c2-a891-ea5bbd666a81,Tünde,Balázs,tunde.balazs@citromail.hu,94/053 9103,tbalazs,59,Eger,HU,48.0000,20.7833,H-1476,Europe/Budapest
+9b2a5bd2-c49d-4585-b63e-51570a2ba578,Ervin,Bodnár,ervin.bodnar@gmail.com,05/865-0948,ebodnar,20,Debrecen,HU,47.5316,21.6273,H-1296,Europe/Budapest
+5bb2b30c-a638-421d-b5c3-82a0fc859398,Krisztina,Hegedűs,krisztina.hegedus@gmail.com,(06)81/138-6338,khegedus,60,Kaposvár,HU,46.3590,17.7956,H-6441,Europe/Budapest
+16e31a5e-4d63-4cdd-9f32-c5f62b4fdc7d,Zsolt,Fekete,zsolt.fekete@hotmail.com,86/195 7612,zfekete2,68,Eger,HU,48.0000,20.7833,H-1437,Europe/Budapest
+1787a26c-16a1-4172-9de1-1fb1084e507b,Ferenc,Molnár,ferenc.molnar@yahoo.com,06-2/897 5585,fmolnar,72,Kecskemét,HU,46.8964,19.6897,H-1296,Europe/Budapest
+bb7a015c-8a23-44e7-b694-cd9fd4a710c6,Krisztián,Jakab,krisztian.jakab@freemail.hu,06-59/398 3684,kjakab,41,Kecskemét,HU,46.8964,19.6897,H-1503,Europe/Budapest
+fa3271f0-4869-4ae3-b9f0-093cdaa1c37d,Kinga,Németh,kinga.nemeth@freemail.hu,+36 04 908-2404,knemeth2,32,Miskolc,HU,47.9025,19.6197,H-7237,Europe/Budapest
+7493acf8-2398-4695-b520-c3a8743edea6,Péter,Horváth,peter.horvath@mailbox.hu,06-48/889 9210,phorvath3,47,Nagykanizsa,HU,46.6833,17.6356,H-3464,Europe/Budapest
+deffa86c-d5f8-4376-90cd-14a12658288c,Dániel,Tóth,daniel.toth@yahoo.com,33/441 9693,dtoth,64,Miskolc,HU,48.1117,20.7906,H-6604,Europe/Budapest
+d57920ce-3315-452b-b305-274eb10c96ea,József,Varga,jozsef.varga@freemail.hu,(06)79/194-0961,jvarga,67,Esztergom,HU,47.7536,18.7997,H-6119,Europe/Budapest
+0b2cda1a-614b-4c8e-86c2-8e480ad1e75f,István,Bogdán,istvan.bogdan@yahoo.com,06-66/139 0604,ibogdan,51,Eger,HU,48.0000,20.7833,H-1656,Europe/Budapest
+3c797bf2-4435-4fbb-85d9-27415bfd32a7,István,Takács,istvan.takacs@hotmail.com,(83)/206-7998,itakacs,23,Cegléd,HU,47.3495,19.8347,H-4226,Europe/Budapest
+d2496916-e7eb-4feb-91ca-d660cab92253,Péter,Horváth,peter.horvath@freemail.hu,(06)25/179-0864,phorvath4,23,Kecskemét,HU,46.8964,19.6897,H-2117,Europe/Budapest
+c631a082-b699-4990-a37a-d656d21b4bd8,Pál,Németh,pal.nemeth@indamail.hu,(06)27/837-6938,pnemeth,57,Esztergom,HU,47.7536,18.7997,H-6125,Europe/Budapest
+4f6f091b-cf19-4aa1-9d0f-beed57b0dfe7,Virág,Papp,virag.papp@hotmail.com,+36 46 591-1665,vpapp,40,Eger,HU,48.0000,20.7833,H-3729,Europe/Budapest
+0a43525e-0ae5-458d-a5ad-4cdff7346e45,Ferenc,Varga,ferenc.varga@indamail.hu,+36 42 597-9270,fvarga,77,Debrecen,HU,47.5316,21.6273,H-7942,Europe/Budapest
+386c92d5-a064-4ee4-9810-8948089540c6,Rozália,Szabó,rozalia.szabo@yahoo.com,(06)11/039-2405,rszabo3,62,Miskolc,HU,48.1117,20.7906,H-3292,Europe/Budapest
+622e55a6-cc7a-4576-b4f1-8cb0f852848a,Márta,Horváth,marta.horvath@freemail.hu,+36 53 833-8848,mhorvath5,48,Sopron,HU,47.6817,16.5845,H-6384,Europe/Budapest
+efd92bf5-a0ed-4589-adf9-d404e87833f9,Ilona,Mezei,ilona.mezei@indamail.hu,06-0/698 0420,imezei,36,Debrecen,HU,47.5316,21.6273,H-9757,Europe/Budapest
+53db174a-2ee9-430c-acd2-30610957e9da,Attila,Pintér,attila.pinter@yahoo.com,+36 70 164-5104,apinter2,73,Sopron,HU,47.6817,16.5845,H-7176,Europe/Budapest
+34804af2-b54e-4a8c-a7d3-2166b52534c3,Beáta,Kiss,beata.kiss@freemail.hu,15/798 1238,bkiss2,79,Miskolc,HU,47.9025,19.6197,H-8224,Europe/Budapest
+4fe0cd67-75b1-42f3-a6ec-f6eba089c6b9,Jenő,Bakos,jeno.bakos@gmail.com,+36 38 457-6205,jbakos,61,Nagykanizsa,HU,46.6833,17.6356,H-6883,Europe/Budapest
+7b0e70d9-e126-411b-ab46-f9949801fc97,Dániel,Fekete,daniel.fekete@hotmail.com,40/460 8432,dfekete,39,Veszprém,HU,47.0833,17.9167,H-7079,Europe/Budapest
+57d78284-489f-47f0-959b-a1e8a82d549a,Barbara,Balázs,barbara.balazs@gmail.com,06-6/893 6392,bbalazs,45,Esztergom,HU,47.7536,18.7997,H-4340,Europe/Budapest
+2934b7d5-7138-46a5-af99-6c86e6a60368,Zita,Máté,zita.mate@yahoo.com,82/329-8324,zmate,62,Esztergom,HU,47.7536,18.7997,H-4378,Europe/Budapest
+587cee8a-4a16-47c8-9746-58fd9960a45c,Ildikó,Papp,ildiko.papp@hotmail.com,29/251-8812,ipapp,38,Győr,HU,47.6875,17.6504,H-7159,Europe/Budapest
+a08e6049-fa52-4ae3-9edf-1d38b0a6e6ac,Dóra,Tóth,dora.toth@gmail.com,06-56/647 4231,dtoth2,26,Szeged,HU,46.2530,20.1414,H-7686,Europe/Budapest
+94a9ce53-8036-480c-81fb-26edd725661a,Ferenc,Jakab,ferenc.jakab@citromail.hu,49/993 9330,fjakab,40,Veszprém,HU,47.0833,17.9167,H-9080,Europe/Budapest
+a003c925-8768-4fa8-9892-c90e06c99344,József,Sándor,jozsef.sandor@hotmail.com,97/526 7722,jsandor,30,Kecskemét,HU,46.8964,19.6897,H-6653,Europe/Budapest
+45e31f6a-760b-4f28-9b77-eb8df08cc35a,Tamás,Molnár,tamas.molnar@gmail.com,(63)/331-2797,tmolnar,62,Budapest,HU,47.4979,19.0402,H-1022,Europe/Budapest
+bbd4a75d-a472-48f3-8805-0d5214d845ee,Mihály,Németh,mihaly.nemeth@hotmail.com,60/965-6999,mnemeth3,52,Kecskemét,HU,46.8964,19.6897,H-6093,Europe/Budapest
+3b179231-315c-48c4-a70a-6393baa7b2cc,Mária,Bognár,maria.bognar@mailbox.hu,+36 81 770-3886,mbognar,80,Cegléd,HU,47.3495,19.8347,H-7047,Europe/Budapest
+14f34f2e-ce46-4f77-927e-4695335a1166,Krisztina,Lakatos,krisztina.lakatos@citromail.hu,06-03/476 4472,klakatos,45,Nagykanizsa,HU,46.6833,17.6356,H-1928,Europe/Budapest
+9b1b282a-e89a-4cd9-898a-dc9d84cdf752,Lajos,Gáspár,lajos.gaspar@indamail.hu,27/718 1298,lgaspar2,26,Budapest,HU,47.4979,19.0402,H-4371,Europe/Budapest
+36520f87-ddb2-40b1-abfd-d85cb00162fa,Máté,Varga,mate.varga@gmail.com,(06)79/371-4521,mvarga5,23,Pécs,HU,46.0727,18.2323,H-3137,Europe/Budapest
+16e9d850-f8fc-4090-ab19-28eb5ec024fd,János,Németh,janos.nemeth@yahoo.com2,+36 86 892-6860,jnemeth2,67,Pécs,HU,46.0727,18.2323,H-8279,Europe/Budapest
+ea0f29f7-afc0-4956-8008-a6b0eef0d193,Gábor,Varga,gabor.varga@mailbox.hu,06-2/222 0644,gvarga,64,Győr,HU,47.6875,17.6504,H-3268,Europe/Budapest
+e7031aad-ddf9-432c-a66d-7e84d7a9502f,Edit,Németh,edit.nemeth@indamail.hu,(06)12/309-4077,enemeth3,72,Eger,HU,48.0000,20.7833,H-5954,Europe/Budapest
+ff2495c3-7281-48f5-b0d0-a66e7a83961f,Bendegúz,Antal,bendeguz.antal@citromail.hu,33/977-6719,bantal,56,Szeged,HU,46.2530,20.1414,H-8629,Europe/Budapest
+14425457-f0a3-4f78-bf05-66291a504de0,László,Fábián,laszlo.fabian@yahoo.com,83/022 0502,lfabian,72,Győr,HU,47.6875,17.6504,H-4698,Europe/Budapest
+1d2ddad8-e9ce-4c5c-b3d8-88f55e424d51,László,Mészáros,laszlo.meszaros@citromail.hu,(51)/016-2249,lmeszaros2,60,Győr,HU,47.6875,17.6504,H-3407,Europe/Budapest
+3c08326f-81f7-468e-8655-8ddb94d2b28e,Andrea,Simon,andrea.simon@mailbox.hu,27/950 1455,asimon,75,Szeged,HU,46.2530,20.1414,H-9195,Europe/Budapest
+a5e5503c-e9ad-4a46-a3cf-b10e34fa5c0b,Miklós,Nagy,miklos.nagy@freemail.hu,06-81/472 1458,mnagy6,44,Eger,HU,48.0000,20.7833,H-9161,Europe/Budapest
+d366cb46-e944-4c29-8e4e-f0e4f572ce64,Mária,Pintér,maria.pinter@citromail.hu,+36 19 817-9469,mpinter2,72,Kaposvár,HU,46.3590,17.7956,H-9098,Europe/Budapest
+75cd6c76-e314-40b0-942d-f135ffbf41e4,Balázs,Takács,balazs.takacs@citromail.hu,(29)/978-7729,btakacs,32,Nagykanizsa,HU,46.6833,17.6356,H-1988,Europe/Budapest
+4ec05140-8b14-4ed8-956a-5262b7e5834f,Ildikó,Barta,ildiko.barta@gmail.com,+36 07 139-6605,ibarta,40,Cegléd,HU,47.3495,19.8347,H-1409,Europe/Budapest
+816e5cf6-78da-432a-9195-43054e46c3d1,Erzsébet,Török,erzsebet.torok@gmail.com,06-3/441 4488,etorok,38,Győr,HU,47.6875,17.6504,H-4627,Europe/Budapest
+f5705244-d07c-4f85-8e08-d55b46a9e337,Magdolna,Kovács,magdolna.kovacs@yahoo.com,(69)/902-3557,mkovacs5,76,Szeged,HU,46.2530,20.1414,H-5452,Europe/Budapest
+1064f5d2-79d4-4ffc-84f9-4b843e98fd4a,Nándor,Nagy,nandor.nagy@hotmail.com,27/857-6084,nnagy,54,Szeged,HU,46.2530,20.1414,H-8594,Europe/Budapest
+9c6202a6-df62-43fd-a25a-b4e6cfa1a087,Erika,Horváth,erika.horvath@citromail.hu,+36 39 551-2405,ehorvath3,80,Szeged,HU,46.2530,20.1414,H-7732,Europe/Budapest
+b5eba207-0870-4595-ba02-154aee7faa25,Krisztián,Takács,krisztian.takacs@hotmail.com,96/291 4504,ktakacs2,44,Cegléd,HU,47.3495,19.8347,H-8222,Europe/Budapest
+b0f3eac5-cfa4-452e-85b8-00479b10e526,József,Bognár,jozsef.bognar@yahoo.com,43/842-1503,jbognar,76,Debrecen,HU,47.5316,21.6273,H-6532,Europe/Budapest
+51e5d852-3e25-4576-98f7-9528390c1562,János,Balogh,janos.balogh@mailbox.hu,82/357-8452,jbalogh2,67,Miskolc,HU,47.9025,19.6197,H-1169,Europe/Budapest
+884f05f8-90f0-4e20-bae8-ba2750495040,Réka,Fülöp,reka.fulop@citromail.hu,06-2/307 6810,rfulop2,37,Nagykanizsa,HU,46.6833,17.6356,H-4297,Europe/Budapest
+db555fda-8e7b-4e8c-9578-62ffbf7c6eea,Etelka,Kocsis,etelka.kocsis@citromail.hu,06-15/701 8409,ekocsis,66,Pécs,HU,46.0727,18.2323,H-6116,Europe/Budapest
+da9ceb96-06a2-4183-8d7f-b3f701918f62,Balázs,Szücs,balazs.szucs@yahoo.com,(06)34/485-7142,bszucs2,28,Miskolc,HU,47.9025,19.6197,H-2608,Europe/Budapest
+bffbbafa-5802-46c0-82b7-2400c7382ce2,Csaba,Nagy,csaba.nagy@citromail.hu,81/385 8542,cnagy,78,Veszprém,HU,47.0833,17.9167,H-3495,Europe/Budapest
+155cded8-7bbc-4ac6-9b12-701093f05cdc,Ildikó,Horváth,ildiko.horvath@hotmail.com,(06)14/958-7020,ihorvath3,48,Sopron,HU,47.6817,16.5845,H-2339,Europe/Budapest
+24c06011-e113-41f9-983d-941ee6d92437,Bernadett,Nagy,bernadett.nagy@freemail.hu,+36 16 629-9795,bnagy2,37,Veszprém,HU,47.0833,17.9167,H-7057,Europe/Budapest
+3700f6f7-c561-4dfe-a76f-f8944470928c,Róbert,Szabó,robert.szabo@mailbox.hu,06-8/179 2171,rszabo4,47,Miskolc,HU,47.9025,19.6197,H-3966,Europe/Budapest
+ec1a3882-82fe-4629-9947-b9a411e0108d,Balázs,Fehér,balazs.feher@mailbox.hu,73/329-4562,bfeher,62,Cegléd,HU,47.3495,19.8347,H-5711,Europe/Budapest
+91ea09d5-98e3-4b03-8a50-1354da160118,Gyöngyi,Varga,gyongyi.varga@mailbox.hu,(77)/017-1577,gvarga2,72,Esztergom,HU,47.7536,18.7997,H-2320,Europe/Budapest
+aec249a3-e699-4b31-b4d1-4d6aa1d7b7d3,Gábor,Bogdán,gabor.bogdan@citromail.hu,28/161 5814,gbogdan,52,Kecskemét,HU,46.8964,19.6897,H-3391,Europe/Budapest
+58430100-837c-4fb0-af8a-6a2a505ad62d,Kálmán,Oláh,kalman.olah@hotmail.com,38/276 1539,kolah2,45,Eger,HU,48.0000,20.7833,H-2846,Europe/Budapest
+5bfaed90-da34-42cb-96c9-3a88a7bccb48,Szilvia,Németh,szilvia.nemeth@mailbox.hu,(83)/219-7199,snemeth,47,Miskolc,HU,47.9025,19.6197,H-6063,Europe/Budapest
+0d5d3792-9e67-4a07-96b0-bc8025d59ca7,Mihály,Kovács,mihaly.kovacs@freemail.hu,(06)46/191-9657,mkovacs6,59,Veszprém,HU,47.0833,17.9167,H-9516,Europe/Budapest
+d9d9e1ae-6610-4ece-abda-93b919f26db7,Margit,Kovács,margit.kovacs@mailbox.hu,(06)90/227-8469,mkovacs7,54,Kecskemét,HU,46.8964,19.6897,H-7559,Europe/Budapest
+0c1ac54f-97ea-4089-b5be-f57ded7e6724,Kristóf,Szabó,kristof.szabo@yahoo.com,(94)/651-9098,kszabo2,43,Eger,HU,48.0000,20.7833,H-2966,Europe/Budapest
+a3045164-b5c6-40e1-ba26-c50393432cce,Alexandra,Bálint,alexandra.balint@gmail.com,(80)/085-1403,abalint,45,Eger,HU,48.0000,20.7833,H-8602,Europe/Budapest
+08cb5685-60d2-43c8-b4d5-768ed5df524d,Ildikó,Kiss,ildiko.kiss@yahoo.com,06-6/666 8327,ikiss4,26,Szeged,HU,46.2530,20.1414,H-4644,Europe/Budapest
+5b346eb9-3758-478e-83d4-e5d68d787304,Ferenc,Kiss,ferenc.kiss@yahoo.com,06-62/422 0102,fkiss,64,Eger,HU,48.0000,20.7833,H-6143,Europe/Budapest
+f56a14a4-456b-449e-977a-04571a8d7361,Beáta,Balázs,beata.balazs@hotmail.com,+36 26 796-9278,bbalazs2,45,Kecskemét,HU,46.8964,19.6897,H-1434,Europe/Budapest
+bcfffc0f-65db-4b7e-ae3e-4a964dd642b2,Erzsébet,Németh,erzsebet.nemeth@yahoo.com,(06)26/909-7384,enemeth4,44,Szeged,HU,46.2530,20.1414,H-5916,Europe/Budapest
+d34f62af-ffbc-42f0-873f-a3e9f73e2232,Orsolya,Mészáros,orsolya.meszaros@gmail.com,+36 97 519-7128,omeszaros,80,Szeged,HU,46.2530,20.1414,H-7317,Europe/Budapest
+e2e5f348-86c6-48a8-9fab-83f98f03c5ed,Csilla,László,csilla.laszlo@yahoo.com,81/891-3718,claszlo,69,Kecskemét,HU,46.8964,19.6897,H-8442,Europe/Budapest
+b1723109-7587-47e7-af11-3467081337b6,Katalin,Rácz,katalin.racz@yahoo.com,07/787 9565,kracz,79,Szeged,HU,46.2530,20.1414,H-3124,Europe/Budapest
+72cdbb36-431d-42d7-b615-d45e6644f17e,Zsanett,Horváth,zsanett.horvath@hotmail.com,+36 94 940-7929,zhorvath3,21,Szeged,HU,46.2530,20.1414,H-2973,Europe/Budapest
+ae38cdd1-81ad-42ea-9d38-6e35933cb356,Zsuzsanna,Horváth,zsuzsanna.horvath@indamail.hu,04/712 8144,zhorvath4,26,Esztergom,HU,47.7536,18.7997,H-2903,Europe/Budapest
+9e0147f7-b9dd-489c-843e-c62ec8ad60b5,Ilona,Horváth,ilona.horvath@yahoo.com,+36 19 292-7524,ihorvath4,68,Pécs,HU,46.0727,18.2323,H-8317,Europe/Budapest
+268b91fe-f04f-4ec5-aa2a-590846ce03d9,Ildikó,Balogh,ildiko.balogh@mailbox.hu,05/129 2766,ibalogh,33,Miskolc,HU,47.9025,19.6197,H-2029,Europe/Budapest
+78176587-7f49-4c77-94af-a814f185cc1d,Margit,Magyar,margit.magyar@hotmail.com,(06)95/041-0276,mmagyar,48,Sopron,HU,47.6817,16.5845,H-6838,Europe/Budapest
+56ade88a-9227-41d6-b77a-15d77977adf0,György,Király,gyorgy.kiraly@mailbox.hu,36/674 2860,gkiraly,36,Miskolc,HU,47.9025,19.6197,H-1833,Europe/Budapest
+e20c4842-3cdd-4aa7-8cdd-bf9774ba6f0a,Jolán,Németh,jolan.nemeth@indamail.hu,(80)/185-6945,jnemeth3,35,Szeged,HU,46.2530,20.1414,H-8104,Europe/Budapest
+a8cb135b-969a-496f-a401-1e134710298d,András,Kovács,andras.kovacs@indamail.hu,67/393 8525,akovacs7,53,Miskolc,HU,47.9025,19.6197,H-4513,Europe/Budapest
+b7d5e34e-1eee-4989-b247-21e495e5a4fc,László,Nagy,laszlo.nagy@gmail.com,+36 61 817-5344,lnagy,30,Miskolc,HU,47.9025,19.6197,H-7343,Europe/Budapest
+4a3c5473-c0e9-41fa-8fbd-e8fb02d09eab,István,Fekete,istvan.fekete@gmail.com,39/111 9269,ifekete,69,Debrecen,HU,47.5316,21.6273,H-8191,Europe/Budapest
+aa4e4da7-f97c-49bb-9990-d9ba57bbfbed,Róza,Hajdu,roza.hajdu@indamail.hu,(06)44/717-4654,rhajdu,28,Sopron,HU,47.6817,16.5845,H-7335,Europe/Budapest
+64af50d5-627d-456f-b588-fd119defb8c5,Szilvia,Horváth,szilvia.horvath@gmail.com,65/044-2717,shorvath,80,Pécs,HU,46.0727,18.2323,H-8154,Europe/Budapest
+3d683a00-15f8-43d5-9ae6-e0ee8b053343,Jolán,Rácz,jolan.racz@hotmail.com,06-7/128 6391,jracz,76,Nagykanizsa,HU,46.6833,17.6356,H-4382,Europe/Budapest
+da38df6d-9e10-46e5-8f84-03d7aa641729,Márton,Szabó,marton.szabo@gmail.com,+36 19 470-7200,mszabo3,60,Miskolc,HU,47.9025,19.6197,H-5176,Europe/Budapest
+737d79c1-5057-47bd-8e5f-ae26651373b1,Bence,Tóth,bence.toth@yahoo.com,90/877-6618,btoth2,32,Esztergom,HU,47.7536,18.7997,H-3206,Europe/Budapest
+49fef919-c5cf-4c60-be18-c38262d8a44a,László,Soós,laszlo.soos@mailbox.hu,06-71/985 5460,lsoos,58,Sopron,HU,47.6817,16.5845,H-9299,Europe/Budapest
+3b4f9e0e-95b6-4da6-a875-f9a1ffb56168,Virág,Fehér,virag.feher@yahoo.com,51/743 2806,vfeher,60,Sopron,HU,47.6817,16.5845,H-5580,Europe/Budapest
+cc625cd6-586e-4d53-ada5-812f270b6d96,Attila,Pintér,attila.pinter@gmail.com,06-5/717 3203,apinter3,19,Szeged,HU,46.2530,20.1414,H-9457,Europe/Budapest
+b0e7c43f-2ede-4ccf-bf50-7d38bf505a26,Julianna,Oláh,julianna.olah@freemail.hu,18/478-7005,jolah,21,Debrecen,HU,47.5316,21.6273,H-9691,Europe/Budapest
+08487efb-d5ba-4d46-a89f-1de2ebcad32f,Róbert,Magyar,robert.magyar@freemail.hu,+36 38 782-9310,rmagyar,65,Miskolc,HU,48.1117,20.7906,H-9162,Europe/Budapest
+8b1c3431-8d1d-4cba-bb80-0e495c45984f,Sándor,Balázs,sandor.balazs@freemail.hu,03/202 0417,sbalazs,57,Miskolc,HU,47.9025,19.6197,H-5993,Europe/Budapest
+de5d4ec2-8262-4bd6-9753-89ee79216b8e,Gábor,Oláh,gabor.olah@mailbox.hu,06-11/799 3136,golah,39,Debrecen,HU,47.5316,21.6273,H-5536,Europe/Budapest
+4441eea1-6f97-403e-8ada-4c93ab4df552,Tímea,Péter,timea.peter@indamail.hu,51/982-5309,tpeter,29,Miskolc,HU,47.9025,19.6197,H-2338,Europe/Budapest
+15d9572d-ff9a-407b-b35e-f4211f8a1957,Róbert,Kovács,robert.kovacs@hotmail.com,06-62/582 7390,rkovacs,26,Veszprém,HU,47.0833,17.9167,H-2367,Europe/Budapest
+3b25b006-edb1-4a2d-8708-e92d49490244,János,Pap,janos.pap@citromail.hu,20/710-0219,jpap2,74,Cegléd,HU,47.3495,19.8347,H-5616,Europe/Budapest
+11549368-e872-4344-9688-bf25a8488a45,Imre,Orsós,imre.orsos@mailbox.hu,06-72/324 8763,iorsos,78,Debrecen,HU,47.5316,21.6273,H-7054,Europe/Budapest
+1ad35dce-4396-4ac9-b5ac-f58753ca418f,Ferenc,Orsós,ferenc.orsos@citromail.hu,(06)79/145-6083,forsos,30,Győr,HU,47.6875,17.6504,H-4707,Europe/Budapest
+abcc2acd-0774-4c9d-aa7a-1d476f285a9f,Zoltán,Takács,zoltan.takacs@gmail.com,58/837 3403,ztakacs,25,Miskolc,HU,48.1117,20.7906,H-4671,Europe/Budapest
+2266ce33-3d19-41dc-ac0b-8d6907b8fb83,Viktória,Kocsis,viktoria.kocsis@freemail.hu,22/005-4364,vkocsis,39,Szeged,HU,46.2530,20.1414,H-8470,Europe/Budapest
+d4b197e8-c7a1-4a09-9fc4-5d8d1c063639,Ilona,Bodnár,ilona.bodnar@freemail.hu,+36 10 822-0781,ibodnar,22,Veszprém,HU,47.0833,17.9167,H-6312,Europe/Budapest
+ba66be19-6c5e-4a06-bd0a-f70e548154f6,Barbara,Magyar,barbara.magyar@citromail.hu,56/353 1531,bmagyar,33,Debrecen,HU,47.5316,21.6273,H-8894,Europe/Budapest
+6e28dd2e-ac6c-4d81-94f5-4b99dc82f5b4,Krisztina,Szőke,krisztina.szoke@freemail.hu,(06)17/970-6239,kszoke,47,Nagykanizsa,HU,46.6833,17.6356,H-1697,Europe/Budapest
+5cac75ee-6696-4584-9411-201a31d1c612,Ferenc,Kiss,ferenc.kiss@freemail.hu,06-3/543 5209,fkiss2,21,Szeged,HU,46.2530,20.1414,H-7720,Europe/Budapest
+d7d40991-0567-4c55-8bde-ee226d279f1f,Csaba,Kovács,csaba.kovacs@freemail.hu,62/534-9292,ckovacs2,54,Pécs,HU,46.0727,18.2323,H-2862,Europe/Budapest
+a80ef6ae-f500-432f-916a-77be2a3853e4,Zita,Pál,zita.pal@gmail.com,87/397-7406,zpal,65,Eger,HU,48.0000,20.7833,H-4191,Europe/Budapest
+338bcfdf-09d6-4ef4-a732-e55291d6028f,Nóra,Szabó,nora.szabo@freemail.hu,39/290 6007,nszabo,64,Kaposvár,HU,46.3590,17.7956,H-7787,Europe/Budapest
+d29e0b74-8dc3-4275-83c1-0f8f0c83f65b,Edit,Nagy,edit.nagy@citromail.hu,71/773-1806,enagy3,78,Miskolc,HU,47.9025,19.6197,H-9647,Europe/Budapest
+2cf71af7-f895-4772-8728-8ffc43a74fd6,Péter,Varga,peter.varga@hotmail.com,06-1/074 2799,pvarga,19,Pécs,HU,46.0727,18.2323,H-1192,Europe/Budapest
+038a3418-411d-4dc0-972c-154a1bd02651,Zsanett,Farkas,zsanett.farkas@hotmail.com,06-62/570 1658,zfarkas3,20,Kaposvár,HU,46.3590,17.7956,H-6531,Europe/Budapest
+4ea8a359-9572-477e-a4b3-9708178bd45d,Lajos,László,lajos.laszlo@indamail.hu,89/319 5085,llaszlo,74,Kecskemét,HU,46.8964,19.6897,H-6504,Europe/Budapest
+75914579-a55f-4b47-8dda-a0909157c895,István,Kiss,istvan.kiss@freemail.hu,05/528 1832,ikiss5,80,Veszprém,HU,47.0833,17.9167,H-2614,Europe/Budapest
+652c13c7-b929-47f9-8525-9264e90a434c,Róbert,Takács,robert.takacs@indamail.hu,93/355-4864,rtakacs,21,Cegléd,HU,47.3495,19.8347,H-4840,Europe/Budapest
+6b7629f9-c1a8-4c34-a4a9-5cd2e6434c87,István,Varga,istvan.varga@freemail.hu,81/788 4795,ivarga2,69,Győr,HU,47.6875,17.6504,H-8267,Europe/Budapest
+0a34565d-d6fa-46a3-8607-99baf027ff71,Judit,Orsós,judit.orsos@gmail.com,(06)71/162-4112,jorsos,35,Miskolc,HU,47.9025,19.6197,H-5576,Europe/Budapest
+f12f2bdb-8aff-44b8-86c1-32ad7b3d6642,János,Tóth,janos.toth@hotmail.com3,06-38/046 8275,jtoth5,44,Nagykanizsa,HU,46.6833,17.6356,H-1941,Europe/Budapest
+06d690a1-6441-4d46-bf83-9e084b0a672a,Géza,Fehér,geza.feher@yahoo.com,(06)10/385-6955,gfeher,49,Pécs,HU,46.0727,18.2323,H-3509,Europe/Budapest
+6376ec84-4ae1-4d67-bf61-b163e474e9c7,Éva,Pintér,eva.pinter@mailbox.hu,77/492 4243,epinter,48,Miskolc,HU,47.9025,19.6197,H-7360,Europe/Budapest
+a74c2921-9a77-4814-86e1-75d4e4fc8f9a,Krisztián,Horváth,krisztian.horvath@mailbox.hu,+36 25 472-9284,khorvath,29,Győr,HU,47.6875,17.6504,H-9552,Europe/Budapest
+92562a23-46c2-405d-ab5a-e2cdd87be5f2,Emma,Budai,emma.budai@indamail.hu,06-2/231 0592,ebudai,46,Esztergom,HU,47.7536,18.7997,H-9231,Europe/Budapest
+cebebd31-c74c-4442-9c18-edf859b667cf,Tibor,Tóth,tibor.toth@citromail.hu,06-0/552 5782,ttoth2,52,Győr,HU,47.6875,17.6504,H-3996,Europe/Budapest
+c9e48304-1ceb-49a2-9c77-6b4a6de1ac18,György,Gáspár,gyorgy.gaspar@freemail.hu,27/520-8854,ggaspar,48,Kecskemét,HU,46.8964,19.6897,H-9343,Europe/Budapest
+a76b680f-9796-40f8-86a1-8d71301a22dd,Barbara,Faragó,barbara.farago@mailbox.hu,29/751 7028,bfarago,25,Sopron,HU,47.6817,16.5845,H-6859,Europe/Budapest
+07b87736-d313-4535-aa80-c8cb2b3f2b55,György,Molnár,gyorgy.molnar@mailbox.hu,(06)75/150-9398,gmolnar,32,Eger,HU,48.0000,20.7833,H-2977,Europe/Budapest
+0d1f4b3c-ffdb-4dc4-8f91-29cf2c2855c5,Szilvia,Bogdán,szilvia.bogdan@hotmail.com,+36 18 718-6375,sbogdan,56,Veszprém,HU,47.0833,17.9167,H-4858,Europe/Budapest
+aa82e23e-2d82-408e-aa71-8ce47eb70add,Éva,Virág,eva.virag@indamail.hu,(62)/656-5045,evirag,40,Sopron,HU,47.6817,16.5845,H-7922,Europe/Budapest
+4f870254-dbcf-40ce-b400-bb92f1b6aef3,György,Németh,gyorgy.nemeth@citromail.hu,+36 37 674-2662,gnemeth2,71,Miskolc,HU,47.9025,19.6197,H-5376,Europe/Budapest
+f34fde22-f14b-4f3e-9d4c-3df75234790e,Katalin,Kovács,katalin.kovacs@hotmail.com,(78)/519-6106,kkovacs6,58,Győr,HU,47.6875,17.6504,H-7628,Europe/Budapest
+55dcae4a-80e7-40b9-82b9-68434d212d96,Hajnalka,Molnár,hajnalka.molnar@citromail.hu,92/326-4870,hmolnar,70,Kecskemét,HU,46.8964,19.6897,H-2171,Europe/Budapest
+7bddbac1-81c4-4eea-9b1b-d1f4cfc8a4b5,Ibolya,Hegedűs,ibolya.hegedus@yahoo.com,87/300-2447,ihegedus,25,Miskolc,HU,48.1117,20.7906,H-7535,Europe/Budapest
+a31cb265-167b-4b03-b85f-f2117dee5d45,Zsuzsanna,Szücs,zsuzsanna.szucs@freemail.hu,(06)73/014-7195,zszucs2,55,Eger,HU,48.0000,20.7833,H-6539,Europe/Budapest
+d6c41c92-e421-4043-9904-02181850ca3e,Vilmos,Németh,vilmos.nemeth@yahoo.com,06-7/158 9042,vnemeth2,55,Pécs,HU,46.0727,18.2323,H-6069,Europe/Budapest
+80c41120-c37e-46b3-8688-e0f582458e1e,István,Horváth,istvan.horvath@indamail.hu,(06)52/045-6504,ihorvath5,36,Esztergom,HU,47.7536,18.7997,H-6829,Europe/Budapest
+39b7f50e-fe96-489e-893c-b6407fbfb371,Mária,Orbán,maria.orban@citromail.hu,(06)21/928-5544,morban,61,Pécs,HU,46.0727,18.2323,H-9630,Europe/Budapest
+c09c4113-7339-46a8-85dd-c50704a1f2e5,Andrea,Kiss,andrea.kiss@citromail.hu,52/028 4576,akiss2,39,Eger,HU,48.0000,20.7833,H-8285,Europe/Budapest
+34c53b95-199f-4dbe-96e9-175739d72564,Petra,Tóth,petra.toth@hotmail.com,(06)83/389-8881,ptoth2,44,Miskolc,HU,47.9025,19.6197,H-5179,Europe/Budapest
+a2433210-6d94-4f4f-8d09-9304e5bf00b8,Kálmán,Kovács,kalman.kovacs@mailbox.hu,(06)07/545-2798,kkovacs7,66,Győr,HU,47.6875,17.6504,H-5314,Europe/Budapest
+38e9c418-15d5-447d-bff5-6e0b43d53455,Zita,Tóth,zita.toth@yahoo.com,+36 13 223-4232,ztoth,80,Sopron,HU,47.6817,16.5845,H-2421,Europe/Budapest
+e6914a2f-aca1-44e6-ad3d-2513f39d127b,József,Orsós,jozsef.orsos@mailbox.hu,+36 10 760-3108,jorsos2,55,Miskolc,HU,47.9025,19.6197,H-5409,Europe/Budapest
+b3606950-9743-4b47-a3b2-76ad50f200bf,István,Kovács,istvan.kovacs@yahoo.com,+36 14 011-9393,ikovacs,29,Veszprém,HU,47.0833,17.9167,H-8624,Europe/Budapest
+3b855510-e160-443f-8896-83b49a1f048c,Judit,Nagy,judit.nagy@hotmail.com,06-49/552 8938,jnagy5,54,Sopron,HU,47.6817,16.5845,H-3857,Europe/Budapest
+9520b244-abff-4b5f-9c79-569b565315e6,József,Fülöp,jozsef.fulop@mailbox.hu,+36 83 342-8013,jfulop,76,Pécs,HU,46.0727,18.2323,H-1405,Europe/Budapest
+53d61ecb-47b0-4e73-a180-c244477bf0df,Mária,Fodor,maria.fodor@yahoo.com,06-9/271 2566,mfodor,31,Szeged,HU,46.2530,20.1414,H-8703,Europe/Budapest
+81752a41-9efa-4ef2-bed4-00ab9bcd8a3d,Mária,Molnár,maria.molnar@mailbox.hu,(17)/182-7548,mmolnar4,64,Miskolc,HU,47.9025,19.6197,H-5766,Europe/Budapest
+08af360c-daf0-498e-b4f1-ffb8aa13aa55,István,Varga,istvan.varga@gmail.com,47/947-3864,ivarga3,72,Sopron,HU,47.6817,16.5845,H-4077,Europe/Budapest
+cc704787-0829-42b9-a1ec-536283fa0a06,Antal,Pál,antal.pal@mailbox.hu,06-75/207 1678,apal,60,Eger,HU,48.0000,20.7833,H-8510,Europe/Budapest
+d993edce-7b85-4aaa-866b-fd4c955e576e,Judit,Kovács,judit.kovacs@freemail.hu,91/215-3539,jkovacs3,72,Eger,HU,48.0000,20.7833,H-1651,Europe/Budapest
+13c2ce1e-c8b9-4993-9cec-d24ae0609f77,Györgyi,Kovács,gyorgyi.kovacs@mailbox.hu2,74/994-6579,gkovacs2,78,Eger,HU,48.0000,20.7833,H-5072,Europe/Budapest
+acd3d26e-86b7-41c5-bc65-6b8982d494f2,Roland,Farkas,roland.farkas@yahoo.com,(06)71/147-7320,rfarkas2,24,Nagykanizsa,HU,46.6833,17.6356,H-4461,Europe/Budapest
+eae2a922-fca4-4413-acd4-8acaa119be88,Krisztina,Vincze,krisztina.vincze@freemail.hu,06-0/269 5249,kvincze,57,Miskolc,HU,47.9025,19.6197,H-1411,Europe/Budapest
+ef9a9e85-62ac-47a5-b3cb-3b512603f4f6,János,Kovács,janos.kovacs@mailbox.hu,77/347 7848,jkovacs4,39,Kecskemét,HU,46.8964,19.6897,H-1829,Europe/Budapest
+6ceefd14-7c83-448d-8bb1-536e64ee4636,Tímea,Takács,timea.takacs@gmail.com,06-06/167 5677,ttakacs,20,Szeged,HU,46.2530,20.1414,H-3092,Europe/Budapest
+b281c774-9f1b-4e4c-a0e2-39600691a3e1,László,Lakatos,laszlo.lakatos@mailbox.hu,06-42/762 4671,llakatos2,54,Nagykanizsa,HU,46.6833,17.6356,H-6139,Europe/Budapest
+d1327991-2c9a-461e-b408-f0719f798059,Judit,Gál,judit.gal@indamail.hu,97/782 8064,jgal2,49,Budapest,HU,47.4979,19.0402,H-1295,Europe/Budapest
+e72a17ae-b828-4c1a-971c-df06bf1e2587,Éva,Kiss,eva.kiss@indamail.hu,(45)/009-0255,ekiss,69,Budapest,HU,47.4979,19.0402,H-2147,Europe/Budapest
+8dbbb1bc-7bea-4759-9adc-f7b098228d39,Irén,Nagy,iren.nagy@indamail.hu,(61)/655-6503,inagy3,33,Pécs,HU,46.0727,18.2323,H-8299,Europe/Budapest
+7e47015f-4a91-4ee3-9763-3f592a4096ac,Tamás,Horváth,tamas.horvath@gmail.com2,06-1/415 2085,thorvath4,20,Budapest,HU,47.4979,19.0402,H-6552,Europe/Budapest
+729abc1f-9d00-4b64-a325-722173fa8ab2,Kálmán,Vass,kalman.vass@citromail.hu,64/079 0569,kvass,42,Győr,HU,47.6875,17.6504,H-8839,Europe/Budapest
+7c5a5556-e5f9-4e4d-a7fb-bccce4fa76b0,Gyula,Kovács,gyula.kovacs@freemail.hu,+36 35 785-2945,gkovacs3,80,Budapest,HU,47.4979,19.0402,H-5975,Europe/Budapest
+01bc90c9-71b9-4afc-b239-d1deb3965294,Viktor,Balogh,viktor.balogh@mailbox.hu,06-18/344 0496,vbalogh,69,Kecskemét,HU,46.8964,19.6897,H-5568,Europe/Budapest
+e2be82a8-1d53-4644-b816-74cbb077b0e4,Tamás,Biró,tamas.biro@gmail.com,06-9/195 4198,tbiro,48,Pécs,HU,46.0727,18.2323,H-5263,Europe/Budapest
+3a638dfc-084b-426d-8afa-a86480c7ab1f,Antal,Varga,antal.varga@gmail.com,06-4/846 8536,avarga3,43,Győr,HU,47.6875,17.6504,H-4388,Europe/Budapest
+74ec732c-c799-46c3-9693-55ffb4a251f7,Tibor,Papp,tibor.papp@indamail.hu,06-82/082 9737,tpapp,35,Sopron,HU,47.6817,16.5845,H-5651,Europe/Budapest
+08cdcb7e-243a-43a4-896a-42eadf36b50f,Fanni,Takács,fanni.takacs@citromail.hu,06-69/083 5723,ftakacs,27,Eger,HU,48.0000,20.7833,H-1348,Europe/Budapest
+b0889c9a-15be-4fe4-afbd-4f0956061d26,Eszter,Jakab,eszter.jakab@mailbox.hu,65/136-4424,ejakab,61,Győr,HU,47.6875,17.6504,H-1824,Europe/Budapest
+bdb5afa7-0dac-4405-bb50-d8420be2740c,Éva,Molnár,eva.molnar@gmail.com,(06)30/347-7866,emolnar2,59,Debrecen,HU,47.5316,21.6273,H-4016,Europe/Budapest
+4f51478f-fb38-4d7b-bbaa-bab2e5696f63,Rita,Szabó,rita.szabo@yahoo.com,(06)04/482-0700,rszabo5,73,Miskolc,HU,48.1117,20.7906,H-1644,Europe/Budapest
+2d60ee63-97c8-4b0e-b7dc-59f0f8bc1c56,Barbara,Horváth,barbara.horvath@yahoo.com,06-16/516 2319,bhorvath3,65,Miskolc,HU,48.1117,20.7906,H-1359,Europe/Budapest
+c52efd0d-5638-4772-bf7b-c6d5c39f507e,Mária,Kovács,maria.kovacs@indamail.hu,06-98/471 3915,mkovacs8,39,Győr,HU,47.6875,17.6504,H-5177,Europe/Budapest
+095dc072-f0ef-450a-908f-ec8938cec115,Klára,Gulyás,klara.gulyas@mailbox.hu,06-3/632 1234,kgulyas,46,Cegléd,HU,47.3495,19.8347,H-4343,Europe/Budapest
+f0fd9664-d178-4f46-a685-839543f52d7b,Szabolcs,Vass,szabolcs.vass@gmail.com,85/158-6734,svass,74,Sopron,HU,47.6817,16.5845,H-1718,Europe/Budapest
+e7f56e30-406f-43b4-a677-12beaa2de164,Szilvia,Tóth,szilvia.toth@freemail.hu,06-5/409 0034,stoth3,53,Cegléd,HU,47.3495,19.8347,H-3182,Europe/Budapest
+5f859dae-94c7-473a-9215-5ca66aa92542,Norbert,Török,norbert.torok@indamail.hu,(18)/376-0644,ntorok,23,Debrecen,HU,47.5316,21.6273,H-7063,Europe/Budapest
+bc469d17-6e17-465e-8f41-28629b33572c,Valéria,Katona,valeria.katona@yahoo.com,(06)27/560-4177,vkatona,65,Eger,HU,48.0000,20.7833,H-3318,Europe/Budapest
+53edc04f-487e-4160-b054-fe294cd58e9f,Bálint,Deák,balint.deak@indamail.hu,12/481-5698,bdeak,65,Sopron,HU,47.6817,16.5845,H-7781,Europe/Budapest
+8f2ca61b-4698-4ad7-b3a9-4716ba92d92c,Mihály,Orsós,mihaly.orsos@mailbox.hu,+36 27 206-3459,morsos,23,Kaposvár,HU,46.3590,17.7956,H-2080,Europe/Budapest
+01f92c03-e213-4c07-8da3-af1e91b9c7e4,János,Szabó,janos.szabo@indamail.hu2,06-29/657 7242,jszabo4,61,Szeged,HU,46.2530,20.1414,H-4883,Europe/Budapest
+7912119d-cb07-4411-9108-6a9e8e345965,Éva,Varga,eva.varga@yahoo.com,(06)16/526-6930,evarga4,78,Sopron,HU,47.6817,16.5845,H-7970,Europe/Budapest
+a79b9f1a-b667-4d99-addc-5d872da5aa4c,László,Lakatos,laszlo.lakatos@citromail.hu,06-3/173 4206,llakatos3,57,Miskolc,HU,48.1117,20.7906,H-3579,Europe/Budapest
+cb782d7e-89f7-4998-acd8-635ac2857ef7,Gergely,Szabó,gergely.szabo@gmail.com,(29)/108-6771,gszabo2,32,Sopron,HU,47.6817,16.5845,H-6356,Europe/Budapest
+0ea6e368-0808-40dd-86c0-fc9f4ce928c3,Julianna,Tóth,julianna.toth@mailbox.hu,06-44/762 6393,jtoth6,70,Pécs,HU,46.0727,18.2323,H-5119,Europe/Budapest
+d4b0a91a-ee9b-4c6e-b00d-ccbac02abc8c,Imre,Szűcs,imre.szucs@freemail.hu,(06)62/044-3973,iszucs,41,Kaposvár,HU,46.3590,17.7956,H-4547,Europe/Budapest
+d236e385-44d6-4b7a-8058-7bcf47f7d457,Katalin,Fehér,katalin.feher@gmail.com,+36 72 563-6694,kfeher,22,Cegléd,HU,47.3495,19.8347,H-3863,Europe/Budapest
+9a7a569b-d162-4f9c-a547-4661a0ce967d,János,Nagy,janos.nagy@yahoo.com2,(06)75/990-0489,jnagy6,42,Eger,HU,48.0000,20.7833,H-7240,Europe/Budapest
+fd999ccc-1d2e-4cb6-a727-9dd13694571b,György,Kiss,gyorgy.kiss@yahoo.com,(06)80/924-2875,gkiss,74,Kaposvár,HU,46.3590,17.7956,H-3384,Europe/Budapest
+3901e3c2-4ace-4c08-9bff-5f02038e1658,Endre,Kovács,endre.kovacs@indamail.hu,62/415 0274,ekovacs,65,Eger,HU,48.0000,20.7833,H-3031,Europe/Budapest
+1d4ab7d7-fb6f-4bea-98e9-bfdbf35ac724,Ádám,Molnár,adam.molnar@yahoo.com2,48/562 5728,amolnar4,72,Kecskemét,HU,46.8964,19.6897,H-6914,Europe/Budapest
+0ead7801-e30f-463b-b3d5-15999dd14836,Boglárka,Török,boglarka.torok@freemail.hu,+36 32 032-0742,btorok,63,Miskolc,HU,47.9025,19.6197,H-1909,Europe/Budapest
+60f4b431-4859-4f2e-a4ca-b463516d72fe,Ernő,Kovács,erno.kovacs@freemail.hu,+36 75 877-7121,ekovacs2,40,Kaposvár,HU,46.3590,17.7956,H-1395,Europe/Budapest
+980df4e9-7e85-4173-a623-358abfbb0ff1,János,Szőke,janos.szoke@hotmail.com,06-28/499 3908,jszoke,67,Miskolc,HU,48.1117,20.7906,H-8286,Europe/Budapest
+5445a195-a099-4ceb-9aed-f651e4661d4a,Katalin,Molnár,katalin.molnar@gmail.com,(06)71/504-1659,kmolnar,77,Eger,HU,48.0000,20.7833,H-4953,Europe/Budapest
+5b70ab93-aad3-4e60-8e44-a01417dfe032,Laura,Budai,laura.budai@hotmail.com,+36 17 774-9050,lbudai,59,Eger,HU,48.0000,20.7833,H-2067,Europe/Budapest
+69b82165-2e24-4eee-a543-7be941b69f1c,Ilona,Németh,ilona.nemeth@indamail.hu,06-9/230 4501,inemeth3,53,Győr,HU,47.6875,17.6504,H-4382,Europe/Budapest
+2939bf8c-56cd-4c16-80da-44c5e80c74ea,Laura,Kiss,laura.kiss@freemail.hu,(23)/610-3266,lkiss2,36,Kecskemét,HU,46.8964,19.6897,H-7534,Europe/Budapest
+04578099-571c-43cd-9935-6f84ded00d61,Zsuzsanna,Soós,zsuzsanna.soos@hotmail.com,+36 47 649-2515,zsoos,50,Esztergom,HU,47.7536,18.7997,H-1249,Europe/Budapest
+bcf526e5-94a9-4e17-b6a0-3069d9b5d231,Attila,Németh,attila.nemeth@freemail.hu,49/961-6592,anemeth2,45,Veszprém,HU,47.0833,17.9167,H-7899,Europe/Budapest
+b3167e39-9865-413e-adb2-6ec697523d63,Anna,Kovács,anna.kovacs@citromail.hu,(73)/278-8147,akovacs8,45,Cegléd,HU,47.3495,19.8347,H-3385,Europe/Budapest
+4a40c471-d256-46ee-8b14-d50d4fcaa716,József,Váradi,jozsef.varadi@yahoo.com,(06)24/386-4908,jvaradi,22,Esztergom,HU,47.7536,18.7997,H-6520,Europe/Budapest
+48b31a2b-cddb-42b9-bf04-e7b2bfe23efe,Gyöngyi,Papp,gyongyi.papp@citromail.hu,61/794-5491,gpapp,67,Debrecen,HU,47.5316,21.6273,H-1154,Europe/Budapest
+9c4581ed-6e03-4317-a644-19bbecf37163,Mária,Kovács,maria.kovacs@indamail.hu2,22/601-6459,mkovacs9,64,Pécs,HU,46.0727,18.2323,H-5847,Europe/Budapest
+c6c3e97f-7f94-450c-9898-400ce4632072,Martin,Kis,martin.kis@citromail.hu,06-45/232 1941,mkis2,45,Eger,HU,48.0000,20.7833,H-3074,Europe/Budapest
+23f8bc0c-9ba8-4e86-b363-651cc633d3e2,Mária,Nagy,maria.nagy@gmail.com,+36 27 769-7499,mnagy7,41,Budapest,HU,47.4979,19.0402,H-6187,Europe/Budapest
+677608f6-d851-4d41-bbed-1eebc4de243c,Andrea,Pataki,andrea.pataki@indamail.hu,41/220-3103,apataki,72,Budapest,HU,47.4979,19.0402,H-4221,Europe/Budapest
+e714cd1d-c1ea-47f1-a2b9-f0c7667212fd,László,Farkas,laszlo.farkas@hotmail.com,06-3/683 1472,lfarkas2,48,Cegléd,HU,47.3495,19.8347,H-8759,Europe/Budapest
+410bda17-6af3-4fe9-afbb-0972f3439abf,Márk,Kovács,mark.kovacs@hotmail.com,06-7/770 7933,mkovacs10,36,Eger,HU,48.0000,20.7833,H-1254,Europe/Budapest
+b2110e07-d328-44bb-90df-690ab589be39,Katalin,Hegedűs,katalin.hegedus@gmail.com,(01)/667-9984,khegedus2,20,Cegléd,HU,47.3495,19.8347,H-9391,Europe/Budapest
+25b87553-3177-40f9-86bb-3365565f534e,Kevin,Balogh,kevin.balogh@citromail.hu,06-9/730 8069,kbalogh,38,Budapest,HU,47.4979,19.0402,H-4204,Europe/Budapest
+e855241f-8813-48b7-b469-b2082c8ae103,Erzsébet,Horváth,erzsebet.horvath@indamail.hu,71/795-7602,ehorvath4,36,Debrecen,HU,47.5316,21.6273,H-1372,Europe/Budapest
+92034db2-c82e-4a1a-8e3c-8f34b3c9bb17,Erika,Farkas,erika.farkas@freemail.hu,(06)83/959-7246,efarkas3,79,Esztergom,HU,47.7536,18.7997,H-2029,Europe/Budapest
+1322bcce-a305-44f6-8dea-c74c7168b1e8,Levente,Hegedüs,levente.hegedus@indamail.hu,06-5/729 3417,lhegedus2,26,Kecskemét,HU,46.8964,19.6897,H-3957,Europe/Budapest
+48732ffc-f791-4848-937d-a069271e8240,Gábor,Tóth,gabor.toth@freemail.hu,+36 67 433-8005,gtoth2,74,Miskolc,HU,47.9025,19.6197,H-6126,Europe/Budapest
+d4fa9beb-3416-45b4-a4ca-82d66879c9fa,Tibor,Szűcs,tibor.szucs@hotmail.com,06-80/156 1931,tszucs,53,Győr,HU,47.6875,17.6504,H-8007,Europe/Budapest
+7d44f4f1-9ec8-4ef2-842e-9380c6ef1c6b,Tamás,Szabó,tamas.szabo@yahoo.com,06-50/842 8910,tszabo2,77,Miskolc,HU,48.1117,20.7906,H-7330,Europe/Budapest
+3d1acd65-50e5-484d-b11c-22bde141a243,Teréz,Váradi,terez.varadi@mailbox.hu,06-11/991 8081,tvaradi,28,Miskolc,HU,48.1117,20.7906,H-3251,Europe/Budapest
+f541863a-22a6-4b18-b2a4-4dc2c600a6a8,Anna,Szőke,anna.szoke@yahoo.com,(06)47/871-2552,aszoke,25,Kecskemét,HU,46.8964,19.6897,H-7668,Europe/Budapest
+692691b7-eac2-483c-9cf1-4b70f0a6de95,Alexandra,Németh,alexandra.nemeth@freemail.hu,06-03/754 8214,anemeth3,41,Eger,HU,48.0000,20.7833,H-3127,Europe/Budapest
+8efd2a99-e59c-464c-93e8-fe1e793f2e22,Julianna,Molnár,julianna.molnar@indamail.hu,06-3/286 3266,jmolnar2,76,Pécs,HU,46.0727,18.2323,H-7213,Europe/Budapest
+78856ac3-5311-48f6-8ccc-443ab8f7bf96,Szabolcs,Németh,szabolcs.nemeth@mailbox.hu,50/720 8115,snemeth2,38,Győr,HU,47.6875,17.6504,H-5595,Europe/Budapest
+018e3393-441b-4333-add3-878d63b87a58,Gergő,Balog,gergo.balog@freemail.hu,+36 60 290-8466,gbalog2,74,Esztergom,HU,47.7536,18.7997,H-3956,Europe/Budapest
+5f127018-65e5-4de9-af14-d777ba49d90d,Ágnes,Juhász,agnes.juhasz@yahoo.com,06-5/504 8926,ajuhasz2,46,Sopron,HU,47.6817,16.5845,H-6621,Europe/Budapest
+ad208a3e-0d21-486d-ba8c-c3932d32e85b,Zsuzsanna,Lengyel,zsuzsanna.lengyel@citromail.hu,06-97/563 4108,zlengyel,39,Eger,HU,48.0000,20.7833,H-3959,Europe/Budapest
+28eaa166-2589-40f5-aca3-d6e2bf331d64,Bence,Sipos,bence.sipos@hotmail.com,84/318 8485,bsipos,66,Budapest,HU,47.4979,19.0402,H-5414,Europe/Budapest
+f89ea743-4e3f-4303-8a22-53ff51e0b5b2,Anna,Nagy,anna.nagy@mailbox.hu,94/346 8105,anagy6,34,Kecskemét,HU,46.8964,19.6897,H-6376,Europe/Budapest
+5cdae3a0-3fde-42d8-92ae-8096fc220589,Ilona,Varga,ilona.varga@gmail.com,06-17/490 7539,ivarga4,54,Nagykanizsa,HU,46.6833,17.6356,H-4782,Europe/Budapest
+af01a799-8039-4e3d-a206-ecefd6600b23,Julianna,Orbán,julianna.orban@indamail.hu,93/544 9268,jorban,65,Miskolc,HU,47.9025,19.6197,H-7485,Europe/Budapest
+9c1bfe02-ed84-4f9f-8069-4cc8a3acf81d,Zsolt,Varga,zsolt.varga@citromail.hu,(06)57/126-6110,zvarga,45,Esztergom,HU,47.7536,18.7997,H-7476,Europe/Budapest
+098681c0-64b8-4890-b52f-2f9a449a3f66,Marianna,Farkas,marianna.farkas@freemail.hu,+36 58 698-8649,mfarkas2,49,Veszprém,HU,47.0833,17.9167,H-6577,Europe/Budapest
+2e7b255c-eb75-4dc0-a2a8-7b1bbdeaa60c,Anna,Márton,anna.marton@indamail.hu,62/282-7728,amarton,73,Cegléd,HU,47.3495,19.8347,H-1518,Europe/Budapest
+625a4d51-04de-4cb1-a828-3d1b620049e3,Mária,Orsós,maria.orsos@freemail.hu,02/851-9611,morsos2,41,Veszprém,HU,47.0833,17.9167,H-6067,Europe/Budapest
+adc9060e-f2bd-458d-99df-c4538101bf30,Katalin,Nagy,katalin.nagy@hotmail.com,+36 54 544-7022,knagy3,68,Eger,HU,48.0000,20.7833,H-7451,Europe/Budapest
+1c1dbe52-c8ce-4163-bf45-8abf79f2f650,Éva,Nagy,eva.nagy@yahoo.com,(32)/701-8510,enagy4,44,Debrecen,HU,47.5316,21.6273,H-6905,Europe/Budapest
+6bb1c5cb-11cf-498b-8e48-f0a112a95433,Vilmos,Horváth,vilmos.horvath@freemail.hu,(67)/922-8777,vhorvath2,27,Eger,HU,48.0000,20.7833,H-3568,Europe/Budapest
+4cd3c000-e97b-4295-a9d3-6dac159d168c,Melinda,Varga,melinda.varga@mailbox.hu,96/636 5807,mvarga6,65,Kecskemét,HU,46.8964,19.6897,H-1426,Europe/Budapest
+cfc5c825-a9db-4d03-aecd-1cf778001a8c,Csaba,Kovács,csaba.kovacs@hotmail.com,06-0/948 1813,ckovacs3,79,Pécs,HU,46.0727,18.2323,H-7979,Europe/Budapest
+3d3decf2-a14f-4b5b-8c9e-59c2579656f8,Ilona,Mészáros,ilona.meszaros@gmail.com,83/780 1820,imeszaros,35,Miskolc,HU,47.9025,19.6197,H-1804,Europe/Budapest
+51016a12-9dc8-404a-80f0-a6933f2cffd3,Anita,Szabó,anita.szabo@indamail.hu,06-97/189 5690,aszabo5,49,Cegléd,HU,47.3495,19.8347,H-7606,Europe/Budapest
+ad48808c-ed5b-4a16-b04d-2034398261f2,Nikolett,Nagy,nikolett.nagy@freemail.hu,(06)60/856-4111,nnagy2,52,Győr,HU,47.6875,17.6504,H-9285,Europe/Budapest
+e54c3622-fac6-4999-8def-9b63889d5f99,Gábor,Tóth,gabor.toth@yahoo.com,06-12/462 0952,gtoth3,19,Budapest,HU,47.4979,19.0402,H-5162,Europe/Budapest
+e8442673-4800-41d3-91d3-5c1519022ec1,Julianna,Horváth,julianna.horvath@gmail.com,(26)/546-1033,jhorvath2,66,Miskolc,HU,48.1117,20.7906,H-8502,Europe/Budapest
+0159c267-23bd-4c40-94b6-b48df59d1f4f,Éva,Szabó,eva.szabo@citromail.hu,06-86/140 5786,eszabo3,22,Budapest,HU,47.4979,19.0402,H-3252,Europe/Budapest
+715f9377-c051-4d12-8ffb-78c4f917bf2f,Dénes,Molnár,denes.molnar@hotmail.com,+36 48 913-8249,dmolnar,44,Debrecen,HU,47.5316,21.6273,H-3380,Europe/Budapest
+e38a3d25-a12b-49fa-a5c7-f1e05894273f,Kristóf,Pap,kristof.pap@citromail.hu,(06)25/823-8687,kpap,20,Szeged,HU,46.2530,20.1414,H-5462,Europe/Budapest
+b6d79eec-9fe5-4b18-af85-03c64c74654b,László,Farkas,laszlo.farkas@mailbox.hu,42/007 4946,lfarkas3,40,Sopron,HU,47.6817,16.5845,H-8635,Europe/Budapest
+0ccfd865-d277-4402-a83f-5dbf0ce85cc3,Zsófia,Szabó,zsofia.szabo@mailbox.hu,40/289 1416,zszabo4,62,Cegléd,HU,47.3495,19.8347,H-2487,Europe/Budapest
+db29d1e5-9671-4cd5-94da-bbd1fbd89b81,Zoltán,Tóth,zoltan.toth@citromail.hu,(63)/985-5474,ztoth2,33,Pécs,HU,46.0727,18.2323,H-8151,Europe/Budapest
+cefdcd5b-017d-4ca6-b49e-9f5941842726,Margit,Varga,margit.varga@hotmail.com,95/020-9700,mvarga7,61,Szeged,HU,46.2530,20.1414,H-6458,Europe/Budapest
+40a97cde-68a3-4b6f-8966-21db3d6bbcf7,Gábor,Lakatos,gabor.lakatos@indamail.hu,06-7/681 1807,glakatos,61,Eger,HU,48.0000,20.7833,H-4853,Europe/Budapest
+2ad8d48d-a352-4431-bb02-31fc31ebfd42,Zoltán,Faragó,zoltan.farago@freemail.hu,06-95/620 1753,zfarago,46,Sopron,HU,47.6817,16.5845,H-4584,Europe/Budapest
+54a162dc-226d-41a6-9ccb-74d413bab77c,László,Biró,laszlo.biro@mailbox.hu,(53)/194-3375,lbiro,20,Eger,HU,48.0000,20.7833,H-2695,Europe/Budapest
+70f3816c-921d-4d7f-ac10-556b4f0bc5c9,Csaba,Jónás,csaba.jonas@indamail.hu,30/361 4987,cjonas,28,Győr,HU,47.6875,17.6504,H-6952,Europe/Budapest
+13229f47-d906-4609-8fdd-757d7d705df2,Erzsébet,Gál,erzsebet.gal@citromail.hu,06-9/921 9212,egal,34,Szeged,HU,46.2530,20.1414,H-9751,Europe/Budapest
+41807db0-8bd0-49da-9085-3ad8de3f4872,Etelka,Pál,etelka.pal@citromail.hu,06-4/308 9487,epal,18,Szeged,HU,46.2530,20.1414,H-1901,Europe/Budapest
+f4fc8043-4de4-4f80-a49e-1b48f1d193f5,Fanni,Török,fanni.torok@indamail.hu,+36 56 641-8775,ftorok,51,Esztergom,HU,47.7536,18.7997,H-2749,Europe/Budapest
+cd1b9cc2-f5d2-4e55-a9d9-c6958c0e5d2f,Mónika,Lengyel,monika.lengyel@hotmail.com,+36 46 875-0635,mlengyel,23,Kecskemét,HU,46.8964,19.6897,H-4111,Europe/Budapest
+3ae7f6e6-6d7f-4769-b34b-5aa189dc9dc0,Adrienn,Antal,adrienn.antal@indamail.hu,(06)61/332-5411,aantal2,19,Pécs,HU,46.0727,18.2323,H-7336,Europe/Budapest
+c3059ed9-a4af-4a27-a04e-39267d72b4be,Benedek,Somogyi,benedek.somogyi@citromail.hu,06-54/317 3505,bsomogyi,51,Nagykanizsa,HU,46.6833,17.6356,H-1989,Europe/Budapest
+92b24f7b-a4d2-432f-bcd2-b0f851ac055e,Viktória,Virág,viktoria.virag@mailbox.hu,97/179 1100,vvirag,42,Cegléd,HU,47.3495,19.8347,H-2050,Europe/Budapest
+42c16ad2-23cd-47f9-af3e-436232f3a5d4,Balázs,Pap,balazs.pap@gmail.com,06-20/704 9611,bpap,61,Pécs,HU,46.0727,18.2323,H-6961,Europe/Budapest
+d0fa8c4a-a90d-455b-b2a2-fe4994744c07,István,Nagy,istvan.nagy@mailbox.hu2,61/963-9907,inagy4,42,Eger,HU,48.0000,20.7833,H-8400,Europe/Budapest
+a49377e2-11f0-474b-9fb9-67e7e7b743b1,Áron,Molnár,aron.molnar@citromail.hu,15/078 5931,amolnar5,24,Nagykanizsa,HU,46.6833,17.6356,H-6975,Europe/Budapest
+0f2fabe1-32ac-4526-b302-34124075d174,László,Szalai,laszlo.szalai@citromail.hu,06-39/284 5679,lszalai,46,Miskolc,HU,48.1117,20.7906,H-9344,Europe/Budapest
+b66487e3-af33-4bd6-a2a7-5834c8d91f04,Ferenc,Tóth,ferenc.toth@gmail.com,+36 24 968-5498,ftoth,67,Miskolc,HU,47.9025,19.6197,H-5210,Europe/Budapest
+5ce2d415-eae9-4931-b792-d34f267a506e,Sándor,Farkas,sandor.farkas@citromail.hu,(45)/089-2038,sfarkas,70,Cegléd,HU,47.3495,19.8347,H-5208,Europe/Budapest
+51bfc8e9-dbc4-4f12-a896-865b320ca094,Tünde,Illés,tunde.illes@freemail.hu,(33)/315-3779,tilles,62,Sopron,HU,47.6817,16.5845,H-5182,Europe/Budapest
+f708152e-cea1-4155-9f02-d5eeff578bbe,Mihály,Mészáros,mihaly.meszaros@yahoo.com,46/521 7073,mmeszaros2,76,Esztergom,HU,47.7536,18.7997,H-7549,Europe/Budapest
+1a3c1e89-1970-49ca-a7c4-99da05317cad,László,Szabó,laszlo.szabo@hotmail.com,93/375-6362,lszabo3,70,Budapest,HU,47.4979,19.0402,H-8872,Europe/Budapest
+a5381122-f101-4197-b5aa-1f8c9a7ea2f2,Györgyi,Kiss,gyorgyi.kiss@gmail.com,(08)/124-7395,gkiss2,20,Miskolc,HU,47.9025,19.6197,H-6054,Europe/Budapest
+16318302-1f0f-43c5-b2e5-7c3e228f0e21,Beatrix,Szabó,beatrix.szabo@yahoo.com,(06)34/258-3230,bszabo,29,Debrecen,HU,47.5316,21.6273,H-6190,Europe/Budapest
+580fb4fd-a6b5-488d-a117-a28eeb0dc12c,Zsófia,Máté,zsofia.mate@gmail.com,06-26/153 4735,zmate2,69,Eger,HU,48.0000,20.7833,H-4757,Europe/Budapest
+56758a72-c554-47ae-a484-86f3d6abb35c,Krisztián,Tóth,krisztian.toth@citromail.hu,06-96/112 2338,ktoth,42,Miskolc,HU,48.1117,20.7906,H-8079,Europe/Budapest
+b86a2422-d041-4f61-9581-820d51eda9fa,Andrea,Horváth,andrea.horvath@freemail.hu,06-3/099 3842,ahorvath2,38,Veszprém,HU,47.0833,17.9167,H-1616,Europe/Budapest
+76ff76e5-61d7-45fe-8292-df7207dcdac9,Zsolt,Szilágyi,zsolt.szilagyi@yahoo.com,06-28/973 1791,zszilagyi,28,Eger,HU,48.0000,20.7833,H-5135,Europe/Budapest
+02f0ba05-1112-4584-b0f4-97ae4346d0e8,Mária,László,maria.laszlo@indamail.hu,06-85/787 2558,mlaszlo,62,Nagykanizsa,HU,46.6833,17.6356,H-2284,Europe/Budapest
+37cf2096-64bb-435c-9e72-48672076fa02,Zalán,Soós,zalan.soos@freemail.hu,(96)/903-3373,zsoos2,43,Miskolc,HU,48.1117,20.7906,H-9369,Europe/Budapest
+8898c18d-c6f1-4e24-a8ba-dd2215925ede,Péter,Molnár,peter.molnar@freemail.hu,25/481 2147,pmolnar,51,Miskolc,HU,47.9025,19.6197,H-6958,Europe/Budapest
+fa05949e-0641-49f0-897c-d1282fa884c9,Dániel,Oláh,daniel.olah@freemail.hu,95/677 6657,dolah,38,Szeged,HU,46.2530,20.1414,H-8706,Europe/Budapest
+a059570f-6633-4b0f-bf2e-c34a26d35b34,Csaba,Nagy,csaba.nagy@freemail.hu,(06)41/514-8881,cnagy2,68,Eger,HU,48.0000,20.7833,H-3269,Europe/Budapest
+bbd18983-1346-4613-92fb-78a4cb819021,Csaba,Szabó,csaba.szabo@gmail.com,+36 50 835-3544,cszabo,65,Nagykanizsa,HU,46.6833,17.6356,H-2569,Europe/Budapest
+007dfdb1-dc44-4d2a-9df9-4ce491261d48,Rozália,Kocsis,rozalia.kocsis@yahoo.com,(06)92/840-4456,rkocsis,78,Kaposvár,HU,46.3590,17.7956,H-5906,Europe/Budapest
+e0fe0765-f7b0-4532-b3a2-24638887b379,Roland,Mészáros,roland.meszaros@indamail.hu,+36 78 263-3373,rmeszaros,51,Sopron,HU,47.6817,16.5845,H-1827,Europe/Budapest
+40de03a6-c75b-4715-b89b-fb064f3a5b0d,Katalin,Juhász,katalin.juhasz@freemail.hu,06-7/515 3663,kjuhasz,46,Veszprém,HU,47.0833,17.9167,H-2002,Europe/Budapest
+8601981d-f1b0-4be2-b866-b63c45957fbe,Milán,Lakatos,milan.lakatos@yahoo.com,(06)92/407-5536,mlakatos2,45,Cegléd,HU,47.3495,19.8347,H-4512,Europe/Budapest
+b5b05c47-6e3c-4d8c-9c86-9b4097797b1a,Ágnes,Molnár,agnes.molnar@mailbox.hu,06-8/459 0902,amolnar6,27,Budapest,HU,47.4979,19.0402,H-5596,Europe/Budapest
+dda30d30-9b39-4f5e-b8af-86ffcae1bc35,Zsanett,Márton,zsanett.marton@citromail.hu,06-9/996 6361,zmarton,52,Eger,HU,48.0000,20.7833,H-2573,Europe/Budapest
+193b8f6c-09b7-422f-ac2b-1a47b96e87f8,Norbert,Farkas,norbert.farkas@yahoo.com,74/121 8209,nfarkas,49,Cegléd,HU,47.3495,19.8347,H-5943,Europe/Budapest
+05cbfc58-7531-4fd3-9636-9b8e4487b407,László,Szabó,laszlo.szabo@freemail.hu,(33)/481-7058,lszabo4,18,Esztergom,HU,47.7536,18.7997,H-6633,Europe/Budapest
+3fa71315-2380-4916-bc22-45d0598abe05,Gábor,Illés,gabor.illes@freemail.hu,21/286-7163,gilles,26,Kecskemét,HU,46.8964,19.6897,H-6984,Europe/Budapest
+50a3608e-172c-4a96-8a7b-a6d127f0c8d2,Réka,Horváth,reka.horvath@mailbox.hu,06-7/299 4938,rhorvath2,63,Eger,HU,48.0000,20.7833,H-2387,Europe/Budapest
+01815ec0-5a55-4f34-bc28-3e979fd57ff6,Ágnes,Horváth,agnes.horvath@gmail.com,(06)71/693-8597,ahorvath3,47,Sopron,HU,47.6817,16.5845,H-9701,Europe/Budapest
+d888f28d-7cbb-4e31-ad83-db707deffafc,Marcell,Nagy,marcell.nagy@gmail.com,(75)/469-2632,mnagy8,75,Esztergom,HU,47.7536,18.7997,H-9111,Europe/Budapest
+143b26e2-2f9c-4083-ab33-a03b4b4153b1,Ilona,Molnár,ilona.molnar@freemail.hu,06-2/916 0324,imolnar,74,Cegléd,HU,47.3495,19.8347,H-4379,Europe/Budapest
+c874cf36-4f71-477d-aaac-db8b66fe13cf,Anna,Horváth,anna.horvath@gmail.com,06-3/768 1511,ahorvath4,50,Miskolc,HU,47.9025,19.6197,H-3331,Europe/Budapest
+e46e7384-e2e1-4578-bc0b-c1f2f0c84b6c,Magdolna,Varga,magdolna.varga@freemail.hu,(06)43/807-0176,mvarga8,39,Pécs,HU,46.0727,18.2323,H-4241,Europe/Budapest
+4ec07fe7-19e1-46e9-b7d7-4ba3d79088f1,Irén,Pál,iren.pal@freemail.hu,+36 04 125-7771,ipal2,23,Kaposvár,HU,46.3590,17.7956,H-8071,Europe/Budapest
+4898ed2e-3897-4bec-acbe-c81d62cc0a80,Erzsébet,Szabó,erzsebet.szabo@freemail.hu,(06)74/220-9124,eszabo4,25,Szeged,HU,46.2530,20.1414,H-8879,Europe/Budapest
+2a465a3c-aac6-45d1-a5d2-bda93f0f4a7c,Mária,Kiss,maria.kiss@gmail.com2,06-0/427 5230,mkiss8,75,Veszprém,HU,47.0833,17.9167,H-4387,Europe/Budapest
+22c44515-68ef-4673-b331-59485f237ab4,Judit,Szabó,judit.szabo@indamail.hu,+36 81 647-0900,jszabo5,67,Miskolc,HU,48.1117,20.7906,H-1813,Europe/Budapest
+92abc8bb-0844-45e0-9f9e-4bd5cacb8d0e,Miklós,Szabó,miklos.szabo@hotmail.com,(33)/106-0053,mszabo4,61,Kaposvár,HU,46.3590,17.7956,H-3208,Europe/Budapest
+b6cb5c22-45d1-472f-9276-8a23d84d4fc5,Margit,Szabó,margit.szabo@gmail.com,06-22/068 1558,mszabo5,58,Szeged,HU,46.2530,20.1414,H-3044,Europe/Budapest
+1df4f354-5400-462b-86b6-028929a92add,Ferenc,Szabó,ferenc.szabo@citromail.hu,61/331-5520,fszabo2,43,Esztergom,HU,47.7536,18.7997,H-5351,Europe/Budapest
+61d6c17c-baf2-4c78-bea9-fa24adf60073,Zsuzsanna,Nagy,zsuzsanna.nagy@hotmail.com,31/495-0136,znagy2,37,Eger,HU,48.0000,20.7833,H-8881,Europe/Budapest
+08225e5b-19c3-4a20-acae-38a55159cc4f,Edit,Balogh,edit.balogh@gmail.com,06-8/924 1956,ebalogh2,61,Veszprém,HU,47.0833,17.9167,H-5957,Europe/Budapest
+eef73cbc-a9fb-4d80-8093-af156ff8efc3,Orsolya,Bogdán,orsolya.bogdan@hotmail.com,(25)/715-0997,obogdan,42,Debrecen,HU,47.5316,21.6273,H-1425,Europe/Budapest
+1a19d0c6-3fbd-491a-87c1-c7c88276985c,Mária,Biró,maria.biro@citromail.hu,03/091 4363,mbiro,57,Eger,HU,48.0000,20.7833,H-1028,Europe/Budapest
+6343f665-fe12-47da-8e20-27fdbf586b2e,József,Tóth,jozsef.toth@freemail.hu,(32)/630-3975,jtoth7,26,Pécs,HU,46.0727,18.2323,H-3241,Europe/Budapest
+794cb233-9a13-4441-a59a-dede19398537,Csaba,Török,csaba.torok@mailbox.hu,+36 86 403-5533,ctorok,52,Kecskemét,HU,46.8964,19.6897,H-1183,Europe/Budapest
+f2ec1397-3cae-4891-bc14-e565ac4a1331,István,Kozma,istvan.kozma@hotmail.com,06-39/685 2701,ikozma,73,Nagykanizsa,HU,46.6833,17.6356,H-2377,Europe/Budapest
+a3546644-8916-4d61-8661-0e43cf7b3143,Ervin,Soós,ervin.soos@gmail.com,06-2/321 2983,esoos,33,Kaposvár,HU,46.3590,17.7956,H-5340,Europe/Budapest
+fc748f06-0a1f-4c2a-8faa-6b00b4edb128,Mária,Molnár,maria.molnar@freemail.hu,(23)/362-9344,mmolnar5,54,Győr,HU,47.6875,17.6504,H-1579,Europe/Budapest
+5c90a85c-cf7d-42af-ba8d-adbb759731f2,Milán,Szilágyi,milan.szilagyi@yahoo.com,06-71/566 2776,mszilagyi,50,Szeged,HU,46.2530,20.1414,H-6173,Europe/Budapest
+5a809015-c08d-4b7b-b512-04527ab679c7,Ilona,Németh,ilona.nemeth@hotmail.com,06-70/661 4982,inemeth4,53,Győr,HU,47.6875,17.6504,H-4581,Europe/Budapest
+415aa37b-d349-4af2-9458-02dd3bd72eac,Erika,Szabó,erika.szabo@freemail.hu,(74)/689-7152,eszabo5,63,Győr,HU,47.6875,17.6504,H-7822,Europe/Budapest
+ba2878e8-ef48-4b11-98ad-1b41d0063e72,Botond,Tóth,botond.toth@hotmail.com,+36 08 576-6656,btoth3,49,Budapest,HU,47.4979,19.0402,H-2529,Europe/Budapest
+44032619-7d94-4a0e-9665-cdb2f64d4a15,György,Szekeres,gyorgy.szekeres@gmail.com,01/692-3645,gszekeres,50,Sopron,HU,47.6817,16.5845,H-8968,Europe/Budapest
+11c08bee-6680-4a51-a41b-2f33eeeab74d,Ildikó,Szilágyi,ildiko.szilagyi@yahoo.com,06-0/663 3705,iszilagyi2,58,Miskolc,HU,47.9025,19.6197,H-5621,Europe/Budapest
+64b1665e-b0f7-459f-aff6-4ef85b66fb54,Ildikó,Nagy,ildiko.nagy@indamail.hu,06-2/497 2439,inagy5,55,Debrecen,HU,47.5316,21.6273,H-7700,Europe/Budapest
+d0f996da-97c0-42fd-9815-60157fb95046,Laura,Deák,laura.deak@gmail.com,+36 16 691-8362,ldeak,71,Veszprém,HU,47.0833,17.9167,H-3082,Europe/Budapest
+42260918-3d7c-47b2-b872-32e8107116dc,Antal,Orsós,antal.orsos@citromail.hu,69/461 1952,aorsos2,35,Debrecen,HU,47.5316,21.6273,H-3407,Europe/Budapest
+26b04f35-a1d3-4ff6-bfca-a4f84057b259,Eszter,Dudás,eszter.dudas@freemail.hu,06-4/027 0116,edudas,51,Nagykanizsa,HU,46.6833,17.6356,H-7645,Europe/Budapest
+e7e4a3d2-6633-4442-b519-94ecd95db79f,Levente,Horváth,levente.horvath@freemail.hu,(06)25/223-7281,lhorvath,46,Kaposvár,HU,46.3590,17.7956,H-4629,Europe/Budapest
+cf49d2ec-1ca5-42e5-b3a6-5114329457ca,Erzsébet,Szabó,erzsebet.szabo@hotmail.com,+36 23 467-9121,eszabo6,36,Szeged,HU,46.2530,20.1414,H-2350,Europe/Budapest
+b86abcd5-fc57-4872-bb26-bf31663f664a,József,Kovács,jozsef.kovacs@gmail.com,(09)/377-1004,jkovacs5,66,Kaposvár,HU,46.3590,17.7956,H-2134,Europe/Budapest
+20c9cc4d-8684-4de7-a9f2-cbb60d59aed4,Lilla,Gál,lilla.gal@mailbox.hu,+36 13 806-9847,lgal,48,Pécs,HU,46.0727,18.2323,H-7895,Europe/Budapest
+4a86cfac-5887-46bd-9bd3-221169215481,Mónika,Simon,monika.simon@yahoo.com,(55)/356-6905,msimon2,73,Budapest,HU,47.4979,19.0402,H-3918,Europe/Budapest
+1e72ecd0-809a-4cb3-bba7-20fd313fdb6f,Mihály,Kovács,mihaly.kovacs@freemail.hu2,06-62/091 8435,mkovacs11,46,Pécs,HU,46.0727,18.2323,H-9994,Europe/Budapest
+0393fae0-62b7-4e3e-988c-ca07bc2f311f,Ilona,Balázs,ilona.balazs@freemail.hu,63/050 5057,ibalazs,32,Miskolc,HU,47.9025,19.6197,H-5949,Europe/Budapest
+a729d027-f8eb-49ec-b5cd-b089fd4242b6,Éva,Kiss,eva.kiss@citromail.hu,06-15/671 6493,ekiss2,63,Kecskemét,HU,46.8964,19.6897,H-3547,Europe/Budapest
+2d271517-aa96-4d18-9c88-cb62e84af167,Sándor,Papp,sandor.papp@citromail.hu,06-80/271 4872,spapp2,75,Nagykanizsa,HU,46.6833,17.6356,H-3047,Europe/Budapest
+091bd4e1-98e9-4096-9469-efa1b30a667e,Kristóf,Kovács,kristof.kovacs@indamail.hu,33/321 1602,kkovacs8,77,Pécs,HU,46.0727,18.2323,H-5217,Europe/Budapest
+c6efb28c-5880-441e-8def-9b67f2406752,Jolán,Halász,jolan.halasz@mailbox.hu,(34)/712-8715,jhalasz,73,Nagykanizsa,HU,46.6833,17.6356,H-6639,Europe/Budapest
+67860176-08fd-40b3-9236-d065a78ad882,Tamás,Mészáros,tamas.meszaros@citromail.hu,+36 56 686-3341,tmeszaros,36,Pécs,HU,46.0727,18.2323,H-1465,Europe/Budapest
+9ebbb331-0e20-4001-9e32-28dde7c4f22c,József,Kovács,jozsef.kovacs@indamail.hu,31/952 5690,jkovacs6,37,Debrecen,HU,47.5316,21.6273,H-5444,Europe/Budapest
+3f3d1049-47c4-40d2-b672-058564eeef3b,István,Takács,istvan.takacs@mailbox.hu,65/528-9931,itakacs2,43,Veszprém,HU,47.0833,17.9167,H-6748,Europe/Budapest
+4eaa1e4c-89f5-4edd-9db2-d71d6c637b76,László,Bálint,laszlo.balint@yahoo.com,(06)43/772-9420,lbalint2,56,Debrecen,HU,47.5316,21.6273,H-5525,Europe/Budapest
+6cf54095-ff6e-4c89-b3c2-aa551250c896,Gyula,Balogh,gyula.balogh@indamail.hu,+36 49 737-4605,gbalogh,27,Szeged,HU,46.2530,20.1414,H-9886,Europe/Budapest
+6ab80959-1d37-4641-9ab6-9142c8c033d0,Ibolya,Szabó,ibolya.szabo@indamail.hu,06-30/276 4208,iszabo2,43,Pécs,HU,46.0727,18.2323,H-7508,Europe/Budapest
+53d160cb-eec6-4e06-8a4d-66d1ede45ad5,Róbert,Szűcs,robert.szucs@yahoo.com,06-66/184 4386,rszucs2,24,Eger,HU,48.0000,20.7833,H-4043,Europe/Budapest
+053e7b7f-a1c7-4e38-8898-3b7202c28e08,Zoltán,László,zoltan.laszlo@citromail.hu,06-04/729 2774,zlaszlo,75,Debrecen,HU,47.5316,21.6273,H-8842,Europe/Budapest
+82ae89f1-3401-49de-8a73-6bac7bb22b13,Sándor,Szabó,sandor.szabo@indamail.hu,(06)05/912-6620,sszabo2,24,Debrecen,HU,47.5316,21.6273,H-4913,Europe/Budapest
+df6f392d-362c-4ee1-8269-894702f31b9a,Dániel,Farkas,daniel.farkas@gmail.com,+36 85 962-6301,dfarkas,33,Miskolc,HU,48.1117,20.7906,H-7997,Europe/Budapest
+13002326-f051-4e63-b1c5-dfba853ce77d,Pál,Horváth,pal.horvath@citromail.hu,(06)61/764-7501,phorvath5,25,Miskolc,HU,47.9025,19.6197,H-5839,Europe/Budapest
+3e1ac2af-759d-4fa3-b991-910ea7c273d4,József,Balogh,jozsef.balogh@indamail.hu,30/999 7419,jbalogh3,29,Győr,HU,47.6875,17.6504,H-8772,Europe/Budapest
+d36c17dd-2e85-468f-9932-a139eb7834c8,Norbert,Sárközi,norbert.sarkozi@indamail.hu,49/215-1826,nsarkozi,70,Cegléd,HU,47.3495,19.8347,H-8154,Europe/Budapest
+d9fe1ee9-a426-4da8-8b0a-8ec13b9899fb,Andrea,Kiss,andrea.kiss@mailbox.hu,87/189 8131,akiss3,29,Nagykanizsa,HU,46.6833,17.6356,H-3241,Europe/Budapest
+297c00c9-adb8-4a24-99c0-202bda6f86f8,Nikolett,Orsós,nikolett.orsos@gmail.com,75/102 9321,norsos,53,Szeged,HU,46.2530,20.1414,H-6038,Europe/Budapest
+f4a24aae-f550-4519-9cb3-e7095e2e1330,Tibor,László,tibor.laszlo@gmail.com,+36 84 582-6034,tlaszlo,20,Kaposvár,HU,46.3590,17.7956,H-4412,Europe/Budapest
+c2d51399-5dff-4857-a849-df880ae9c567,Teréz,Papp,terez.papp@mailbox.hu,(87)/297-5859,tpapp2,52,Pécs,HU,46.0727,18.2323,H-8223,Europe/Budapest
+d877c944-a907-4e91-bed9-ba9248e4e75e,Mária,Kocsis,maria.kocsis@indamail.hu,06-03/032 4329,mkocsis,53,Nagykanizsa,HU,46.6833,17.6356,H-8207,Europe/Budapest
+4f7a0153-df33-47bd-99c5-28334e68e14a,Péter,Varga,peter.varga@hotmail.com2,06-9/618 4462,pvarga2,43,Pécs,HU,46.0727,18.2323,H-2975,Europe/Budapest
+d7e8a0b5-3ca5-4db3-bfe5-e34133824519,Barnabás,Virág,barnabas.virag@indamail.hu,28/314-3598,bvirag,56,Győr,HU,47.6875,17.6504,H-8006,Europe/Budapest
+a43495f5-95d4-4a24-bf38-39b063ddbfe7,Gábor,Fülöp,gabor.fulop@yahoo.com,06-66/093 1418,gfulop,25,Győr,HU,47.6875,17.6504,H-3399,Europe/Budapest
+bfee55f8-cc88-4ea9-80e7-6ac01b6c219d,Ágnes,Molnár,agnes.molnar@yahoo.com,06-1/554 2340,amolnar7,24,Esztergom,HU,47.7536,18.7997,H-9773,Europe/Budapest
+06615708-4610-40ac-a965-95e05b6012fd,Miklós,Balla,miklos.balla@freemail.hu,+36 12 849-7185,mballa,62,Győr,HU,47.6875,17.6504,H-6210,Europe/Budapest
+8811dd82-b414-482c-947f-e5e9198ce226,Katalin,Horváth,katalin.horvath@yahoo.com,10/256 2588,khorvath2,56,Esztergom,HU,47.7536,18.7997,H-6837,Europe/Budapest
+90567653-3c98-45b2-be71-38301885aca9,Adrienn,Molnár,adrienn.molnar@citromail.hu2,(06)40/822-2694,amolnar8,21,Miskolc,HU,47.9025,19.6197,H-6826,Europe/Budapest
+259b0791-bc21-4dda-b332-d60e69a12499,Gyöngyi,Török,gyongyi.torok@yahoo.com,06-3/967 2757,gtorok,50,Győr,HU,47.6875,17.6504,H-3189,Europe/Budapest
+bc049b23-3093-449c-a678-209f51375911,Imre,Novák,imre.novak@citromail.hu,06-3/414 6511,inovak,22,Pécs,HU,46.0727,18.2323,H-6108,Europe/Budapest
+ea0912a7-0c58-455d-b8f1-d913d366cb56,Krisztina,Virág,krisztina.virag@hotmail.com,01/487 0682,kvirag,48,Esztergom,HU,47.7536,18.7997,H-6899,Europe/Budapest
+5f16e8a5-1172-4e45-bcb4-e5b51892dbe2,Elemér,Kocsis,elemer.kocsis@indamail.hu,16/093 0685,ekocsis2,33,Esztergom,HU,47.7536,18.7997,H-2811,Europe/Budapest
+d0960778-400c-4222-8c19-5b5f9d554ddf,Bettina,Gál,bettina.gal@mailbox.hu,90/972 8321,bgal,41,Miskolc,HU,48.1117,20.7906,H-5281,Europe/Budapest
+02b09632-d295-4bd7-ad82-b77eb6b26af7,Dóra,Papp,dora.papp@gmail.com,76/251-5381,dpapp,36,Kecskemét,HU,46.8964,19.6897,H-9342,Europe/Budapest
+ae5c6909-0997-4db8-a2d8-3d36001dc9d3,Lajos,Horváth,lajos.horvath@hotmail.com,+36 96 348-0797,lhorvath2,21,Miskolc,HU,48.1117,20.7906,H-1643,Europe/Budapest
+62b4dcdd-9580-4420-a872-17ba6abe3601,Dániel,Rácz,daniel.racz@yahoo.com,(51)/052-6501,dracz,45,Győr,HU,47.6875,17.6504,H-6534,Europe/Budapest
+272939bd-e4e3-46bf-91f0-1b3d46f8b332,Győző,Kovács,gyozo.kovacs@citromail.hu,(06)61/702-4376,gkovacs4,41,Győr,HU,47.6875,17.6504,H-4497,Europe/Budapest
+792b19ba-891a-4a7d-840e-4e6c5a69ac4c,Lajos,Molnár,lajos.molnar@hotmail.com,41/772 2560,lmolnar,40,Cegléd,HU,47.3495,19.8347,H-2972,Europe/Budapest
+50bcc678-2b34-4c5c-b916-d8877086f39e,Beáta,Szalai,beata.szalai@gmail.com,(06)40/266-5023,bszalai,78,Kaposvár,HU,46.3590,17.7956,H-1409,Europe/Budapest
+89c67484-9177-4684-b329-224613456806,Benedek,Gál,benedek.gal@yahoo.com,+36 67 872-5686,bgal2,26,Kaposvár,HU,46.3590,17.7956,H-4242,Europe/Budapest
+572dc07f-0a86-4bf4-bd9d-25ae1186f52c,János,Kovács,janos.kovacs@gmail.com,(06)25/803-0569,jkovacs7,65,Pécs,HU,46.0727,18.2323,H-4009,Europe/Budapest
+e6e24fbb-8fc9-4f89-8f4e-296d430b1314,László,Farkas,laszlo.farkas@yahoo.com2,16/392-8234,lfarkas4,67,Kaposvár,HU,46.3590,17.7956,H-2731,Europe/Budapest
+9a7e2614-2400-426e-a48e-e214222ff340,Zoltán,Horváth,zoltan.horvath@indamail.hu,(06)63/718-9239,zhorvath5,58,Veszprém,HU,47.0833,17.9167,H-4324,Europe/Budapest
+8f9fafc0-10c7-4b6a-bb47-6c47a74e53fe,Anna,Szabó,anna.szabo@hotmail.com,04/326-0931,aszabo6,73,Kaposvár,HU,46.3590,17.7956,H-4087,Europe/Budapest
+02b8f3df-dfea-4b47-92d0-f9ed113ab15b,István,Molnár,istvan.molnar@yahoo.com,06-3/356 7086,imolnar2,59,Miskolc,HU,48.1117,20.7906,H-3447,Europe/Budapest
+223f5ae2-5555-4b97-990d-c6047d79068b,István,Kovács,istvan.kovacs@yahoo.com2,(56)/350-2000,ikovacs2,60,Esztergom,HU,47.7536,18.7997,H-4907,Europe/Budapest
+5ab0fa4c-4b79-470c-84e0-373478882f93,Irén,Szabó,iren.szabo@freemail.hu,(91)/624-7554,iszabo3,25,Debrecen,HU,47.5316,21.6273,H-3125,Europe/Budapest
+ce024759-fe8b-431a-83dd-a712c4e2ac1c,János,Nagy,janos.nagy@citromail.hu,06-25/559 8953,jnagy7,59,Kecskemét,HU,46.8964,19.6897,H-9969,Europe/Budapest
+9ce4b720-029a-4c5d-90f3-20ab4f3d0b39,Csaba,Oláh,csaba.olah@gmail.com,+36 29 109-3371,colah,22,Debrecen,HU,47.5316,21.6273,H-1241,Europe/Budapest
+45312130-60a2-4fce-b359-0116363a4ae8,Annamária,Fekete,annamaria.fekete@yahoo.com,06-7/382 0236,afekete,53,Eger,HU,48.0000,20.7833,H-9272,Europe/Budapest
+572ae652-ee28-40c8-9081-bd589a1c7b27,Julianna,Bodnár,julianna.bodnar@mailbox.hu,06-85/571 6176,jbodnar,51,Pécs,HU,46.0727,18.2323,H-5952,Europe/Budapest
+98a5e5b6-b5f6-4e0a-bd86-0908ba94c2b0,Noémi,Balogh,noemi.balogh@gmail.com,(06)94/240-9036,nbalogh,49,Budapest,HU,47.4979,19.0402,H-8699,Europe/Budapest
+3c6b6f51-79e0-4c32-b5f6-00f3e2580d66,Ágnes,Szőke,agnes.szoke@gmail.com,(06)78/686-6943,aszoke2,29,Kaposvár,HU,46.3590,17.7956,H-2528,Europe/Budapest
+53772637-7f5b-40d0-857c-ae16447bfd67,László,Mészáros,laszlo.meszaros@citromail.hu2,06-0/878 8443,lmeszaros3,36,Győr,HU,47.6875,17.6504,H-2197,Europe/Budapest
+d20dc270-ed94-461b-b005-e3ddbd9fb2f0,Ildikó,Juhász,ildiko.juhasz@hotmail.com,(06)08/340-2424,ijuhasz,73,Kecskemét,HU,46.8964,19.6897,H-9951,Europe/Budapest
+8a0cf0bf-368c-4c1a-bfe3-0191a2c04ce0,Anita,Török,anita.torok@hotmail.com,06-38/105 9551,atorok,78,Veszprém,HU,47.0833,17.9167,H-7501,Europe/Budapest
+49e23978-a854-44d7-b524-be8a62568b6f,Ildikó,Juhász,ildiko.juhasz@indamail.hu,(06)69/450-0534,ijuhasz2,29,Sopron,HU,47.6817,16.5845,H-9005,Europe/Budapest
+4c202c20-e7b7-4d7b-bab8-540180ef42b8,Tibor,Nagy,tibor.nagy@indamail.hu,06-91/649 8373,tnagy3,38,Pécs,HU,46.0727,18.2323,H-5027,Europe/Budapest
+fc01d2af-0ad4-4d53-8661-e28f56999321,András,Mészáros,andras.meszaros@mailbox.hu,06-62/736 5271,ameszaros2,49,Kecskemét,HU,46.8964,19.6897,H-7012,Europe/Budapest
+99596d63-8cdb-4a73-805d-9c9237384f0b,Ferenc,Tóth,ferenc.toth@mailbox.hu,(06)39/724-0422,ftoth2,70,Győr,HU,47.6875,17.6504,H-2625,Europe/Budapest
+7f645728-7579-4481-9b38-b710dbbd46c7,Máté,Rácz,mate.racz@gmail.com,(06)16/376-1820,mracz,56,Nagykanizsa,HU,46.6833,17.6356,H-8510,Europe/Budapest
+b3f312de-3a75-4417-8a93-cc321aa38506,János,Kiss,janos.kiss@gmail.com,06-00/231 4290,jkiss4,68,Budapest,HU,47.4979,19.0402,H-1366,Europe/Budapest
+e3f68a00-f5cd-4b89-a0a2-3c257c9a2be4,Róza,Tamás,roza.tamas@gmail.com,51/327 9724,rtamas,39,Miskolc,HU,48.1117,20.7906,H-9574,Europe/Budapest
+62af84c7-ff5d-412a-9a4b-7bbbfbc83f0a,Alex,Szabó,alex.szabo@citromail.hu2,06-4/810 0184,aszabo7,24,Győr,HU,47.6875,17.6504,H-8384,Europe/Budapest
+62ff6e05-a57e-44f4-90a0-bdba99310b8e,Mária,Budai,maria.budai@hotmail.com,+36 30 366-2543,mbudai,76,Nagykanizsa,HU,46.6833,17.6356,H-8184,Europe/Budapest
+88a49d9d-4642-4fb5-a4cf-cdf8de8e9b4f,Adrienn,Kiss,adrienn.kiss@indamail.hu,06-17/213 1451,akiss4,57,Miskolc,HU,48.1117,20.7906,H-6816,Europe/Budapest
+92568630-d4bb-4211-b374-877f3c931e76,Róbert,Varga,robert.varga@gmail.com,+36 92 268-5926,rvarga,27,Győr,HU,47.6875,17.6504,H-1212,Europe/Budapest
+1e2fe42c-6cce-4b7a-8542-b61de9597692,Renáta,Kocsis,renata.kocsis@citromail.hu,06-45/147 5410,rkocsis2,73,Eger,HU,48.0000,20.7833,H-2823,Europe/Budapest
+a5f66060-ac1c-44ea-a5a6-973728d98df7,Etelka,Tóth,etelka.toth@indamail.hu,(06)52/677-1196,etoth3,79,Veszprém,HU,47.0833,17.9167,H-4725,Europe/Budapest
+e542ae34-96a9-4281-8531-6b6121905040,Erika,Tóth,erika.toth@yahoo.com,(06)26/557-6769,etoth4,68,Nagykanizsa,HU,46.6833,17.6356,H-2129,Europe/Budapest
+f1d6bad0-402a-4f8f-8a09-37ad00f77525,Anna,Tóth,anna.toth@indamail.hu,(06)66/878-8788,atoth,70,Kaposvár,HU,46.3590,17.7956,H-9031,Europe/Budapest
+d0959ae6-2436-4d74-8013-65cbc333754d,Tamás,Kovács,tamas.kovacs@indamail.hu,89/313-5030,tkovacs3,41,Budapest,HU,47.4979,19.0402,H-3623,Europe/Budapest
+7fe669f5-8eb4-4adb-9a99-9a31296814c5,Erzsébet,Tamás,erzsebet.tamas@gmail.com,+36 55 247-2863,etamas,31,Kecskemét,HU,46.8964,19.6897,H-1506,Europe/Budapest
+ae42764e-040f-4852-ab52-4fb54c3ae6cb,Ibolya,Nagy,ibolya.nagy@hotmail.com,+36 26 065-0191,inagy6,48,Miskolc,HU,48.1117,20.7906,H-8482,Europe/Budapest
+e94bf61a-08cb-4cd4-96c4-cdc5381c0c9b,Tünde,Szőke,tunde.szoke@gmail.com,(06)52/131-0962,tszoke,66,Kaposvár,HU,46.3590,17.7956,H-6229,Europe/Budapest
+7dd7fbb0-75f6-421c-94a9-f1e6e61316a1,Ferenc,Biró,ferenc.biro@indamail.hu,47/657 0412,fbiro,21,Szeged,HU,46.2530,20.1414,H-6465,Europe/Budapest
+2807123f-14cc-494c-a65e-91e1d74c42f3,Adrienn,Nagy,adrienn.nagy@mailbox.hu,(06)82/066-7849,anagy7,50,Nagykanizsa,HU,46.6833,17.6356,H-5763,Europe/Budapest
+8411d9bd-a5ba-4717-aeef-9851ab587059,György,Szabó,gyorgy.szabo@hotmail.com,(18)/623-6903,gszabo3,43,Miskolc,HU,48.1117,20.7906,H-2691,Europe/Budapest
+e2d337d5-d264-4b38-a60d-97810b1de66a,Ferenc,Király,ferenc.kiraly@citromail.hu,17/756 6205,fkiraly,59,Pécs,HU,46.0727,18.2323,H-6590,Europe/Budapest
+7bbcafb0-c0bc-421f-94f1-c6e43358d26a,Richárd,Horváth,richard.horvath@gmail.com,+36 59 503-4281,rhorvath3,22,Győr,HU,47.6875,17.6504,H-7535,Europe/Budapest
+dd9d5ab2-b386-4924-8339-1d342ea81d40,Péter,Nagy,peter.nagy@yahoo.com,(06)83/034-1990,pnagy,54,Cegléd,HU,47.3495,19.8347,H-5237,Europe/Budapest
+29a73f11-4f36-40d5-aa09-23dc6d2e0fb0,Júlia,Farkas,julia.farkas@gmail.com,(14)/054-6835,jfarkas,66,Szeged,HU,46.2530,20.1414,H-5667,Europe/Budapest
+853d3e97-b167-422f-bc8f-fc97bc03b19e,Bence,Varga,bence.varga@hotmail.com,06-1/568 1820,bvarga2,55,Nagykanizsa,HU,46.6833,17.6356,H-7226,Europe/Budapest
+39389326-5387-4959-85f8-ff7fd07da268,Viktória,Farkas,viktoria.farkas@mailbox.hu,06-04/227 1133,vfarkas,69,Sopron,HU,47.6817,16.5845,H-8617,Europe/Budapest
+b4c13865-853c-4d5f-93bb-fd9e720f48fc,Ágnes,Tóth,agnes.toth@indamail.hu,(06)88/985-7254,atoth2,41,Pécs,HU,46.0727,18.2323,H-8904,Europe/Budapest
+03caa0bd-08d1-44e8-adfd-176d739223c5,Ilona,Hegedüs,ilona.hegedus@gmail.com,06-6/339 9129,ihegedus2,58,Miskolc,HU,48.1117,20.7906,H-6522,Europe/Budapest
+9b9d844d-00d8-443b-8528-71ffbe4f8b86,Bettina,Kovács,bettina.kovacs@gmail.com,(06)48/171-7524,bkovacs3,28,Pécs,HU,46.0727,18.2323,H-3059,Europe/Budapest
+e305d759-b0a2-4f58-a229-2bd856fb4c3a,József,Mészáros,jozsef.meszaros@yahoo.com,+36 12 747-4721,jmeszaros,80,Miskolc,HU,48.1117,20.7906,H-7425,Europe/Budapest
+bc859748-c6e6-443e-9bc2-5177921f148b,Katalin,Nagy,katalin.nagy@mailbox.hu,(66)/927-5895,knagy4,41,Pécs,HU,46.0727,18.2323,H-8806,Europe/Budapest
+1c772f88-3f5f-45ea-942c-628ea3a9b471,József,Molnár,jozsef.molnar@freemail.hu,(09)/038-0214,jmolnar3,42,Pécs,HU,46.0727,18.2323,H-4719,Europe/Budapest
+ee1c441a-bc10-48bf-b762-219449ef27e5,Gábor,Kiss,gabor.kiss@gmail.com,(06)67/157-7871,gkiss3,23,Nagykanizsa,HU,46.6833,17.6356,H-7034,Europe/Budapest
+e0321335-db67-42da-9b65-afbfd1920dd7,Ferenc,Kovács,ferenc.kovacs@freemail.hu,06-63/651 5597,fkovacs2,31,Nagykanizsa,HU,46.6833,17.6356,H-9973,Europe/Budapest
+65e54f64-fc54-4c0e-91d1-891060aa2420,Ildikó,Farkas,ildiko.farkas@yahoo.com,08/272-3590,ifarkas,56,Debrecen,HU,47.5316,21.6273,H-2601,Europe/Budapest
+95475844-94bb-404d-b4a8-43386eddb6b2,Gabriella,Nagy,gabriella.nagy@mailbox.hu,(67)/303-0644,gnagy2,58,Miskolc,HU,47.9025,19.6197,H-7539,Europe/Budapest
+7298d859-37df-4689-bbb4-abbab2b63f12,Ferenc,Tóth,ferenc.toth@yahoo.com,14/768-3420,ftoth3,23,Eger,HU,48.0000,20.7833,H-6211,Europe/Budapest
+2318659d-2233-4cec-a6ea-cbd3e2fa7956,Renáta,Molnár,renata.molnar@mailbox.hu,(23)/567-7826,rmolnar,40,Miskolc,HU,48.1117,20.7906,H-6424,Europe/Budapest
+820608e9-9695-4b7d-8013-86e9f1312df6,Edina,Lakatos,edina.lakatos@mailbox.hu,+36 89 319-9255,elakatos,18,Budapest,HU,47.4979,19.0402,H-2504,Europe/Budapest
+50ddc285-8f12-46cd-815c-6d4800691a3f,Sándor,Németh,sandor.nemeth@hotmail.com,51/648-0727,snemeth3,58,Győr,HU,47.6875,17.6504,H-8908,Europe/Budapest
+e0b3085e-9706-428c-bdb2-7df0aab2966d,Zita,Kovács,zita.kovacs@hotmail.com,06-3/682 9635,zkovacs3,31,Veszprém,HU,47.0833,17.9167,H-9088,Europe/Budapest
+8d47c151-8b29-4075-aa42-92efba1ebb69,Emese,Faragó,emese.farago@citromail.hu,+36 55 044-8177,efarago,44,Győr,HU,47.6875,17.6504,H-6855,Europe/Budapest
+7dcac717-638e-45ac-b6db-432969fc3a51,Szabolcs,Varga,szabolcs.varga@citromail.hu,85/127-6528,svarga,56,Esztergom,HU,47.7536,18.7997,H-4645,Europe/Budapest
+62c19019-bc0e-4d43-8902-814e6227116e,Gábor,Németh,gabor.nemeth@yahoo.com,06-64/911 1109,gnemeth3,77,Pécs,HU,46.0727,18.2323,H-9759,Europe/Budapest
+781e0811-c1f9-4ead-a824-c8748f90aaac,Szabolcs,Balogh,szabolcs.balogh@mailbox.hu,81/789 0463,sbalogh,32,Kecskemét,HU,46.8964,19.6897,H-8425,Europe/Budapest
+dae6d544-e1e5-4516-a490-02637de9adf4,Gabriella,Juhász,gabriella.juhasz@gmail.com,(06)71/576-6053,gjuhasz,50,Cegléd,HU,47.3495,19.8347,H-5290,Europe/Budapest
+c3d7d81d-2499-43e3-8438-e37264e5c032,Imre,Fábián,imre.fabian@yahoo.com,(63)/060-0025,ifabian,71,Cegléd,HU,47.3495,19.8347,H-5368,Europe/Budapest
+d7a3056c-8e73-4877-b343-67d265286d40,Rozália,Fülöp,rozalia.fulop@citromail.hu,(52)/963-8639,rfulop3,59,Szeged,HU,46.2530,20.1414,H-8568,Europe/Budapest
+30a8a232-d3ce-4935-a7ae-c8b23efc070b,Máté,Nagy,mate.nagy@citromail.hu,26/265-8263,mnagy9,24,Pécs,HU,46.0727,18.2323,H-8850,Europe/Budapest
+7c58649e-fd59-478c-8e17-460d083be106,Ildikó,Kovács,ildiko.kovacs@gmail.com,06-9/648 2531,ikovacs3,23,Miskolc,HU,48.1117,20.7906,H-8867,Europe/Budapest
+18aa07e0-3d61-4d56-b623-4f0480160570,László,Nagy,laszlo.nagy@mailbox.hu,20/981 9602,lnagy2,80,Sopron,HU,47.6817,16.5845,H-3530,Europe/Budapest
+5b7d2fb2-054a-425a-a5ff-98b78ae4ba25,Patrik,Szilágyi,patrik.szilagyi@yahoo.com,(06)33/438-3640,pszilagyi,35,Miskolc,HU,48.1117,20.7906,H-9158,Europe/Budapest
+e1e5cbd8-7166-4835-b1db-d6d24cf34832,József,Tóth,jozsef.toth@gmail.com,06-9/117 9112,jtoth8,36,Budapest,HU,47.4979,19.0402,H-9678,Europe/Budapest
+e228b44c-9533-435a-9b4f-a9ab994304e8,András,Tóth,andras.toth@gmail.com,53/617-0617,atoth3,79,Kaposvár,HU,46.3590,17.7956,H-5511,Europe/Budapest
+e5a351e8-cf0f-4c71-af27-7c532ec8641b,Ilona,Szabó,ilona.szabo@freemail.hu,57/224-0299,iszabo4,72,Nagykanizsa,HU,46.6833,17.6356,H-4246,Europe/Budapest
+8bb345af-96b2-43d3-8f3c-783c70b0fc70,László,Borbély,laszlo.borbely@yahoo.com,99/802-8413,lborbely,56,Kecskemét,HU,46.8964,19.6897,H-2999,Europe/Budapest
+790cb33c-8a80-42a8-9629-cdc319cb350b,László,Nagy,laszlo.nagy@citromail.hu,06-23/513 0523,lnagy3,23,Szeged,HU,46.2530,20.1414,H-8523,Europe/Budapest
+981f7da5-df64-456a-ae7c-88cfc856aabc,Erika,Hegedüs,erika.hegedus@yahoo.com,(73)/158-4776,ehegedus,50,Kecskemét,HU,46.8964,19.6897,H-2002,Europe/Budapest
+cd168973-5c1b-4fd3-bc82-2466e116f4fd,Teréz,Pásztor,terez.pasztor@yahoo.com,(06)34/619-9423,tpasztor,79,Cegléd,HU,47.3495,19.8347,H-6963,Europe/Budapest
+61852514-19db-4257-83c2-778d875f23aa,Erika,Németh,erika.nemeth@freemail.hu,94/591-9663,enemeth5,54,Miskolc,HU,47.9025,19.6197,H-2875,Europe/Budapest
+d61a23cc-6321-4016-9676-ea354cf8ff74,Dániel,Hajdu,daniel.hajdu@mailbox.hu,+36 72 084-9649,dhajdu,70,Kecskemét,HU,46.8964,19.6897,H-1532,Europe/Budapest
+3f0f9060-68fa-4a03-afa6-3944161ba61f,Terézia,Novák,terezia.novak@citromail.hu,(60)/125-6253,tnovak,22,Budapest,HU,47.4979,19.0402,H-4613,Europe/Budapest
+b663b16b-4b0e-42f7-aacc-aff88503979f,Péter,Kiss,peter.kiss@hotmail.com,06-51/050 5379,pkiss,68,Kaposvár,HU,46.3590,17.7956,H-1144,Europe/Budapest
+a113fca2-f7cd-4215-8c48-8f8ede883731,Gyula,Szabó,gyula.szabo@gmail.com,49/383-1849,gszabo4,78,Miskolc,HU,48.1117,20.7906,H-7419,Europe/Budapest
+8412f07c-0860-4dba-96fa-ee9c063be2c4,Beáta,Illés,beata.illes@gmail.com,66/553 3077,billes,20,Kecskemét,HU,46.8964,19.6897,H-3941,Europe/Budapest
+69db80e0-12c3-43d3-a08e-46a22e1b5095,Györgyi,Molnár,gyorgyi.molnar@gmail.com,29/596-3904,gmolnar2,19,Kaposvár,HU,46.3590,17.7956,H-1367,Europe/Budapest
+dae72a91-d95d-459f-98ba-11bae6add3a0,Zsuzsanna,Pál,zsuzsanna.pal@gmail.com,42/608-8050,zpal2,22,Miskolc,HU,47.9025,19.6197,H-9069,Europe/Budapest
+feed2a85-0afb-4de2-9441-48dac2c5c790,Botond,Vincze,botond.vincze@freemail.hu,06-4/455 6185,bvincze,49,Miskolc,HU,48.1117,20.7906,H-4289,Europe/Budapest
+3e740348-24be-48b9-abeb-6534d6b691b9,Ilona,Kiss,ilona.kiss@indamail.hu,71/591-0300,ikiss6,26,Pécs,HU,46.0727,18.2323,H-1117,Europe/Budapest
+e02823e4-8ee0-4083-8cbc-e1ef5dd44140,János,Varga,janos.varga@indamail.hu,06-6/321 3580,jvarga2,77,Debrecen,HU,47.5316,21.6273,H-4037,Europe/Budapest
+2d163693-ff72-4700-8b4e-4eda9770010f,Ágnes,Nagy,agnes.nagy@mailbox.hu,+36 10 414-5964,anagy8,62,Budapest,HU,47.4979,19.0402,H-8184,Europe/Budapest
+5128656c-9ca7-4c3a-887f-097711eca062,Gábor,Tóth,gabor.toth@freemail.hu2,+36 25 296-7188,gtoth4,33,Veszprém,HU,47.0833,17.9167,H-8908,Europe/Budapest
+56dcd8b7-9e79-4af0-9487-0c9edbaf5691,Katalin,Gál,katalin.gal@yahoo.com,(73)/144-1583,kgal,60,Kecskemét,HU,46.8964,19.6897,H-8373,Europe/Budapest
+6455cdcb-f938-492b-9966-c6dbafad1f44,Zsuzsanna,Pál,zsuzsanna.pal@indamail.hu,+36 17 030-3763,zpal3,49,Kaposvár,HU,46.3590,17.7956,H-2692,Europe/Budapest
+437b487e-477d-4d87-99bb-bfe0ed4758ed,János,Szabó,janos.szabo@citromail.hu,06-88/547 2812,jszabo6,32,Kecskemét,HU,46.8964,19.6897,H-6927,Europe/Budapest
+fcfb760b-3820-4439-ad42-b2cc06a6610e,Gyöngyi,Kiss,gyongyi.kiss@freemail.hu,06-98/363 1462,gkiss4,61,Pécs,HU,46.0727,18.2323,H-7010,Europe/Budapest
+d72964a1-59d5-4924-bb06-13f67f70903c,György,Szőke,gyorgy.szoke@indamail.hu,+36 27 113-0724,gszoke,19,Budapest,HU,47.4979,19.0402,H-7977,Europe/Budapest
+21079292-944b-49b7-90d5-16bfb7a8c617,Szilárd,Takács,szilard.takacs@yahoo.com,(18)/156-3268,stakacs,45,Pécs,HU,46.0727,18.2323,H-1097,Europe/Budapest
+57e2eebb-43d1-44bd-87d7-d434f10a5d12,Mária,Nagy,maria.nagy@yahoo.com,(10)/663-4362,mnagy10,56,Budapest,HU,47.4979,19.0402,H-2832,Europe/Budapest
+8523edaf-8d3f-44e8-a082-dee847c3e996,Csaba,Rácz,csaba.racz@citromail.hu,10/313-1009,cracz,35,Miskolc,HU,47.9025,19.6197,H-7618,Europe/Budapest
+ef8e5670-1491-4c84-bf83-34449487c294,Zsolt,Takács,zsolt.takacs@yahoo.com,(06)96/661-3473,ztakacs2,28,Budapest,HU,47.4979,19.0402,H-7108,Europe/Budapest
+c9613c09-c742-4780-9d17-85fa1665c33a,Szilvia,Varga,szilvia.varga@yahoo.com,06-9/401 2897,svarga2,65,Sopron,HU,47.6817,16.5845,H-6370,Europe/Budapest
+a3cfee25-4930-48f8-9967-663696e81fd2,György,Jónás,gyorgy.jonas@hotmail.com,(06)51/225-7207,gjonas,45,Budapest,HU,47.4979,19.0402,H-8001,Europe/Budapest
+767dcadb-6086-4263-a726-42b7b3011b70,Róbert,Tóth,robert.toth@yahoo.com,+36 20 957-9073,rtoth,48,Budapest,HU,47.4979,19.0402,H-3221,Europe/Budapest
+08a807ec-ac3f-46f7-8fe8-56d177986a7a,János,Fülöp,janos.fulop@citromail.hu,06-4/388 2211,jfulop2,37,Szeged,HU,46.2530,20.1414,H-7839,Europe/Budapest
+8bc03aef-3730-4e1b-8898-fc52565b5f24,Márta,Varga,marta.varga@freemail.hu,06-5/847 4570,mvarga9,70,Budapest,HU,47.4979,19.0402,H-6101,Europe/Budapest
+9a0b0725-5cc0-4d52-b4d7-5d7a62142044,Dániel,Szalai,daniel.szalai@citromail.hu,06-97/148 0263,dszalai,60,Sopron,HU,47.6817,16.5845,H-2816,Europe/Budapest
+b2df3d31-a94a-4d3a-ae70-861c0cee1f98,Bettina,Varga,bettina.varga@gmail.com,(06)96/531-3614,bvarga3,74,Eger,HU,48.0000,20.7833,H-4491,Europe/Budapest
+204dfc53-29a3-4664-a75c-b67f04a6413b,Ilona,Juhász,ilona.juhasz@freemail.hu,24/556 9644,ijuhasz3,30,Budapest,HU,47.4979,19.0402,H-7769,Europe/Budapest
+0825d37c-2cea-4876-9144-a3339a2bc82f,István,Papp,istvan.papp@yahoo.com,06-91/679 5410,ipapp2,49,Esztergom,HU,47.7536,18.7997,H-8101,Europe/Budapest
+4c8803ed-d33a-4830-969c-f1e94c7c7e23,Jolán,Tóth,jolan.toth@indamail.hu,(06)84/982-4741,jtoth9,69,Pécs,HU,46.0727,18.2323,H-5116,Europe/Budapest
+c809b4c9-de12-44ac-860d-2863146eff2d,Lajos,Németh,lajos.nemeth@hotmail.com,(91)/074-0650,lnemeth,21,Győr,HU,47.6875,17.6504,H-3822,Europe/Budapest
+ca690f09-d58b-4040-9f37-87f9a9db4edd,Tibor,Varga,tibor.varga@yahoo.com,06-88/214 2369,tvarga,76,Miskolc,HU,47.9025,19.6197,H-2964,Europe/Budapest
+02d303e9-252b-48c2-8f77-5098d77eb4a4,József,Szabó,jozsef.szabo@freemail.hu,(36)/661-4494,jszabo7,29,Miskolc,HU,48.1117,20.7906,H-3958,Europe/Budapest
+4e5d0817-7bd0-4051-bf87-44aebbfce5b0,Erzsébet,Szűcs,erzsebet.szucs@yahoo.com,06-92/342 6834,eszucs2,37,Kaposvár,HU,46.3590,17.7956,H-7167,Europe/Budapest
+deff6303-94bd-475c-bbe0-4ab9ce0a4dc0,József,Lakatos,jozsef.lakatos@indamail.hu,82/661-2875,jlakatos,50,Szeged,HU,46.2530,20.1414,H-2170,Europe/Budapest
+af4de3a8-8ab3-4317-9146-c9170b4c07b3,Valéria,Szalai,valeria.szalai@freemail.hu,(67)/667-0806,vszalai,23,Nagykanizsa,HU,46.6833,17.6356,H-3544,Europe/Budapest
+c4b4bc16-5a45-4da6-be4c-eaece08159cb,Mónika,Rácz,monika.racz@yahoo.com,06-39/852 9894,mracz2,21,Miskolc,HU,48.1117,20.7906,H-7550,Europe/Budapest
+203030c7-8975-4a4f-947c-b55bc150533c,Mónika,Kiss,monika.kiss@freemail.hu,06-0/787 0104,mkiss9,71,Szeged,HU,46.2530,20.1414,H-5218,Europe/Budapest
+a94fa053-5db0-4473-aa92-4f6cad3aa51e,Júlia,Kovács,julia.kovacs@citromail.hu,+36 49 750-1980,jkovacs8,62,Kaposvár,HU,46.3590,17.7956,H-3548,Europe/Budapest
+52605270-6137-4e9b-9dc4-5335e972de94,Attila,Tóth,attila.toth@indamail.hu,23/244-0793,atoth4,25,Budapest,HU,47.4979,19.0402,H-6759,Europe/Budapest
+d1e3fe0d-bb14-499c-abea-55ab9224bcb9,József,Tóth,jozsef.toth@gmail.com2,13/317 0876,jtoth10,21,Nagykanizsa,HU,46.6833,17.6356,H-6024,Europe/Budapest
+7320270f-b524-4c14-9e6f-4d96da91d02a,Orsolya,Horváth,orsolya.horvath@freemail.hu,(06)38/497-9162,ohorvath,58,Szeged,HU,46.2530,20.1414,H-5263,Europe/Budapest
+7b07ee22-c487-428a-a58f-217d02522bff,László,Tóth,laszlo.toth@indamail.hu,06-3/288 3774,ltoth,36,Győr,HU,47.6875,17.6504,H-6231,Europe/Budapest
+67360381-4ac4-41ff-a5ab-5b207e80f098,Margit,Tamás,margit.tamas@freemail.hu,(46)/617-6620,mtamas,36,Kaposvár,HU,46.3590,17.7956,H-8548,Europe/Budapest
+8dbd0b4b-d0c1-4d79-9f14-a85b6be1ee8b,Barnabás,Lakatos,barnabas.lakatos@gmail.com,40/970 5277,blakatos2,35,Kecskemét,HU,46.8964,19.6897,H-8132,Europe/Budapest
+9df75294-6ea9-414f-9b17-e9e4d6adc22c,László,Tóth,laszlo.toth@citromail.hu,06-83/586 8122,ltoth2,40,Budapest,HU,47.4979,19.0402,H-3061,Europe/Budapest
+62539f5f-0593-4755-ace4-7a97148d028a,Zsuzsanna,Lakatos,zsuzsanna.lakatos@freemail.hu,06-2/446 1767,zlakatos,56,Cegléd,HU,47.3495,19.8347,H-4920,Europe/Budapest
+4ad8520f-195b-41af-ad7c-5638db749d70,Margit,Mészáros,margit.meszaros@citromail.hu,06-84/259 9599,mmeszaros3,71,Győr,HU,47.6875,17.6504,H-2867,Europe/Budapest
+ed307ad0-5f91-4a7a-9abf-f82be1c8a2c2,Gergő,Nagy,gergo.nagy@mailbox.hu,06-2/311 7753,gnagy3,80,Veszprém,HU,47.0833,17.9167,H-8448,Europe/Budapest
+8ce73f04-e2b7-47e5-aa9e-1084857891b2,Edit,Kozma,edit.kozma@mailbox.hu,(06)12/661-0941,ekozma,20,Sopron,HU,47.6817,16.5845,H-3287,Europe/Budapest
+fb457a46-1ca0-45dc-af2f-be2c9c77d0d5,Alexandra,Kovács,alexandra.kovacs@mailbox.hu,(90)/251-7629,akovacs9,53,Esztergom,HU,47.7536,18.7997,H-1739,Europe/Budapest
+70e75374-3024-4671-a488-6175c815b0ac,Attila,Szabó,attila.szabo@freemail.hu,06-4/332 6831,aszabo8,55,Budapest,HU,47.4979,19.0402,H-1496,Europe/Budapest
+a9a70a66-6ee6-4140-bdab-a6bd9e31754e,László,Nemes,laszlo.nemes@gmail.com,(06)02/056-9815,lnemes,29,Győr,HU,47.6875,17.6504,H-1966,Europe/Budapest
+dbff3732-b4ca-44c2-93ba-d84662e735df,Ágnes,Tamás,agnes.tamas@indamail.hu,06-8/733 9785,atamas,40,Veszprém,HU,47.0833,17.9167,H-8629,Europe/Budapest
+1429ecf3-dcb5-41cb-a626-f2b359e10621,Ilona,Lakatos,ilona.lakatos@hotmail.com,06-17/661 9128,ilakatos3,37,Veszprém,HU,47.0833,17.9167,H-1296,Europe/Budapest
+3850dd8e-16ba-4a1c-afc3-00409c46638e,János,Balogh,janos.balogh@gmail.com,85/034 4651,jbalogh4,73,Kaposvár,HU,46.3590,17.7956,H-5991,Europe/Budapest
+f6e7a0f4-0dab-4cdc-88ba-70693d8525fa,Réka,Balla,reka.balla@gmail.com,93/898 4690,rballa,52,Sopron,HU,47.6817,16.5845,H-1471,Europe/Budapest
+530f75d4-9a9e-464c-990b-2240103ce251,Andrea,Kovács,andrea.kovacs@freemail.hu,(00)/564-3502,akovacs10,31,Veszprém,HU,47.0833,17.9167,H-5954,Europe/Budapest
+b82123a7-920c-4b1d-b5e7-d54b63d754bf,Erzsébet,Gulyás,erzsebet.gulyas@mailbox.hu,06-0/371 9905,egulyas,80,Nagykanizsa,HU,46.6833,17.6356,H-6844,Europe/Budapest
+6156fa86-0f7e-433e-a04d-b55c6691e63d,József,Molnár,jozsef.molnar@indamail.hu,18/724 0107,jmolnar4,50,Sopron,HU,47.6817,16.5845,H-7577,Europe/Budapest
+ada95d03-df20-401c-b990-683659dfbffe,Tamás,Varga,tamas.varga@freemail.hu,(30)/003-8960,tvarga2,53,Cegléd,HU,47.3495,19.8347,H-2371,Europe/Budapest
+0cd818e5-2662-45ab-b94d-a163910f1937,Kornél,Kiss,kornel.kiss@freemail.hu,06-2/668 2171,kkiss3,75,Miskolc,HU,47.9025,19.6197,H-4427,Europe/Budapest
+4c819d70-d879-425a-9bd8-83ea74b4100c,Ilona,Halász,ilona.halasz@yahoo.com,(06)56/033-1903,ihalasz,44,Esztergom,HU,47.7536,18.7997,H-4287,Europe/Budapest
+170fd7af-d57f-4bae-bdcf-a9df3d19e088,Eszter,Bodnár,eszter.bodnar@mailbox.hu,90/030 1027,ebodnar2,29,Miskolc,HU,48.1117,20.7906,H-4227,Europe/Budapest
+23172ea3-954d-4d52-916d-e6d34ee79daf,Csaba,Horváth,csaba.horvath@citromail.hu,06-3/429 6711,chorvath2,22,Miskolc,HU,48.1117,20.7906,H-7654,Europe/Budapest
+a43aa53a-0988-4d59-a6d0-2ddd0efcde21,Tibor,Juhász,tibor.juhasz@freemail.hu,06-5/374 5843,tjuhasz,51,Miskolc,HU,48.1117,20.7906,H-9427,Europe/Budapest
+11e78e77-9ba9-4301-b29e-189758d13aaf,Renáta,Horváth,renata.horvath@citromail.hu,10/569 7413,rhorvath4,76,Nagykanizsa,HU,46.6833,17.6356,H-5946,Europe/Budapest
+326236c9-83df-4737-b02f-58f077d56cbe,Zoltán,Borbély,zoltan.borbely@hotmail.com,(83)/152-0377,zborbely,78,Cegléd,HU,47.3495,19.8347,H-5540,Europe/Budapest
+f53c5088-0341-4abb-aa69-35310979e6d2,János,Balogh,janos.balogh@gmail.com2,(49)/641-0496,jbalogh5,49,Győr,HU,47.6875,17.6504,H-1021,Europe/Budapest
+68b6b47f-9b99-4cb1-8d77-0d9116e6e6f0,László,Kiss,laszlo.kiss@freemail.hu,+36 33 626-8040,lkiss3,52,Nagykanizsa,HU,46.6833,17.6356,H-5366,Europe/Budapest
+d8094e91-606d-489b-a1dd-fd4da1ee11ba,Magdolna,Orbán,magdolna.orban@citromail.hu,06-54/930 5966,morban2,68,Miskolc,HU,47.9025,19.6197,H-5538,Europe/Budapest
+6e1cff20-7681-4b59-8b9e-543912f216da,Erika,Gulyás,erika.gulyas@gmail.com,06-18/648 7699,egulyas2,67,Esztergom,HU,47.7536,18.7997,H-3323,Europe/Budapest
+63ca87d3-55bc-4653-ab28-ff47b10dee31,Mária,Tóth,maria.toth@freemail.hu,32/044-1384,mtoth5,39,Pécs,HU,46.0727,18.2323,H-6335,Europe/Budapest
+1a32fb81-1857-4d78-a53b-aee723ee0c47,Katalin,Nagy,katalin.nagy@yahoo.com2,(44)/901-4954,knagy5,72,Veszprém,HU,47.0833,17.9167,H-7822,Europe/Budapest
+590fdb1e-9358-47ec-a077-28e626243811,Ferenc,Farkas,ferenc.farkas@freemail.hu,+36 70 578-3609,ffarkas2,78,Miskolc,HU,48.1117,20.7906,H-9965,Europe/Budapest
+831e0242-d4eb-4544-a933-069fc0aae9b4,József,Hajdu,jozsef.hajdu@citromail.hu,(17)/244-4723,jhajdu,58,Miskolc,HU,48.1117,20.7906,H-8549,Europe/Budapest
+570f73d4-c7a4-44b0-810b-3434cffca4b6,Ferenc,Vörös,ferenc.voros@indamail.hu,+36 31 028-7950,fvoros,53,Sopron,HU,47.6817,16.5845,H-3039,Europe/Budapest
+84171306-b229-45ec-8d70-1dc02475ad42,Julianna,Nagy,julianna.nagy@indamail.hu,(40)/580-9351,jnagy8,22,Esztergom,HU,47.7536,18.7997,H-1133,Europe/Budapest
+23550c0d-824e-404e-95f5-77342673e763,Mária,Kovács,maria.kovacs@gmail.com,(06)35/956-1642,mkovacs12,19,Miskolc,HU,48.1117,20.7906,H-8619,Europe/Budapest
+a6790ec1-adac-488a-bc5d-3fb1e10c461e,Mihály,Fazekas,mihaly.fazekas@yahoo.com,57/490-2504,mfazekas,77,Debrecen,HU,47.5316,21.6273,H-6770,Europe/Budapest
+610a4ec0-d1e7-43f9-9576-340e149597be,Sándor,Oláh,sandor.olah@gmail.com,35/889 5369,solah2,20,Debrecen,HU,47.5316,21.6273,H-5111,Europe/Budapest
+dd7e6f0b-9c95-4105-a0be-e16a1c51cf63,Zsuzsanna,Tóth,zsuzsanna.toth@mailbox.hu,06-1/139 8986,ztoth3,52,Miskolc,HU,47.9025,19.6197,H-9162,Europe/Budapest
+c36ebb31-1b9e-4819-9ef5-b195aed6af21,Krisztina,Pap,krisztina.pap@citromail.hu,06-09/788 7543,kpap2,71,Győr,HU,47.6875,17.6504,H-2539,Europe/Budapest
+9d060170-93de-4bd1-aa80-13ca115e7062,Katalin,Máté,katalin.mate@yahoo.com,(06)53/751-3765,kmate,23,Pécs,HU,46.0727,18.2323,H-3811,Europe/Budapest
+d7c4d80e-f021-4e72-a76e-41719bcda2ff,Dániel,Balogh,daniel.balogh@yahoo.com,06-7/937 6392,dbalogh,77,Miskolc,HU,47.9025,19.6197,H-9765,Europe/Budapest
+b57cb806-8c29-4239-a13b-659c7e3e089c,Mária,Balog,maria.balog@freemail.hu,06-9/294 4551,mbalog,23,Budapest,HU,47.4979,19.0402,H-2639,Europe/Budapest
+c89112eb-1fd9-4ef0-bd75-ec2e09af5bfa,Szabolcs,Balogh,szabolcs.balogh@hotmail.com,73/270 2164,sbalogh2,66,Kecskemét,HU,46.8964,19.6897,H-6057,Europe/Budapest
+b36a8d3c-2e0c-4ef6-ab55-1b5b81afdf48,Erzsébet,Dudás,erzsebet.dudas@indamail.hu,+36 20 602-1288,edudas2,76,Nagykanizsa,HU,46.6833,17.6356,H-3151,Europe/Budapest
+fea31167-9497-4393-8f25-a11286bbb150,Bence,Molnár,bence.molnar@hotmail.com,83/415-5999,bmolnar,24,Budapest,HU,47.4979,19.0402,H-9100,Europe/Budapest
+36101d60-a61a-4ca5-bd86-9a8bddfb1f93,Bettina,Nagy,bettina.nagy@indamail.hu,(76)/764-7229,bnagy3,76,Kaposvár,HU,46.3590,17.7956,H-5430,Europe/Budapest
+d1e0f860-13c6-4c9c-834b-705174cbcdbb,Piroska,Balogh,piroska.balogh@hotmail.com,+36 99 576-5728,pbalogh2,64,Budapest,HU,47.4979,19.0402,H-3773,Europe/Budapest
+b666b21d-86aa-4b53-bf5f-f327e1cc8ad7,Katalin,Virág,katalin.virag@gmail.com,(06)47/509-8898,kvirag2,72,Szeged,HU,46.2530,20.1414,H-1656,Europe/Budapest
+7ec25088-c71a-445c-8d90-84fc47c18a58,Jolán,Horváth,jolan.horvath@freemail.hu,(22)/036-8499,jhorvath3,38,Eger,HU,48.0000,20.7833,H-5276,Europe/Budapest
+7ce1deac-06f5-41c3-b617-798b3c10e964,János,Horváth,janos.horvath@gmail.com,(47)/732-4491,jhorvath4,77,Kaposvár,HU,46.3590,17.7956,H-4808,Europe/Budapest
+3fd682ac-264a-474b-9d61-6a6efe04b567,Tamás,Horváth,tamas.horvath@gmail.com3,(06)88/209-0883,thorvath5,18,Szeged,HU,46.2530,20.1414,H-7326,Europe/Budapest
+51f70933-619c-47d0-a690-7ac6d11b9b58,Adrián,Veres,adrian.veres@yahoo.com,(06)49/678-2741,averes,63,Miskolc,HU,48.1117,20.7906,H-8631,Europe/Budapest
+82ae07a1-4cb2-4d4c-9ae2-5e896652c570,Ildikó,Deák,ildiko.deak@freemail.hu,74/124-1513,ideak,64,Debrecen,HU,47.5316,21.6273,H-5310,Europe/Budapest
+e24b9d91-eeb5-46b3-8b92-44fe4e0b88e4,József,Tóth,jozsef.toth@yahoo.com,(78)/150-6185,jtoth11,30,Kecskemét,HU,46.8964,19.6897,H-6398,Europe/Budapest
+5fa92c67-c355-4e59-86a9-e09aac1e7fb1,Dóra,Gál,dora.gal@indamail.hu,+36 03 296-3347,dgal,27,Nagykanizsa,HU,46.6833,17.6356,H-8141,Europe/Budapest
+4d929cdd-585f-45cf-8a2c-292802e5e83e,Ottó,Tóth,otto.toth@freemail.hu,(23)/183-0617,ototh,53,Pécs,HU,46.0727,18.2323,H-3642,Europe/Budapest
+dd88ba9f-b754-4ec5-9dd7-e9c64ee3280a,Ilona,Szalai,ilona.szalai@gmail.com,49/693-5782,iszalai,74,Eger,HU,48.0000,20.7833,H-4064,Europe/Budapest
+fd67b1f7-d0d6-43fc-ab38-00629523ce69,Lajos,Szabó,lajos.szabo@yahoo.com,06-7/769 5874,lszabo5,24,Cegléd,HU,47.3495,19.8347,H-7143,Europe/Budapest
+7ee50910-36c8-4709-b208-6a83d5047ab8,Péter,Nemes,peter.nemes@mailbox.hu,06-46/753 6127,pnemes,79,Esztergom,HU,47.7536,18.7997,H-4816,Europe/Budapest
+06433448-3ef1-4a97-8ca8-a4f7856581c8,Gyula,Kovács,gyula.kovacs@indamail.hu,27/796-3044,gkovacs5,50,Kecskemét,HU,46.8964,19.6897,H-5289,Europe/Budapest
+819f0730-e7cd-4747-8ef8-3b10b8f3c4b1,Péter,Bálint,peter.balint@freemail.hu,+36 85 456-6766,pbalint,34,Nagykanizsa,HU,46.6833,17.6356,H-6405,Europe/Budapest
+04ce1fc8-d898-4a67-9bbb-6c4bedcb3cf9,Edina,Horváth,edina.horvath@indamail.hu,(06)50/476-3928,ehorvath5,31,Esztergom,HU,47.7536,18.7997,H-5743,Europe/Budapest
+b6282c32-f7a9-40cd-aa3c-90228b0b01d3,Gabriella,Kovács,gabriella.kovacs@citromail.hu,52/980 0615,gkovacs6,76,Esztergom,HU,47.7536,18.7997,H-5752,Europe/Budapest
+e141f3cf-2569-4e62-8b40-c67185dec712,Dániel,Jakab,daniel.jakab@gmail.com,06-0/835 8328,djakab,43,Miskolc,HU,48.1117,20.7906,H-9972,Europe/Budapest
+c0ceaca9-7bca-40a9-b572-b1e49c51c802,Csilla,Szabó,csilla.szabo@mailbox.hu,(06)55/638-3000,cszabo2,66,Kaposvár,HU,46.3590,17.7956,H-5597,Europe/Budapest
+60bd1902-6e35-475c-80c1-d1b7a796081a,Borbála,Kovács,borbala.kovacs@freemail.hu,06-70/244 0330,bkovacs4,35,Sopron,HU,47.6817,16.5845,H-9982,Europe/Budapest
+b7273068-caa3-414d-92cd-168904b941aa,Eszter,Orosz,eszter.orosz@freemail.hu,06-6/241 1186,eorosz,19,Szeged,HU,46.2530,20.1414,H-5554,Europe/Budapest
+b2acea7d-430c-4675-a3b5-07a36cd17117,László,Vincze,laszlo.vincze@citromail.hu,(06)19/639-4568,lvincze,65,Budapest,HU,47.4979,19.0402,H-5210,Europe/Budapest
+a0683217-f7a8-426c-b81a-cca39ccd4fab,László,Horváth,laszlo.horvath@hotmail.com,+36 49 764-6136,lhorvath3,53,Budapest,HU,47.4979,19.0402,H-2499,Europe/Budapest
+4c4b7af1-facd-46ca-874b-f8441c1d9c4e,Csaba,Horváth,csaba.horvath@indamail.hu,83/607 6581,chorvath3,46,Veszprém,HU,47.0833,17.9167,H-2177,Europe/Budapest
+55a89021-8a65-4bd1-8e6b-38eeb2a37049,Tamás,Kerekes,tamas.kerekes@freemail.hu,06-37/579 1452,tkerekes,69,Esztergom,HU,47.7536,18.7997,H-6453,Europe/Budapest
+82ea046a-347f-4bfe-b715-901f1f272c0e,Anna,Kovács,anna.kovacs@citromail.hu2,(06)37/931-2697,akovacs11,51,Eger,HU,48.0000,20.7833,H-1579,Europe/Budapest
+f25ed9e6-dfc3-4dd0-b42e-80c3029ffc3f,Erika,Lakatos,erika.lakatos@hotmail.com,+36 74 645-2059,elakatos2,56,Esztergom,HU,47.7536,18.7997,H-7626,Europe/Budapest
+4a1948e9-74a7-46e0-9a8b-22750c2f651d,Roland,Nagy,roland.nagy@indamail.hu,(06)87/875-3577,rnagy,50,Eger,HU,48.0000,20.7833,H-3339,Europe/Budapest
+db6a64f2-b172-4e55-86fd-6663b78dfeb4,Erzsébet,Biró,erzsebet.biro@indamail.hu,+36 16 162-0281,ebiro,28,Miskolc,HU,47.9025,19.6197,H-4002,Europe/Budapest
+07379463-40bd-4191-b160-b34c82a476ba,Attila,Szőke,attila.szoke@gmail.com,+36 67 287-2866,aszoke3,18,Kaposvár,HU,46.3590,17.7956,H-6539,Europe/Budapest
+fcb16aa4-6332-4127-b476-a570eb32079f,Lajos,Németh,lajos.nemeth@yahoo.com,06-4/859 5922,lnemeth2,36,Miskolc,HU,47.9025,19.6197,H-3563,Europe/Budapest
+b1023a56-34b3-4a1b-8398-1f56ada719c2,Mária,Szabó,maria.szabo@citromail.hu,06-5/894 7735,mszabo6,77,Kecskemét,HU,46.8964,19.6897,H-8312,Europe/Budapest
+0e6e33ca-5715-4c35-b7d6-097f8721e121,Eszter,Márton,eszter.marton@hotmail.com,(06)87/056-2271,emarton,80,Nagykanizsa,HU,46.6833,17.6356,H-6245,Europe/Budapest
+865662a0-f8de-40c9-a2d4-c21db9d0fb89,László,Fodor,laszlo.fodor@hotmail.com,06-1/875 1097,lfodor,56,Esztergom,HU,47.7536,18.7997,H-8013,Europe/Budapest
+3793572e-70e8-41f4-9820-661abd666250,Gábor,Varga,gabor.varga@citromail.hu,(06)50/344-6945,gvarga3,57,Debrecen,HU,47.5316,21.6273,H-2175,Europe/Budapest
+c98d6e76-6517-4096-9a60-7f810d08c375,Magdolna,Major,magdolna.major@citromail.hu,31/921 3424,mmajor,54,Debrecen,HU,47.5316,21.6273,H-8335,Europe/Budapest
+556dd5d6-4339-4c8c-80c8-c88a29a17be4,János,Kelemen,janos.kelemen@citromail.hu,06-6/599 9497,jkelemen,31,Esztergom,HU,47.7536,18.7997,H-4624,Europe/Budapest
+67a0fbaf-2503-4638-a000-ac71ebf41ee0,Gábor,Boros,gabor.boros@hotmail.com,+36 92 227-0510,gboros,26,Nagykanizsa,HU,46.6833,17.6356,H-3151,Europe/Budapest
+29a5c20e-5d43-44b4-9425-31e891aaa63f,Mária,Németh,maria.nemeth@indamail.hu2,54/813-8666,mnemeth4,63,Miskolc,HU,47.9025,19.6197,H-7944,Europe/Budapest
